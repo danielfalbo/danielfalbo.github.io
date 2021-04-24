@@ -1439,12 +1439,6 @@ quotes = [
     quote: "The opposite of love is not hate, it is indifference.",
     author: "Elie Wiesel",
   },
-  { quote: "Gbi de fer", author: "Gbi de fer" },
-  { quote: "Howa!", author: "Gbi de fer" },
-  { quote: "On va en France", author: "Gbi de fer" },
-  { quote: "Non, je vais pas!", author: "Gbi de fer" },
-  { quote: "Pourquoi?", author: "Gbi de fer" },
-  { quote: "Parce ki y a pas agouti là-bas!", author: "Gbi de fer" },
   {
     quote:
       "Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects innovants pour te distinguer des autres. Tu verras que tu te feras remarquer très facilement...",
