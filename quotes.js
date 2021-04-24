@@ -452,6 +452,11 @@ quotes = [
   },
   {
     quote:
+      "Whenever you teach you have the biggest responsibility in the planet. Either if you are teaching dance, science or to a kid to walk. Teaching is something bigger than the actual subject you are teaching. Teaching is the very inception to change. Teaching is extend the impact of your life trough time. If you teach to be eager without being greedy, if you teach to be humble without develop insecurity, if you teach to have vision without creating ambition, if you teach the right things to do without hiding the wrong you’ve done, If you discuss ideas without pushing yours into the others brain then the new generation can shape a future which is better than the present we made. No matter in which form we all have the role of a teacher for someone. I believe we can make it.",
+    author: "Alessandro Steri",
+  },
+  {
+    quote:
       "What I didn't understand was that the value of some new acquisition wasn't the difference between its retail price and what I paid for it. It was the value I derived from it. Stuff is an extremely illiquid asset. Unless you have some plan for selling that valuable thing you got so cheaply, what difference does it make what it's \"worth?\" The only way you're ever going to extract any value from it is to use it. And if you don't have any immediate use for it, you probably never will.",
     author: "Paul Graham",
   },
@@ -624,6 +629,11 @@ quotes = [
   },
   {
     quote:
+      "Quello che tutti gli artisti hanno in comune è la capacita di sognare, di avere una visione opaca ma concreta di quello che un giorno vorrebbero essere. Quella visione è la volontà con cui lottiamo ogni giorno per essere un passo più vicini di ieri al nostro sogno e un passo più lontani di quanto non saremo domani.",
+    author: "Alessandro Steri",
+  },
+  {
+    quote:
       "Pay attention to opportunity cost at all times. Doing one thing means not doing other things. This is a form of risk that is very easy to ignore, to your detriment.",
     author: "Marc Andreessen (http://blog.pmarca.com/)",
   },
@@ -636,6 +646,11 @@ quotes = [
     quote:
       "I think that a lot of programmers are ignoring an important point when people talk about reducing code repetition on large projects. Part of the idea is that large projects are intrinsically _wrong_. That you should be looking at making a number of smaller projects that are composable, even if you never end up reusing one of those smaller projects elsewhere.",
     author: "Dan Nugent",
+  },
+  {
+    quote:
+      "Students don't care how much you know, until they know how much you care...",
+    author: "John Maxwell",
   },
   {
     quote:
@@ -883,6 +898,11 @@ quotes = [
     quote:
       "Programming is the art of figuring out what you want so precisely that even a machine can do it.",
     author: "Some guy who isn't famous",
+  },
+  {
+    quote:
+      "Change happens when you have a dream first, you wake up with those butterflies that you don’t wanna let them go, YOU work your a*s off and your yesterday’s visions becomes your today’s plan and eventually your tomorrow’s memories.",
+    author: "Alessandro Steri",
   },
   {
     quote:
@@ -2171,6 +2191,11 @@ quotes = [
   },
   {
     quote:
+      "Non credo di aver mai avuto un weekend libero negli ultimi 10 anni, però tutto quello che facevo era appassionante. Quindi se per esempio avevo un weekend in Germania per uno stage oppure in America per fare una lezione, ero contento, ed anche se già il giorno dopo avevo una lezione all'università, anche quella mi piaceva. Questo non vuol dire che uno non si stanca, però la stanchezza fatta di cose che ti appassionano si recupera molto in fretta. L'importante è stancarsi per cose che si amano, ed allora lì la stanchezza non la senti.",
+    author: "Alessandro Steri",
+  },
+  {
+    quote:
       "The alternative to valued responsibility is impulsive low-class pleasure.",
     author: "Jordan Peterson",
   },
@@ -2334,8 +2359,8 @@ quotes = [
   { quote: "Play Stupid Games, Win Stupid Prizes", author: "unknown" },
   {
     quote:
-      "Never start a business just to make money.\nStart a business to make a difference.",
-    author: "Wealth Director on Twitter",
+      "Never start a business just to make money. Start a business to make a difference.",
+    author: "Marie Forleo",
   },
   {
     quote: "Unlike energy, creativity grows the more you use it.",
@@ -2349,7 +2374,7 @@ quotes = [
   {
     quote:
       "Measure your wealth by what you'd have left if you lost all your money.",
-    author: "Wealth Director on Twitter",
+    author: "@wealth_director on Twitter",
   },
   {
     quote: "Are you adding to the noise, or are you cutting through the noise?",
@@ -2365,7 +2390,7 @@ quotes = [
   },
   {
     quote: "Silence is a source of great strength.",
-    author: "Wealth Director on Twitter",
+    author: "Lao Tzu",
   },
   {
     quote: "Time spent has nothing to do with job done.",
@@ -2511,5 +2536,14 @@ quotes = [
     quote:
       "We didn't realize we were making memories, we just knew we were having fun",
     author: "Winnie the Pooh",
+  },
+  {
+    quote: "The best project you'll ever work on is yourself.",
+    author: "Sonny Franco",
+  },
+  {
+    quote:
+      "Investing should be more like watching paint dry of watching grass grow. If you want excitement, take $800 and go to Las Vegas.",
+    author: "Paul Samuelson",
   },
 ];
