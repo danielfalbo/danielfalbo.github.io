@@ -111,17 +111,17 @@ quotes = [
   },
   {
     quote:
-      "Einstein argued that there must be simplified explanations of nature, because\nGod is not capricious or arbitrary.",
+      "Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary.",
     author: "Frederick P. Brooks, No Sliver Bullet.",
   },
   {
     quote:
-      "Students should be evaluated on how well they can achieve the goals they\nstrived to achieve within a realistic context. Students need to learn to do\nthings, not know things.",
+      "Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things.",
     author: "Roger Schank, Engines for Education",
   },
   {
     quote:
-      "We remember what we learn when we care about performing better and when we\nbelieve that what we have been asked to do is representative of reality.",
+      "We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality.",
     author: "Roger Schank, Engines for Education",
   },
   {
@@ -130,17 +130,17 @@ quotes = [
   },
   {
     quote:
-      "We really have to get over the idea that some stuff is just worth knowing even\nif you never do anything with it. Human memories happily erase stuff that has\nno purpose, so why try to fill up children's heads with such stuff?",
+      "We really have to get over the idea that some stuff is just worth knowing even if you never do anything with it. Human memories happily erase stuff that has no purpose, so why try to fill up children's heads with such stuff?",
     author: "Roger Schank, Engines for Education",
   },
   {
     quote:
-      "La tactique, c'est ce que vous faites quand il y a quelque chose à faire; la\nstratégie, c'est ce que vous faites quand il n'y a rien à faire.",
+      "La tactique, c'est ce que vous faites quand il y a quelque chose à faire; la stratégie, c'est ce que vous faites quand il n'y a rien à faire.",
     author: "Xavier Tartacover",
   },
   {
     quote:
-      "The only problems we can really solve in a satisfactory manner are those that\nfinally admit a nicely factored solution.",
+      "The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution.",
     author: "E. W. Dijkstra, The humble programmer",
   },
   {
@@ -150,23 +150,23 @@ quotes = [
   },
   {
     quote:
-      "This challenge, viz. the confrontation with the programming task, is so unique\nthat this novel experience can teach us a lot about ourselves. It should deepen\nour understanding of the processes of design and creation, it should give us\nbetter control over the task of organizing our thoughts. If it did not do so,\nto my taste we should no deserve the computer at all! It has allready taught us\na few lessons, and the one I have chosen to stress in this talk is the\nfollowing. We shall do a much better programming job, provided that we approach\nthe task with a full appreciation of its tremenduous difficulty, provided that\nwe stick to modest and elegant programming languages, provided that we respect\nthe intrinsec limitations of the human mind and approach the task as Very\nHumble Programmers.",
+      "This challenge, viz. the confrontation with the programming task, is so unique that this novel experience can teach us a lot about ourselves. It should deepen our understanding of the processes of design and creation, it should give us better control over the task of organizing our thoughts. If it did not do so, to my taste we should no deserve the computer at all! It has allready taught us a few lessons, and the one I have chosen to stress in this talk is the following. We shall do a much better programming job, provided that we approach the task with a full appreciation of its tremenduous difficulty, provided that we stick to modest and elegant programming languages, provided that we respect the intrinsec limitations of the human mind and approach the task as Very Humble Programmers.",
     author: "E. W. Dijkstra, The humble programmer",
   },
   {
     quote:
-      "Ce n'est que par les relations qu'on entretient entre nos différentes\nconnaissances qu'elles nous restent accessibles.",
+      "Ce n'est que par les relations qu'on entretient entre nos différentes connaissances qu'elles nous restent accessibles.",
     author:
       "Shnuup, sur l'hypertexte (SELFHTML -> Introduction -> Definitions sur l'hypertexte)",
   },
   {
     quote:
-      "We now come to the decisive step of mathematical abstraction: we forget about\nwhat the symbols stand for. ...[The mathematician] need not be idle; there are\nmany operations which he may carry out with these symbols, without ever having\nto look at the things they stand for.",
+      "We now come to the decisive step of mathematical abstraction: we forget about what the symbols stand for. ...[The mathematician] need not be idle; there are many operations which he may carry out with these symbols, without ever having to look at the things they stand for.",
     author: "Hermann Weyl, The Mathematical Way of Thinking",
   },
   {
     quote:
-      'An expert is, according to my working definition "someone who doesn\'t need to\nlook up answers to easy questions".',
+      'An expert is, according to my working definition "someone who doesn\'t need to look up answers to easy questions".',
     author: "Eric Lippert.",
   },
   {
@@ -181,12 +181,12 @@ quotes = [
   },
   {
     quote:
-      'We control complexity by building abstractions that hide details when\nappropriate. We control complexity by establishing conventional interfaces that\nenable us to construct systems by combining standard, well-understood pieces in\na "mix and match" way. We control complexity by establishing new languages for\ndescribing a design, each of which emphasizes particular aspects of the design\nand deemphasizes others.',
+      'We control complexity by building abstractions that hide details when appropriate. We control complexity by establishing conventional interfaces that enable us to construct systems by combining standard, well-understood pieces in a "mix and match" way. We control complexity by establishing new languages for describing a design, each of which emphasizes particular aspects of the design and deemphasizes others.',
     author: "Alan J. Perlis",
   },
   {
     quote:
-      "The acts of the mind, wherein it exerts its power over simple ideas, are\nchiefly these three: 1. Combining several simple ideas into one compound one,\nand thus all complex ideas are made. 2. The second is bringing two ideas,\nwhether simple or complex, together, and setting them by one another so as to\ntake a view of them at once, without uniting them into one, by which it gets\nall its ideas of relations. 3. The third is separating them from all other\nideas that accompany them in their real existence: this is called abstraction,\nand thus all its general ideas are made.",
+      "The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.",
     author: "John Locke, An Essay Concerning Human Understanding (1690)",
   },
   {
@@ -196,7 +196,7 @@ quotes = [
   },
   {
     quote:
-      "An interpreter raises the machine to the level of the user program; a compiler\nlowers the user program to the level of the machine language.",
+      "An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language.",
     author: "SICP",
   },
   {
@@ -220,12 +220,12 @@ quotes = [
   },
   {
     quote:
-      "There are two ways of constructing a software design; one way is to make it so\nsimple that there are obviously no deficiencies, and the other way is to make\nit so complicated that there are no obvious deficiencies. The first method is\nfar more difficult.",
+      "There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
     author: "C. A. R. Hoare",
   },
   {
     quote:
-      "And if you go too far up, abstraction-wise, you run out of oxygen. Sometimes\nsmart thinkers just don't know when to stop, and they create these absurd,\nall-encompassing, high-level pictures of the universe that are all good and\nfine, but don't actually mean anything at all.",
+      "And if you go too far up, abstraction-wise, you run out of oxygen. Sometimes smart thinkers just don't know when to stop, and they create these absurd, all-encompassing, high-level pictures of the universe that are all good and fine, but don't actually mean anything at all.",
     author: "Joel Spolsky",
   },
   {
@@ -263,7 +263,7 @@ quotes = [
   },
   {
     quote:
-      "Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la\nfaire plus courte. (I have made this letter so long only because I did not have\nthe leisure to make it shorter.)",
+      "Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le loisir de la faire plus courte. (I have made this letter so long only because I did not have the leisure to make it shorter.)",
     author: "Blaise Pascal (Lettres Provinciales)",
   },
   {
@@ -273,17 +273,17 @@ quotes = [
   },
   {
     quote:
-      "Everybody makes their own fun. If you don't make it yourself, it ain't fun",
-    author: "it's entertainment.\n-- David Mamet (as relayed by Joss Whedon)",
+      "Everybody makes their own fun. If you don't make it yourself, it ain't fun, it's entertainment.",
+    author: "David Mamet (as relayed by Joss Whedon)",
   },
   {
     quote:
-      "If we wish to count lines of code, we should not regard them as _lines produced_ but as _lines spent_.",
+      "If we wish to count lines of code, we should not regard them as lines produced but as lines spent.",
     author: "Edsger Dijkstra",
   },
   {
     quote:
-      'Sometimes a man with too broad a perspective reveals himself as having no real\nperspective at all. A man who tries too hard to see every side may be a man who\nis trying to avoid choosing any side. A man who tries too hard to seek a deeper\ntruth may be trying to hide from the truth he already knows. That is not a sign\nof intellectual sophistication and "great thinking". It is a demonstration of\nmoral degeneracy and cowardice.',
+      'Sometimes a man with too broad a perspective reveals himself as having no real perspective at all. A man who tries too hard to see every side may be a man who is trying to avoid choosing any side. A man who tries too hard to seek a deeper truth may be trying to hide from the truth he already knows. That is not a sign of intellectual sophistication and "great thinking". It is a demonstration of moral degeneracy and cowardice.',
     author: "Steven Den Beste",
   },
   {
@@ -296,9 +296,9 @@ quotes = [
     author: "Galileo Galilei",
   },
   {
-    quote: "A society that puts equality",
-    author:
-      "in the sense of equality of outcome --\nahead of freedom will end up with neither equality nor freedom. The use\nof force to achieve equality will destroy freedom, and the force,\nintroduced for good purposes, will end up in the hands of people who use it to\npromote their own interests.\n-- Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)",
+    quote:
+      "A society that puts equality in the sense of equality of outcome ahead of freedom will end up with neither equality nor freedom. The use of force to achieve equality will destroy freedom, and the force, introduced for good purposes, will end up in the hands of people who use it to promote their own interests.",
+    author: "Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)",
   },
   {
     quote:
@@ -307,7 +307,7 @@ quotes = [
   },
   {
     quote:
-      "Of all tyrannies a tyranny sincerely exercised for the good of its victims may\nbe the most oppressive. It may be better to live under robber barons than under\nomnipotent moral busybodies, The robber baron's cruelty may sometimes sleep,\nhis cupidity may at some point be satiated; but those who torment us for own\ngood will torment us without end, for they do so with the approval of their own\nconscience.",
+      "Of all tyrannies a tyranny sincerely exercised for the good of its victims may be the most oppressive. It may be better to live under robber barons than under omnipotent moral busybodies, The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for own good will torment us without end, for they do so with the approval of their own conscience.",
     author: "C.S. Lewis",
   },
   {
@@ -327,8 +327,8 @@ quotes = [
     author: "Scott McKay",
   },
   {
-    quote: "Simplicity takes effor",
-    author: "genius, even.\n-- Paul Graham",
+    quote: "Simplicity takes effort -- genius, even.",
+    author: "Paul Graham",
   },
   { quote: "Show, don't tell.", author: "unknown" },
   {
@@ -347,7 +347,7 @@ quotes = [
   },
   {
     quote:
-      "Civilization advances by extending the number of important operations which we\ncan perform without thinking about them.",
+      "Civilization advances by extending the number of important operations which we can perform without thinking about them.",
     author: "Alfred North Whitehead (Introduction to Mathematics)",
   },
   {
@@ -356,13 +356,13 @@ quotes = [
   },
   {
     quote:
-      "The reason to do animation is caricature. Good caricature picks out the essense\nof the statement and removes everything else. It's not simply about reproducing\nreality; It's about bumping it up.",
+      "The reason to do animation is caricature. Good caricature picks out the essense of the statement and removes everything else. It's not simply about reproducing reality; It's about bumping it up.",
     author: "Brad Bird, writer and director, The Incredibles",
   },
   { quote: "Mistakes were made.", author: "Ronald Reagan" },
   {
     quote:
-      "I would rather be an optimist and be wrong than a pessimist who proves to be\nright. The former sometimes wins, but never the latter.",
+      "I would rather be an optimist and be wrong than a pessimist who proves to be right. The former sometimes wins, but never the latter.",
     author: '"Hoots"',
   },
   { quote: "What is truth?", author: "Pontius Pilate" },
@@ -373,17 +373,17 @@ quotes = [
   },
   {
     quote:
-      "Lisp is worth learning for the profound enlightenment experience you will have\nwhen you finally get it; that experience will make you a better programmer for\nthe rest of your days, even if you never actually use Lisp itself a lot.",
+      "Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.",
     author: "Eric S. Raymond",
   },
   {
     quote:
-      "Any sufficiently complicated C or Fortran program contains an ad hoc,\ninformally specified, bug-ridden, slow implementation of half of Common Lisp.",
+      "Any sufficiently complicated C or Fortran program contains an ad hoc, informally specified, bug-ridden, slow implementation of half of Common Lisp.",
     author: "Philip Greenspun (Greenspun's Tenth Rule)",
   },
   {
     quote:
-      'I was talking recently to a friend who teaches at MIT. His field is hot now and\nevery year he is inundated by applications from would-be graduate students. "A\nlot of them seem smart," he said. "What I can\'t tell is whether they have any\nkind of taste."',
+      'I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can\'t tell is whether they have any kind of taste."',
     author: "Paul Graham",
   },
   {
@@ -392,12 +392,12 @@ quotes = [
   },
   {
     quote:
-      "It's no trick for talented people to be interesting, but it's a gift to be\ninterested. We want an organization filled with interested people.",
+      "It's no trick for talented people to be interesting, but it's a gift to be interested. We want an organization filled with interested people.",
     author: "Randy S. Nelson (dean of Pixar University)",
   },
   {
     quote:
-      "Why teach drawing to accountants? Because drawing class doesn't just teach\npeople to draw. It teaches them to be more observant. There's no company on\nearth that wouldn't benefit from having people become more observant.",
+      "Why teach drawing to accountants? Because drawing class doesn't just teach people to draw. It teaches them to be more observant. There's no company on earth that wouldn't benefit from having people become more observant.",
     author: "Randy S. Nelson (dean of Pixar University)",
   },
   {
@@ -407,7 +407,7 @@ quotes = [
   },
   {
     quote:
-      "A designer knows he has arrived at perfection not when there is no longer\nanything to add, but when there is no longer anything to take away.",
+      "A designer knows he has arrived at perfection not when there is no longer anything to add, but when there is no longer anything to take away.",
     author: "Antoine de St Exupery.",
   },
   {
@@ -417,7 +417,7 @@ quotes = [
   },
   {
     quote:
-      "There are many ways to avoid success in life, but the most sure-fire just might\nbe procrastination.",
+      "There are many ways to avoid success in life, but the most sure-fire just might be procrastination.",
     author: "Hara Estroff Marano.",
   },
   { quote: "PI seconds is a nanocentury.", author: "[fact]" },
@@ -428,7 +428,7 @@ quotes = [
   },
   {
     quote:
-      "While I’ve always appreciated beautiful code, I share Jonathan’s concern about\nstudying it too much. I think studying beauty in music and painting has led us\nto modern classical music and painting that the majority of us just don’t get.\nBeauty can be seen when it emerges, but isn't something to strive for in\nisolation of a larger context. In the software world, the larger context would\nbe the utility of the software to the end user.",
+      "While I’ve always appreciated beautiful code, I share Jonathan’s concern about studying it too much. I think studying beauty in music and painting has led us to modern classical music and painting that the majority of us just don’t get. Beauty can be seen when it emerges, but isn't something to strive for in isolation of a larger context. In the software world, the larger context would be the utility of the software to the end user.",
     author: "[A comment on a blog]",
   },
   {
@@ -442,17 +442,17 @@ quotes = [
   },
   {
     quote:
-      "To do something well you have to love it. So to the extent you can preserve\nhacking as something you love, you're likely to do it well. Try to keep the\nsense of wonder you had about programming at age 14. If you're worried that\nyour current job is rotting your brain, it probably is.",
+      "To do something well you have to love it. So to the extent you can preserve hacking as something you love, you're likely to do it well. Try to keep the sense of wonder you had about programming at age 14. If you're worried that your current job is rotting your brain, it probably is.",
     author: "Paul Graham.",
   },
   {
     quote:
-      "'If you give him a penny for his thoughts, you'd get change.', 'Not the\nsharpest knife in the drawer.', 'A prime candidate for natural deselection.'",
+      "'If you give him a penny for his thoughts, you'd get change.', 'Not the sharpest knife in the drawer.', 'A prime candidate for natural deselection.'",
     author: "Ideas for flamewars",
   },
   {
     quote:
-      "What I didn't understand was that the value of some new acquisition wasn't the\ndifference between its retail price and what I paid for it. It was the value I\nderived from it. Stuff is an extremely illiquid asset. Unless you have some\nplan for selling that valuable thing you got so cheaply, what difference does\nit make what it's \"worth?\" The only way you're ever going to extract any value\nfrom it is to use it. And if you don't have any immediate use for it, you\nprobably never will.",
+      "What I didn't understand was that the value of some new acquisition wasn't the difference between its retail price and what I paid for it. It was the value I derived from it. Stuff is an extremely illiquid asset. Unless you have some plan for selling that valuable thing you got so cheaply, what difference does it make what it's \"worth?\" The only way you're ever going to extract any value from it is to use it. And if you don't have any immediate use for it, you probably never will.",
     author: "Paul Graham",
   },
   {
@@ -462,11 +462,11 @@ quotes = [
   {
     quote: "Humans aren't rational",
     author:
-      'they rationalize. And I don\'t just mean "some\nof them" or "other people". I\'m talking about everyone. We have a "logic\nengine" in our brains, but for the most part, it\'s not the one in the driver\'s\nseat -- instead it operates after the fact, generating\nrationalizations and excuses for our behavior.\n-- Paul Buchheit',
+      'they rationalize. And I don\'t just mean "some of them" or "other people". I\'m talking about everyone. We have a "logic engine" in our brains, but for the most part, it\'s not the one in the driver\'s seat -- instead it operates after the fact, generating rationalizations and excuses for our behavior. -- Paul Buchheit',
   },
   {
     quote:
-      "What do Americans look for in a car? I've heard many answers when I've asked\nthis question. The answers include excellent safety ratings, great gas mileage,\nhandling, and cornering ability, among others. I don't believe any of these.\nThat's because the first principle of the Culture Code is that the only\neffective way to understand what people truly mean is to ignore what they say.\nThis is not to suggest that people intentionally lie or misrepresent\nthemselves. What it means is that, when asked direct questions about their\ninterests and preferences, people tend to give answers they believe the\nquestioner wants to hear. Again, this is not because they intend to mislead. It\nis because people respond to these questions with their cortexes, the parts of\ntheir brains that control intelligence rather than emotion or instinct. They\nponder a question, they process a question, and when they deliver an answer, it\nis the product of deliberation. They believe they are telling the truth. A lie\ndetector would confirm this. In most cases, however, they aren't saying what\nthey mean.",
+      "What do Americans look for in a car? I've heard many answers when I've asked this question. The answers include excellent safety ratings, great gas mileage, handling, and cornering ability, among others. I don't believe any of these. That's because the first principle of the Culture Code is that the only effective way to understand what people truly mean is to ignore what they say. This is not to suggest that people intentionally lie or misrepresent themselves. What it means is that, when asked direct questions about their interests and preferences, people tend to give answers they believe the questioner wants to hear. Again, this is not because they intend to mislead. It is because people respond to these questions with their cortexes, the parts of their brains that control intelligence rather than emotion or instinct. They ponder a question, they process a question, and when they deliver an answer, it is the product of deliberation. They believe they are telling the truth. A lie detector would confirm this. In most cases, however, they aren't saying what they mean.",
     author: "The culture code.",
   },
   {
@@ -479,12 +479,12 @@ quotes = [
   },
   {
     quote:
-      "The lesson of the story might appear to be that self-interested and ambitious\npeople in power are often the cause of wastefulness in developing countries.\nBut self-interested and ambitious people are in positions of power, great and\nsmall, all over the world. In many places, they are restrained by the law, the\npress, and democratic opposition. Cameroon's tragedy is that there is nothing\nto hold self-interest in check.",
+      "The lesson of the story might appear to be that self-interested and ambitious people in power are often the cause of wastefulness in developing countries. But self-interested and ambitious people are in positions of power, great and small, all over the world. In many places, they are restrained by the law, the press, and democratic opposition. Cameroon's tragedy is that there is nothing to hold self-interest in check.",
     author: "Tim Harford",
   },
   {
     quote:
-      "To solve your problems you must learn new skills, adapt new thought patterns,\nand become a different person than you were before that problem. God has\ncrafted you for success. In the middle of every adversity lie your best\nopportunities. Discover it, build upon it and move forward in your journey to\nlive an extraordinary life. You owe it to yourself to live a great life. Don’t\nlet negative thoughts pull you down. Be grateful and open to learn and grow.",
+      "To solve your problems you must learn new skills, adapt new thought patterns, and become a different person than you were before that problem. God has crafted you for success. In the middle of every adversity lie your best opportunities. Discover it, build upon it and move forward in your journey to live an extraordinary life. You owe it to yourself to live a great life. Don’t let negative thoughts pull you down. Be grateful and open to learn and grow.",
     author: "http://secretsofstudying.com/",
   },
   { quote: "If there is a will, there is a way.", author: "unknown" },
@@ -495,22 +495,22 @@ quotes = [
   },
   {
     quote:
-      "Being a programmer is the same way. The only way to be a good programmer is to\nwrite code. When you realize you haven't been writing much code lately, and it\nseems like all you do is brag about code you wrote in the past, and people\nstart looking at you funny while you're shooting your mouth off, realize it's\nbecause they know. They might not even know they know, but they know. So, yes,\ndoing what you love brings success, and by all means, throw yourself a nice big\nparty, buy yourself a nice car, soak up the adulation of an adoring crowd. Then\nshut the fuck up and get back to work.",
+      "Being a programmer is the same way. The only way to be a good programmer is to write code. When you realize you haven't been writing much code lately, and it seems like all you do is brag about code you wrote in the past, and people start looking at you funny while you're shooting your mouth off, realize it's because they know. They might not even know they know, but they know. So, yes, doing what you love brings success, and by all means, throw yourself a nice big party, buy yourself a nice car, soak up the adulation of an adoring crowd. Then shut the fuck up and get back to work.",
     author: "Sincerity Theory",
   },
   {
     quote:
-      "Another feature about this guy is his low threshold of boredom. He'll pick up\non a task and work frantically at it, accomplishing wonders in a short time and\nthen get bored and drop it before its properly finished. He'll do nothing but\nstrum his guitar and lie around in bed for several days after. Thats also part\nof the pattern too; periods of frenetic activity followed by periods of\nmelancholia, withdrawal and inactivity. This is a bipolar personality.",
+      "Another feature about this guy is his low threshold of boredom. He'll pick up on a task and work frantically at it, accomplishing wonders in a short time and then get bored and drop it before its properly finished. He'll do nothing but strum his guitar and lie around in bed for several days after. Thats also part of the pattern too; periods of frenetic activity followed by periods of melancholia, withdrawal and inactivity. This is a bipolar personality.",
     author: "The bipolar lisp programmer",
   },
   {
     quote:
-      "My dream is that people adopt it on its own merits. We're not trying to bend\nRuby on Rails to fit the enterprise, we're encouraging enterprises to bend to\nRuby on Rails. Come if you like it, stay away if you don't. We're not going\nhead over heels to accommodate the enterprise or to lure them away from Java.\nThat's how you end up with Java, if you start bending to special interest groups.",
+      "My dream is that people adopt it on its own merits. We're not trying to bend Ruby on Rails to fit the enterprise, we're encouraging enterprises to bend to Ruby on Rails. Come if you like it, stay away if you don't. We're not going head over heels to accommodate the enterprise or to lure them away from Java. That's how you end up with Java, if you start bending to special interest groups.",
     author: "David Heinemeier Hansson (Ruby On Rails' creator)",
   },
   {
     quote:
-      'New eyes have X-ray vision. [someone that hasn\'t written it is more likely to\nspot the bug. "someone" can be you after a break]',
+      'New eyes have X-ray vision. [someone that hasn\'t written it is more likely to spot the bug. "someone" can be you after a break]',
     author: "William S. Annis",
   },
   {
@@ -520,12 +520,12 @@ quotes = [
   },
   {
     quote:
-      "So the mere constraint of staying in regular contact with us will push you to\nmake things happen, because otherwise you'll be embarrassed to tell us that you\nhaven't done anything new since the last time we talked.",
+      "So the mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.",
     author: "Paul Graham (a talk at Y Combinator, for startup creators).",
   },
   {
     quote:
-      "The choice of the university is mostly important for the piece of paper you get\nat the end. The education you get depends on you.",
+      "The choice of the university is mostly important for the piece of paper you get at the end. The education you get depends on you.",
     author: "Andreas Zwinkau",
   },
   {
@@ -535,12 +535,12 @@ quotes = [
   },
   {
     quote:
-      "Humans differ from animals to the degree that they are not merely an end result\nof their conditioning, but are able to reflect on their experiences and\nstrategies, and apply insight to make changes in the way they live to modify\nthe outcome.",
+      "Humans differ from animals to the degree that they are not merely an end result of their conditioning, but are able to reflect on their experiences and strategies, and apply insight to make changes in the way they live to modify the outcome.",
     author: 'SlideTrombone (comment on "Programming can ruin your life")',
   },
   {
     quote:
-      "As builders and creators finding the perfect solution should not be our main\ngoal. We should find the perfect problem.",
+      "As builders and creators finding the perfect solution should not be our main goal. We should find the perfect problem.",
     author: "Isaac (blog comment)",
   },
   {
@@ -554,33 +554,33 @@ quotes = [
   },
   {
     quote:
-      "I feel it is everybodies obligation to reach for the best in themselves and use\nthat for the interest of mankind.",
+      "I feel it is everybodies obligation to reach for the best in themselves and use that for the interest of mankind.",
     author:
       "Corneluis (comment on 'Are you going to change the world? (Really?)')",
   },
   {
     quote:
-      'Abstraction is a form of data compression: absolutely necessary, because human\nshort-term memory is so small, but the critically important aspect of\nabstraction is the algorithm that gets you from the name back to the\n"uncompressed" details.',
+      'Abstraction is a form of data compression: absolutely necessary, because human short-term memory is so small, but the critically important aspect of abstraction is the algorithm that gets you from the name back to the "uncompressed" details.',
     author: "Bruce Wilder (blog post comment)",
   },
   {
     quote:
-      "Have you ever noticed that when you sit down to write something, half the ideas\nthat end up in it are ones you thought of while writing it? The same thing\nhappens with software. Working to implement one idea gives you more ideas.",
+      "Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing it? The same thing happens with software. Working to implement one idea gives you more ideas.",
     author: "Paul Graham, The other road ahead.",
   },
   {
     quote:
-      "In general, we can think of data as defined by some collection of selectors and\nconstructors, together with specified conditions that these procedures must\nfulfill in order to be a valid representation.",
+      "In general, we can think of data as defined by some collection of selectors and constructors, together with specified conditions that these procedures must fulfill in order to be a valid representation.",
     author: "SICP, What is meant by data?",
   },
   {
     quote:
-      "Resume writing is just like dating, or applying for a bank loan, in that nobody\nwants you if you're desperate.",
+      "Resume writing is just like dating, or applying for a bank loan, in that nobody wants you if you're desperate.",
     author: "Steve Yegge.",
   },
   {
     quote:
-      "Mastering isn’t a survival instinct; it’s an urge to excel. Mastering is one of\nthe experiences that delineates us from animals. It is striving to be more\ntomorrow than we are today; to perfectly pitch the ball over home plate; to\ncraft the perfect sentence in an article; to open the oven and feel the warm,\nrichly-scented cloud telling you dinner is going to be absolutely\nextraordinary. We humans crave perfection, to be masters of our domain, to\ndistinguish ourselves by sheer skill and prowess.",
+      "Mastering isn’t a survival instinct; it’s an urge to excel. Mastering is one of the experiences that delineates us from animals. It is striving to be more tomorrow than we are today; to perfectly pitch the ball over home plate; to craft the perfect sentence in an article; to open the oven and feel the warm, richly-scented cloud telling you dinner is going to be absolutely extraordinary. We humans crave perfection, to be masters of our domain, to distinguish ourselves by sheer skill and prowess.",
     author: "Joesgoals.com",
   },
   {
@@ -589,22 +589,22 @@ quotes = [
   },
   {
     quote:
-      "Well then. How could you possibly live without automated refactoring tools? How\nelse could you coordinate the caterpillar-like motions of all Java’s identical\ntiny legs, its thousands of similar parts? I’ll tell you how: Ruby is a\nbutterfly.",
+      "Well then. How could you possibly live without automated refactoring tools? How else could you coordinate the caterpillar-like motions of all Java’s identical tiny legs, its thousands of similar parts? I’ll tell you how: Ruby is a butterfly.",
     author: "Stevey, Refactoring Trilogy, Part 1.",
   },
   {
     quote:
-      "You will never become a Great Programmer until you acknowledge that you will\nalways be a Terrible Programmer. You will remain a Great Programmer for only\nas long as you acknowledge that you are still a Terrible Programmer.",
+      "You will never become a Great Programmer until you acknowledge that you will always be a Terrible Programmer. You will remain a Great Programmer for only as long as you acknowledge that you are still a Terrible Programmer.",
     author: "Marc (http://kickin-the-darkness.blogspot.com/)",
   },
   {
     quote:
-      "If I tell you I'm good, you would probably think I'm boasting. If I tell you\nI'm no good, you know I'm lying.",
+      "If I tell you I'm good, you would probably think I'm boasting. If I tell you I'm no good, you know I'm lying.",
     author: "Bruce Lee",
   },
   {
     quote:
-      "Let me try to get this straight: Lisp is a language for describing algorithms.\nThis was JohnMcCarthy's original purpose, anyway: to build something more\nconvenient than a Turing machine. Lisp is not about file, socket or GUI\nprogramming - Lisp is about expressive power. (For example, you can design\nmultiple object systems for Lisp, in Lisp. Or implement the now-fashionable\nAOP. Or do arbitrary transformations on parsed source code.) If you don't value\nexpressive power, Lisp ain't for you. I, personally, would prefer Lisp to not\nbecome mainstream: this would necessarily involve a dumbing down.",
+      "Let me try to get this straight: Lisp is a language for describing algorithms. This was JohnMcCarthy's original purpose, anyway: to build something more convenient than a Turing machine. Lisp is not about file, socket or GUI programming - Lisp is about expressive power. (For example, you can design multiple object systems for Lisp, in Lisp. Or implement the now-fashionable AOP. Or do arbitrary transformations on parsed source code.) If you don't value expressive power, Lisp ain't for you. I, personally, would prefer Lisp to not become mainstream: this would necessarily involve a dumbing down.",
     author: "VladimirSlepnev",
   },
   {
@@ -649,7 +649,7 @@ quotes = [
   },
   {
     quote:
-      "I think the root of your mistake is saying that macros don't scale to larger\ngroups. The real truth is that macros don't scale to stupider groups.",
+      "I think the root of your mistake is saying that macros don't scale to larger groups. The real truth is that macros don't scale to stupider groups.",
     author: "Paul Graham, on the Lightweight Languages mailing list.",
   },
   {
@@ -659,7 +659,7 @@ quotes = [
   },
   {
     quote:
-      'Always dive down into a problem and get your hands on the deepest issue behind\nthe problem. All other considerations are to dismissed as "engineering\ndetails"; they can be sorted out after the basic problem has been solved.',
+      'Always dive down into a problem and get your hands on the deepest issue behind the problem. All other considerations are to dismissed as "engineering details"; they can be sorted out after the basic problem has been solved.',
     author: "Chris Crawford",
   },
   {
@@ -669,12 +669,12 @@ quotes = [
   },
   {
     quote:
-      "It is impossible to sharpen a pencil with a blunt axe. It is equally vain to\ntry to do it with ten blunt axes instead.",
+      "It is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.",
     author: "Edsger Dijkstra",
   },
   {
     quote:
-      "If we wish to count lines of code, we should not regard them as lines produced\nbut as lines spent.",
+      "If we wish to count lines of code, we should not regard them as lines produced but as lines spent.",
     author: "Edsger Dijkstra",
   },
   {
@@ -684,7 +684,7 @@ quotes = [
   },
   {
     quote:
-      "Getting back to failing early, I've learned it's important to completely fail.\nGet fired. Shoot the project, then burn its corpse. Melt the CVS repository and\nmicrowave the backup CDs. When things go wrong, I've often tried to play the\nhero from start to finish. Guess what? Some projects are doomed no matter what.\nSome need skills I don't possess. And some need a fresh face.",
+      "Getting back to failing early, I've learned it's important to completely fail. Get fired. Shoot the project, then burn its corpse. Melt the CVS repository and microwave the backup CDs. When things go wrong, I've often tried to play the hero from start to finish. Guess what? Some projects are doomed no matter what. Some need skills I don't possess. And some need a fresh face.",
     author: "Reginald Braithwaite",
   },
   {
@@ -694,7 +694,7 @@ quotes = [
   },
   {
     quote:
-      "The best people and organizations have the attitude of wisdom: the courage to\nact on what they know right now and the humility to change course when they\nfind better evidence. The quest for management magic and breakthrough ideas is\noverrated; being a master of the obvious is underrated. Jim Maloney is right:\nwork is an overrated activity.",
+      "The best people and organizations have the attitude of wisdom: the courage to act on what they know right now and the humility to change course when they find better evidence. The quest for management magic and breakthrough ideas is overrated; being a master of the obvious is underrated. Jim Maloney is right: work is an overrated activity.",
     author: "Bob Sutton",
   },
   {
@@ -704,7 +704,7 @@ quotes = [
   },
   {
     quote:
-      "Act from reason, and failure makes you rethink and study harder. Act from\nfaith, and failure makes you blame someone and push harder.",
+      "Act from reason, and failure makes you rethink and study harder. Act from faith, and failure makes you blame someone and push harder.",
     author: "Erik Naggum",
   },
   {
@@ -714,12 +714,12 @@ quotes = [
   },
   {
     quote:
-      "Something Confusing about \"Hard\": It's tempting to think that if it's hard,\nthen it's valuable. Most valuable things are hard. Most hard things are\ncompletely useless - (picture of someone smashing their head through concrete\nblocks kung-fu style). Hard DOES NOT EQUATE TO BEING valuable. Remember\nFriendster back in the day? You'd sign in, invite friends, have 25 friends, go\nto their profile, and then it'd show how you were connected to each one.\nThat's an impressive [some geeky CS jargon] Cone traversal of a tree - 100\nmillion string comparisons per page - it won't scale. Used to take a minute\nper page to load, and Friendster died a painful death. MySpace - not\ninterested in solving problems They use the shortcut of \"Miss Fitzpatrick is in\nyour extended network\" (i.e. even when you're not even signed up for MySpace)\nThey didn't solve the hard problem. But they make the more relevant assumption\nthat you want to be connected to hot women. [LOL] Shows Alexa graph showing\nthat in early 2005 Myspace took off, and quickly bypassed Friendster and never\nlooked back.",
+      "Something Confusing about \"Hard\": It's tempting to think that if it's hard, then it's valuable. Most valuable things are hard. Most hard things are completely useless - (picture of someone smashing their head through concrete blocks kung-fu style). Hard DOES NOT EQUATE TO BEING valuable. Remember Friendster back in the day? You'd sign in, invite friends, have 25 friends, go to their profile, and then it'd show how you were connected to each one. That's an impressive [some geeky CS jargon] Cone traversal of a tree - 100 million string comparisons per page - it won't scale. Used to take a minute per page to load, and Friendster died a painful death. MySpace - not interested in solving problems They use the shortcut of \"Miss Fitzpatrick is in your extended network\" (i.e. even when you're not even signed up for MySpace) They didn't solve the hard problem. But they make the more relevant assumption that you want to be connected to hot women. [LOL] Shows Alexa graph showing that in early 2005 Myspace took off, and quickly bypassed Friendster and never looked back.",
     author: "Max Levchin, PayPal founder, Talk at StartupSchool2007",
   },
   {
     quote:
-      "Quality of the people is better than the quality of the business idea. Crappy\npeople can screw up the best idea in the world.",
+      "Quality of the people is better than the quality of the business idea. Crappy people can screw up the best idea in the world.",
     author: "Hadi Partovi & Ali Partovi (iLike.com), Talk at StartupSchool2007",
   },
   {
@@ -752,7 +752,7 @@ quotes = [
   },
   {
     quote:
-      "In order to understand what another person is saying, you must assume that it\nis true and try to find out what it could be true of.",
+      "In order to understand what another person is saying, you must assume that it is true and try to find out what it could be true of.",
     author: "George Miller",
   },
   {
@@ -765,22 +765,22 @@ quotes = [
   },
   {
     quote:
-      "There is one meaning [for static in C]: a global variable that is invisible\noutside the current scope, be it a function or a file.",
+      "There is one meaning [for static in C]: a global variable that is invisible outside the current scope, be it a function or a file.",
     author: "Paolo Bonzini",
   },
   {
     quote:
-      "Processors don't get better so that they can have more free time. Processors\nget better so _you_ can have more free time.",
+      "Processors don't get better so that they can have more free time. Processors get better so _you_ can have more free time.",
     author: "LeCamarade (freeshells.ch)",
   },
   {
     quote:
-      'The venerable master Qc Na was walking with his student, Anton. Hoping to\nprompt the master into a discussion, Anton said "Master, I have heard that\nobjects are a very good thing - is this true?" Qc Na looked pityingly at his\nstudent and replied, "Foolish pupil - objects are merely a poor man\'s\nclosures." Chastised, Anton took his leave from his master and returned to his\ncell, intent on studying closures. He carefully read the entire "Lambda: The\nUltimate..." series of papers and its cousins, and implemented a small Scheme\ninterpreter with a closure-based object system. He learned much, and looked\nforward to informing his master of his progress. On his next walk with Qc Na,\nAnton attempted to impress his master by saying "Master, I have diligently\nstudied the matter, and now understand that objects are truly a poor man\'s\nclosures." Qc Na responded by hitting Anton with his stick, saying "When will\nyou learn? Closures are a poor man\'s object." At that moment, Anton became\nenlightened.',
+      'The venerable master Qc Na was walking with his student, Anton. Hoping to prompt the master into a discussion, Anton said "Master, I have heard that objects are a very good thing - is this true?" Qc Na looked pityingly at his student and replied, "Foolish pupil - objects are merely a poor man\'s closures." Chastised, Anton took his leave from his master and returned to his cell, intent on studying closures. He carefully read the entire "Lambda: The Ultimate..." series of papers and its cousins, and implemented a small Scheme interpreter with a closure-based object system. He learned much, and looked forward to informing his master of his progress. On his next walk with Qc Na, Anton attempted to impress his master by saying "Master, I have diligently studied the matter, and now understand that objects are truly a poor man\'s closures." Qc Na responded by hitting Anton with his stick, saying "When will you learn? Closures are a poor man\'s object." At that moment, Anton became enlightened.',
     author: "Anton van Straaten (Na = Norman Adams, Qa = Christian Queinnec)",
   },
   {
     quote:
-      "Understanding why C++ is the way it is helps a programmer use it well. A deep\nunderstanding of a tool is essential for an expert craftsman.",
+      "Understanding why C++ is the way it is helps a programmer use it well. A deep understanding of a tool is essential for an expert craftsman.",
     author: "Bjarne Stroustrap",
   },
   {
@@ -790,7 +790,7 @@ quotes = [
   },
   {
     quote:
-      "The minute you put the blame on someone else you’ve switch things from being a\nproblem you can control to a problem outside of your control.",
+      "The minute you put the blame on someone else you’ve switch things from being a problem you can control to a problem outside of your control.",
     author: "engtech (internetducttape.com)",
   },
   {
@@ -810,7 +810,7 @@ quotes = [
   },
   {
     quote:
-      "A tail call allows a function to return the result of another function without\nleaving an entry on the stack. Tail recursion is a specific case of tail\ncalling.",
+      "A tail call allows a function to return the result of another function without leaving an entry on the stack. Tail recursion is a specific case of tail calling.",
     author: "ASPN : Python Cookbook : Explicit Tail Call",
   },
   {
@@ -824,7 +824,7 @@ quotes = [
   },
   {
     quote:
-      "The problem is that Microsoft just has no taste. And I don't mean that in a\nsmall way, I mean that in a big way.",
+      "The problem is that Microsoft just has no taste. And I don't mean that in a small way, I mean that in a big way.",
     author: "Steve Jobs",
   },
   {
@@ -842,7 +842,7 @@ quotes = [
   },
   {
     quote:
-      "The proof is by reductio ad absurdum, and reductio ad absurdum, which Euclid\nloved so much, is one of a mathematician’s finest weapons. It is a far finer\ngambit than any chess gambit: a chess player may offer the sacrifice of a pawn\nor even a piece, but a mathematician offers the game.",
+      "The proof is by reductio ad absurdum, and reductio ad absurdum, which Euclid loved so much, is one of a mathematician’s finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer the sacrifice of a pawn or even a piece, but a mathematician offers the game.",
     author: "G. H. Hardy",
   },
   {
@@ -855,22 +855,22 @@ quotes = [
   },
   {
     quote:
-      "I'm always happy to trade performance for readability as long as the former\nisn't already scarce.",
+      "I'm always happy to trade performance for readability as long as the former isn't already scarce.",
     author: "Crayz (Commentor on blog.raganwald.com)",
   },
   {
     quote:
-      "The definition of insanity is doing the same thing over and over again and\nexpecting different results.",
+      "The definition of insanity is doing the same thing over and over again and expecting different results.",
     author: "Benjamin Franklin",
   },
   {
     quote:
-      "A no uttered from the deepest conviction is better than a yes merely uttered to\nplease or what is worse, to avoid trouble.",
+      "A no uttered from the deepest conviction is better than a yes merely uttered to please or what is worse, to avoid trouble.",
     author: "Mahatma Gandhi",
   },
   {
     quote:
-      'I think it is wise, and only honest, to warn you that my goal is immodest. It\nis not my purpose to "transfer knowledge" to you that, subsequently, you can\nforget again. My purpose is no less than to effectuate in each of you a\nnoticeable, irreversable change. I want you to gain, for the rest of your\nlives, the insight that beautiful proofs are not "found" by trial anf error but\nare the result of a consciously applied design discipline. I want you to raise\nyour quality standards. I mean, if 10 years from now, when you are doing\nsomething quick and dirty, you suddenly visualize that I am looking over your\nshoulders and say to yourself "Dijkstra would not have liked this", well, that\nwould be enough immortality for me.',
+      'I think it is wise, and only honest, to warn you that my goal is immodest. It is not my purpose to "transfer knowledge" to you that, subsequently, you can forget again. My purpose is no less than to effectuate in each of you a noticeable, irreversable change. I want you to gain, for the rest of your lives, the insight that beautiful proofs are not "found" by trial anf error but are the result of a consciously applied design discipline. I want you to raise your quality standards. I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.',
     author: "E. W. Dijkstra",
   },
   {
@@ -881,17 +881,17 @@ quotes = [
   },
   {
     quote:
-      "Programming is the art of figuring out what you want so precisely that even a\nmachine can do it.",
+      "Programming is the art of figuring out what you want so precisely that even a machine can do it.",
     author: "Some guy who isn't famous",
   },
   {
     quote:
-      "Hence my urgent advice to all of you to reject the morals of the bestseller\nsociety and to find, to start with, your reward in your own fun. This is quite\nfeasible, for the challenge of simplification is so fascinating that, if we do\nour job properly, we shall have the greatest fun in the world.",
+      "Hence my urgent advice to all of you to reject the morals of the bestseller society and to find, to start with, your reward in your own fun. This is quite feasible, for the challenge of simplification is so fascinating that, if we do our job properly, we shall have the greatest fun in the world.",
     author: "E. W. Dijkstra, On the nature of computing science.",
   },
   {
     quote:
-      "Remember: you are alone. Every time you can get help from someone, it is an\nopportunity: you should eagerly size it. But then, promptly return to normal\nmode: you are alone and you must be prepared to solve every problem yourself.",
+      "Remember: you are alone. Every time you can get help from someone, it is an opportunity: you should eagerly size it. But then, promptly return to normal mode: you are alone and you must be prepared to solve every problem yourself.",
     author: "Eric KEDJI",
   },
   {
@@ -900,12 +900,12 @@ quotes = [
   },
   {
     quote:
-      "Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But\nit is nicer to ordinary people.",
+      "Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But it is nicer to ordinary people.",
     author: "Matz, LL2",
   },
   {
     quote:
-      "C and Lisp stand at opposite ends of the spectrum; they're each great at what\nthe other one sucks at.",
+      "C and Lisp stand at opposite ends of the spectrum; they're each great at what the other one sucks at.",
     author: "Steve Yegge, Tour de Babel.",
   },
   {
@@ -915,12 +915,12 @@ quotes = [
   },
   {
     quote:
-      "To the optimist, the glass is half full. To the pessimist, the glass is half\nempty. To the engineer, the glass is twice as big as it needs to be.",
+      "To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be.",
     author: "author unknown (quoted in 'Robust Systems', Gerald Jay Suseman)",
   },
   {
     quote:
-      "It is practically impossible to teach good programming to students that have\nhad a prior exposure to BASIC: as potential programmers they are mentally\nmutilated beyond hope of regeneration.",
+      "It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.",
     author: "Edsger Dijkstra",
   },
   {
@@ -929,17 +929,17 @@ quotes = [
   },
   {
     quote:
-      "Rules of Optimization:\nRule 1: Don’t do it.\nRule 2 (for experts only): Don’t do it yet.",
+      "Rules of Optimization: Rule 1: Don’t do it. Rule 2 (for experts only): Don’t do it yet.",
     author: "M.A. Jackson",
   },
   {
     quote:
-      "More computing sins are committed in the name of efficiency (without\nnecessarily achieving it) than for any other single reason - including blind\nstupidity.",
+      "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.",
     author: "W.A. Wulf",
   },
   {
     quote:
-      "We should forget about small efficiencies, say about 97% of the time: premature\noptimization is the root of all evil.",
+      "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.",
     author: "Donald Knuth",
   },
   { quote: "The best is the enemy of the good.", author: "Voltaire" },
@@ -950,13 +950,13 @@ quotes = [
   },
   {
     quote:
-      "The president was visiting NASA headquarters and stopped to talk to a man who\nwas holding a mop. “And what do you do?” he asked. The man, a janitor, replied,\n“I’m helping to put a man on the moon, sir.”",
+      "The president was visiting NASA headquarters and stopped to talk to a man who was holding a mop. “And what do you do?” he asked. The man, a janitor, replied, “I’m helping to put a man on the moon, sir.”",
     author: "The little book of leadership",
   },
   { quote: "Only make new mistakes.", author: "Phil Dourado" },
   {
     quote:
-      "You can recognize truth by its beauty and simplicity.\nWhen you get it right, it is obvious that it is right.",
+      "You can recognize truth by its beauty and simplicity. When you get it right, it is obvious that it is right.",
     author: "Richard Feynman",
   },
   {
@@ -970,12 +970,12 @@ quotes = [
   },
   {
     quote:
-      "A guideline in the process of stepwise refinement should be the principle to\ndecompose decisions as much as possible, to untangle aspects which are only\nseemingly interdependent, and to defer those decisions which concern details of\nrepresentation as long as possible.",
+      "A guideline in the process of stepwise refinement should be the principle to decompose decisions as much as possible, to untangle aspects which are only seemingly interdependent, and to defer those decisions which concern details of representation as long as possible.",
     author: "Niklaus Wirth",
   },
   {
     quote:
-      "Vigorous writing is concise. A sentence should contain no unnecessary words, a\nparagraph no unnecessary sentences, for the same reason that a drawing should\nhave no unnecessary lines and a machine no unnecessary parts. This requires not\nthat the writer make all sentences short or avoid all detail and treat subjects\nonly in outline, but that every word tell.",
+      "Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all sentences short or avoid all detail and treat subjects only in outline, but that every word tell.",
     author: "William Strunk, Jr. (The Elements of Style)",
   },
   {
@@ -990,7 +990,7 @@ quotes = [
   },
   {
     quote:
-      "The purpose of abstraction is not to be vague, but to create a new semantic\nlevel in which one can be absolutely precise.",
+      "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.",
     author: "Edsger Dijkstra",
   },
   {
@@ -999,12 +999,12 @@ quotes = [
   },
   {
     quote:
-      "It’s hard to grasp abstractions if you don’t understand what they’re\nabstracting away from.",
+      "It’s hard to grasp abstractions if you don’t understand what they’re abstracting away from.",
     author: "Nathan Weizenbaum",
   },
   {
     quote:
-      'That is one of the most distinctive differences between school and the real\nworld: there is no reward for putting in a good effort. In fact, the whole\nconcept of a "good effort" is a fake idea adults invented to encourage kids. It\nis not found in nature.',
+      'That is one of the most distinctive differences between school and the real world: there is no reward for putting in a good effort. In fact, the whole concept of a "good effort" is a fake idea adults invented to encourage kids. It is not found in nature.',
     author: "Paul Graham",
   },
   {
@@ -1031,32 +1031,32 @@ quotes = [
   },
   {
     quote:
-      "Programmers are in a race with the Universe to create bigger and better\nidiot-proof programs, while the Universe is trying to create bigger and better\nidiots. So far the Universe is winning.",
+      "Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning.",
     author: "Rich Cook",
   },
   {
     quote:
-      "A hacker on a roll may be able to produce–in a period of a few months–something\nthat a small development group (say, 7-8 people) would have a hard time getting\ntogether over a year. IBM used to report that certain programmers might be as\nmuch as 100 times as productive as other workers, or more.",
+      "A hacker on a roll may be able to produce–in a period of a few months–something that a small development group (say, 7-8 people) would have a hard time getting together over a year. IBM used to report that certain programmers might be as much as 100 times as productive as other workers, or more.",
     author: "Peter Seebach",
   },
   {
     quote:
-      "The best programmers are not marginally better than merely good ones. They are\nan order-of-magnitude better, measured by whatever standard: conceptual\ncreativity, speed, ingenuity of design, or problem-solving ability.",
+      "The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.",
     author: "Randall E. Stross",
   },
   {
     quote:
-      "A great lathe operator commands several times the wage of an average lathe\noperator, but a great writer of software code is worth 10,000 times the price\nof an average software writer.",
+      "A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer.",
     author: "Bill Gates",
   },
   {
     quote:
-      "Measuring programming progress by lines of code is like measuring aircraft\nbuilding progress by weight.",
+      "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
     author: "Bill Gates",
   },
   {
     quote:
-      "First learn computer science and all the theory. Next develop a programming\nstyle. Then forget all that and just hack.",
+      "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.",
     author: "George Carrette",
   },
   {
@@ -1070,27 +1070,27 @@ quotes = [
   },
   {
     quote:
-      "Should array indices start at 0 or 1? My compromise of 0.5 was rejected\nwithout, I thought, proper consideration.",
+      "Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.",
     author: "Stan Kelly-Bootle",
   },
   {
     quote:
-      "The use of COBOL cripples the mind; its teaching should therefore be regarded\nas a criminal offense.",
+      "The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense.",
     author: "E.W. Dijkstra",
   },
   {
     quote:
-      "It is practically impossible to teach good programming style to students that\nhave had prior exposure to BASIC. As potential programmers, they are mentally\nmutilated beyond hope of regeneration.",
+      "It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.",
     author: "E. W. Dijkstra",
   },
   {
     quote:
-      "One of the main causes of the fall of the Roman Empire was that–lacking\nzero–they had no way to indicate successful termination of their C programs.",
+      "One of the main causes of the fall of the Roman Empire was that–lacking zero–they had no way to indicate successful termination of their C programs.",
     author: "Robert Firth",
   },
   {
     quote:
-      "Saying that Java is nice because it works on all OSes is like saying that anal\nsex is nice because it works on all genders.",
+      "Saying that Java is nice because it works on all OSes is like saying that anal sex is nice because it works on all genders.",
     author: "Alanna",
   },
   {
@@ -1104,7 +1104,7 @@ quotes = [
   },
   {
     quote:
-      "Any code of your own that you haven’t looked at for six or more months might as\nwell have been written by someone else.",
+      "Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.",
     author: "Eagleson’s Law",
   },
   {
@@ -1114,7 +1114,7 @@ quotes = [
   },
   {
     quote:
-      "Considering the current sad state of our computer programs, software\ndevelopment is clearly still a black art, and cannot yet be called an\nengineering discipline.",
+      "Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline.",
     author: "Bill Clinton",
   },
   {
@@ -1124,7 +1124,7 @@ quotes = [
   },
   {
     quote:
-      "Always code as if the guy who ends up maintaining your code will be a violent\npsychopath who knows where you live.",
+      "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
     author: "Martin Golding",
   },
   {
@@ -1137,7 +1137,7 @@ quotes = [
   },
   {
     quote:
-      "It would appear that we have reached the limits of what it is possible to\nachieve with computer technology, although one should be careful with such\nstatements, as they tend to sound pretty silly in 5 years.",
+      "It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.",
     author: "John Von Neumann, circa 1949",
   },
   {
@@ -1171,12 +1171,12 @@ quotes = [
   },
   {
     quote:
-      "Functional programming is like describing your problem to a mathematician.\nImperative programming is like giving instructions to an idiot.",
+      "Functional programming is like describing your problem to a mathematician. Imperative programming is like giving instructions to an idiot.",
     author: "arcus, #scheme on Freenode",
   },
   {
     quote:
-      "Its a shame that the students of our generation grew up with windows and mice\nbecause that tainted our mindset not to think in terms of powerful tools. Some\nof us are just so tainted that we will never recover.",
+      "Its a shame that the students of our generation grew up with windows and mice because that tainted our mindset not to think in terms of powerful tools. Some of us are just so tainted that we will never recover.",
     author: "Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp",
   },
   {
@@ -1190,47 +1190,47 @@ quotes = [
   },
   {
     quote:
-      "Many of life's failures are people who did not realize how close they were to\nsuccess when they gave up.",
+      "Many of life's failures are people who did not realize how close they were to success when they gave up.",
     author: "Thomas Edison",
   },
   {
     quote:
-      "You must always work not just within but below your means. If you can handle\nthree elements, handle only two. If you can handle ten, then handle five. In\nthat way the ones you do handle, you handle with more ease, more mastery and\nyou create a feeling of strength in reserve.",
+      "You must always work not just within but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle five. In that way the ones you do handle, you handle with more ease, more mastery and you create a feeling of strength in reserve.",
     author: "Pablo Picasso",
   },
   {
     quote:
-      "When you’ve got the code all ripped apart, it’s like a car that’s all\ndisassembled. You’ve got all the parts tying all over your garage and you have\nto replace the broken part or the car will never run. It’s not fun until the\ncode gets back to the baseline again.",
+      "When you’ve got the code all ripped apart, it’s like a car that’s all disassembled. You’ve got all the parts tying all over your garage and you have to replace the broken part or the car will never run. It’s not fun until the code gets back to the baseline again.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "Well, if you talk about programming to a group of programmers who use the same\nlanguage, they can become almost evangelistic about the language. They form a\ntight-knit community, hold to certain beliefs, and follow certain rules in\ntheir programming. It’s like a church with a programming language for a Bible.",
+      "Well, if you talk about programming to a group of programmers who use the same language, they can become almost evangelistic about the language. They form a tight-knit community, hold to certain beliefs, and follow certain rules in their programming. It’s like a church with a programming language for a Bible.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "It’s a problem if the design doesn’t let you add features at a later date. If\nyou have to redo a program, the hours you spend can cause you to lose your\ncompetitive edge. A flexible program demonstrates the difference between a good\ndesigner and someone who is just getting a piece of code out.",
+      "It’s a problem if the design doesn’t let you add features at a later date. If you have to redo a program, the hours you spend can cause you to lose your competitive edge. A flexible program demonstrates the difference between a good designer and someone who is just getting a piece of code out.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "[How friendly will this machine be?] Well, I don’t think it’s a matter of\nfriendliness, because ultimately if the program is going to accomplish anything\nof value, it will probably be relatively complex.",
+      "[How friendly will this machine be?] Well, I don’t think it’s a matter of friendliness, because ultimately if the program is going to accomplish anything of value, it will probably be relatively complex.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "Some people suggest that machines would be friendlier if input could be in a\nnatural language. But natural language is probably the worst kind of input\nbecause it can be quite ambiguous. The process of retrieving information from\nthe computer would be so time-consuming that you would be better off spending\nthat time getting the information directly from an expert.",
+      "Some people suggest that machines would be friendlier if input could be in a natural language. But natural language is probably the worst kind of input because it can be quite ambiguous. The process of retrieving information from the computer would be so time-consuming that you would be better off spending that time getting the information directly from an expert.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "The only way of discovering the limits of the possible is to venture a little\nway past them into the impossible.",
+      "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
     author: "Arthur C. Clarke",
   },
   {
@@ -1240,7 +1240,7 @@ quotes = [
   },
   {
     quote:
-      "That is the inevitable human response. We’re reluctant to believe that great\ndiscoveries are in the air. We want to believe that great discoveries are in\nour heads—and to each party in the multiple the presence of the other party is\ninvariably cause for suspicion.",
+      "That is the inevitable human response. We’re reluctant to believe that great discoveries are in the air. We want to believe that great discoveries are in our heads—and to each party in the multiple the presence of the other party is invariably cause for suspicion.",
     author: "Malcolm Gladwell, Who says big ideas are rare?",
   },
   {
@@ -1250,17 +1250,17 @@ quotes = [
   },
   {
     quote:
-      "A person won't become proficient at something until he or she has done it many\ntimes. In other words., if you want someone to be really good at building a\nsoftware system, he or she will have to have built 10 or more systems of that\ntype.",
+      "A person won't become proficient at something until he or she has done it many times. In other words., if you want someone to be really good at building a software system, he or she will have to have built 10 or more systems of that type.",
     author: "Philip Greenspun",
   },
   {
     quote:
-      "A person won't retain proficiency at a task unless he or she has at one time\nlearned to perform that task very rapidly. Learning research demonstrates that\nthe skills of people who become accurate but not fast deteriorate much sooner\nthan the skills of people who become both accurate and fast.",
+      "A person won't retain proficiency at a task unless he or she has at one time learned to perform that task very rapidly. Learning research demonstrates that the skills of people who become accurate but not fast deteriorate much sooner than the skills of people who become both accurate and fast.",
     author: "Philip Greenspun",
   },
   {
     quote:
-      "Training research shows that if you get speed now you can get quality later.\nBut if you don't get speed you will never get quality in the long run.",
+      "Training research shows that if you get speed now you can get quality later. But if you don't get speed you will never get quality in the long run.",
     author: "Philip Greenspun",
   },
   {
@@ -1270,22 +1270,22 @@ quotes = [
   },
   {
     quote:
-      "Wear your best for your execution and stand dignified. Your last recourse\nagainst randomness is how you act — if you can’t control outcomes, you can\ncontrol the elegance of your behaviour. You will always have the last word.",
+      "Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act — if you can’t control outcomes, you can control the elegance of your behaviour. You will always have the last word.",
     author: "Nassim Taleb",
   },
   {
     quote:
-      "The human brain starts working the moment you are born and never stops until\nyou stand up to speak in public.",
+      "The human brain starts working the moment you are born and never stops until you stand up to speak in public.",
     author: "Anonymous",
   },
   {
     quote:
-      "The trouble with the world is that the stupid are always cocksure and the\nintelligent are always filled with doubt.",
+      "The trouble with the world is that the stupid are always cocksure and the intelligent are always filled with doubt.",
     author: "Bertrand Russell",
   },
   {
     quote:
-      "Simple, clear purpose and principles give rise to complex, intelligent\nbehavior. Complex rules and regulations give rise to simple, stupid behavior.",
+      "Simple, clear purpose and principles give rise to complex, intelligent behavior. Complex rules and regulations give rise to simple, stupid behavior.",
     author: "Dee Hock, Birth of the Chaordic Age",
   },
   {
@@ -1295,17 +1295,17 @@ quotes = [
   },
   {
     quote:
-      "Functional programming is to algorithms as the ubiquitous little black dress is\nto women's fashion.",
+      "Functional programming is to algorithms as the ubiquitous little black dress is to women's fashion.",
     author: 'Mark Tarver (of "The bipolar Lisp programmer" fame)',
   },
   {
     quote:
-      "Java and C++ make you think that the new ideas are like the old ones. Java is\nthe most distressing thing to hit computing since MS-DOS.",
+      "Java and C++ make you think that the new ideas are like the old ones. Java is the most distressing thing to hit computing since MS-DOS.",
     author: "Alan Kay",
   },
   {
     quote:
-      "For complex systems, the compiler and development environment need to be in the\nsame language that its supporting. It's the only way to grow code.",
+      "For complex systems, the compiler and development environment need to be in the same language that its supporting. It's the only way to grow code.",
     author: "Alan Kay",
   },
   {
@@ -1338,7 +1338,7 @@ quotes = [
   },
   {
     quote:
-      "La haine est une liqueur précieuse, un poison plus cher que celui des Borgia, -\ncar il est fait avec notre sang, notre santé, notre sommeil, et les deux tiers\nde notre amour! Il faut en être avare!",
+      "La haine est une liqueur précieuse, un poison plus cher que celui des Borgia, - car il est fait avec notre sang, notre santé, notre sommeil, et les deux tiers de notre amour! Il faut en être avare!",
     author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
   },
   {
@@ -1353,7 +1353,7 @@ quotes = [
   },
   {
     quote:
-      "In OO, it's the data that is the \"important\" thing: you define the class which\ncontains member data, and only incidentally contains code for manipulating the\nobject. In FP, it's the code that's important: you define a function which\ncontains code for working with the data, and only incidentally define what the\ndata is.",
+      "In OO, it's the data that is the \"important\" thing: you define the class which contains member data, and only incidentally contains code for manipulating the object. In FP, it's the code that's important: you define a function which contains code for working with the data, and only incidentally define what the data is.",
     author: "almkgor, on reddit",
   },
   {
@@ -1363,7 +1363,7 @@ quotes = [
   },
   {
     quote:
-      "It was Edison who said ‘1% inspiration, 99% perspiration’. That may have been\ntrue a hundred years ago. These days it's ‘0.01% inspiration, 99.99%\nperspiration’, and the inspiration is the easy part.",
+      "It was Edison who said ‘1% inspiration, 99% perspiration’. That may have been true a hundred years ago. These days it's ‘0.01% inspiration, 99.99% perspiration’, and the inspiration is the easy part.",
     author: "Linux Torvalds",
   },
   {
@@ -1373,12 +1373,12 @@ quotes = [
   },
   {
     quote:
-      "No matter how much you plan you’re likely to get half wrong anyway. So don’t do\nthe ‘paralysis through analysis’ thing. That only slows progress and saps\nmorale.",
+      "No matter how much you plan you’re likely to get half wrong anyway. So don’t do the ‘paralysis through analysis’ thing. That only slows progress and saps morale.",
     author: "37 Signal, Getting real",
   },
   {
     quote:
-      "[Innovation] comes from saying no to 1,000 things to make sure we don’t get on\nthe wrong track or try to do too much. We’re always thinking about new markets\nwe could enter, but it’s only by saying no that you can concentrate on the\nthings that are really important.",
+      "[Innovation] comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.",
     author: "Steve Jobs",
   },
   {
@@ -1406,7 +1406,7 @@ quotes = [
   },
   {
     quote:
-      "Side projects are less masturbatory than reading RSS, often more useful than\nMobileMe, more educational than the comments on Reddit, and usually more fun\nthan listening to keynotes.",
+      "Side projects are less masturbatory than reading RSS, often more useful than MobileMe, more educational than the comments on Reddit, and usually more fun than listening to keynotes.",
     author: "Chris Wanstrath",
   },
   {
@@ -1419,7 +1419,7 @@ quotes = [
   },
   {
     quote:
-      'Workers of the world, the chains that bind you are not held in place by a\nruling class, a "superior" race, by society, the state, or a leader. They are\nheld in place by none other than yourself. Those who seek to exploit are not\nthemselves free, for they place no value in freedom. Who is it that really\nemploys you and commands you to pick up your daily load? And who is it that you\nallow to pass judgment on the adequacy of your toil? Who have you empowered to\ndangle the carrot before you and threaten with disapproval? Who, when you wake\neach morning, sends you off to what you call your work? Is there an "I want\nto" behind all your "I have to," or have you been so long forgotten to yourself\nthat "I want" exists only as an idea in your head? If you have disconnected\nfrom your soul\'s desire and are drowning in an ocean of "have to," then rise up\nand overthrow your master. Begin the journey toward emancipation. Work only in\nsuch a way that you are truly self-employed.',
+      'Workers of the world, the chains that bind you are not held in place by a ruling class, a "superior" race, by society, the state, or a leader. They are held in place by none other than yourself. Those who seek to exploit are not themselves free, for they place no value in freedom. Who is it that really employs you and commands you to pick up your daily load? And who is it that you allow to pass judgment on the adequacy of your toil? Who have you empowered to dangle the carrot before you and threaten with disapproval? Who, when you wake each morning, sends you off to what you call your work? Is there an "I want to" behind all your "I have to," or have you been so long forgotten to yourself that "I want" exists only as an idea in your head? If you have disconnected from your soul\'s desire and are drowning in an ocean of "have to," then rise up and overthrow your master. Begin the journey toward emancipation. Work only in such a way that you are truly self-employed.',
     author: "Tim Gallwey, The inner game of work",
   },
   {
@@ -1447,7 +1447,7 @@ quotes = [
   { quote: "Parce ki y a pas agouti là-bas!", author: "Gbi de fer" },
   {
     quote:
-      "Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects\ninnovants pour te distinguer des autres. Tu verras que tu te feras remarquer\ntrès facilement...",
+      "Ecoute, crois en ton projet... Implique toi à fond... Trouve des aspects innovants pour te distinguer des autres. Tu verras que tu te feras remarquer très facilement...",
     author: "Khaled Tangao",
   },
   {
@@ -1685,7 +1685,7 @@ quotes = [
   },
   {
     quote:
-      "You are here, and life exists and identity.\nThe powerful play goes on and you may contribute a verse.\nWhat will your verse be?",
+      "You are here, and life exists and identity. The powerful play goes on and you may contribute a verse. What will your verse be?",
     author: "Dead Poet's Society",
   },
   {
@@ -1793,7 +1793,7 @@ quotes = [
   },
   {
     quote:
-      "(1.00)³⁶⁵ = 1.00 (1.01)³⁶⁵ = 37.7\nVery small steps are better than doing nothing at all.",
+      "(1.00)³⁶⁵ = 1.00 (1.01)³⁶⁵ = 37.7 Very small steps are better than doing nothing at all.",
     author: "(source unknown)",
   },
   {
@@ -2117,7 +2117,7 @@ quotes = [
   { quote: "Wherever you go, there you are.", author: "Jon Kabbat Zinn" },
   {
     quote:
-      'CFO asks CEO: "What happens if we invest in developing out people and then they leave us?"\nCEO: "What happens if we don\'t, and they stay?"',
+      'CFO asks CEO: "What happens if we invest in developing out people and then they leave us?" CEO: "What happens if we don\'t, and they stay?"',
     author: "unknown",
   },
   {
@@ -2186,7 +2186,7 @@ quotes = [
   },
   {
     quote:
-      "How happy is the blameless vestal’s lot!\nThe world forgetting, by the world forgot.\nEternal sunshine of the spotless mind!\nEach pray’r accepted, and each wish resign’d",
+      "How happy is the blameless vestal’s lot! The world forgetting, by the world forgot. Eternal sunshine of the spotless mind! Each pray’r accepted, and each wish resign’d",
     author: "Alexander Pope",
   },
   {
@@ -2230,7 +2230,7 @@ quotes = [
   },
   {
     quote:
-      "Here's to the crazy ones.\nThe misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey push the human race forward.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
+      "Here's to the crazy ones.\n The misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey push the human race forward.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
     author: "Rob Siltanen",
   },
   {
@@ -2245,12 +2245,12 @@ quotes = [
   },
   {
     quote:
-      "If you treat an individual as he is, he will remain how he is. But if you\ntreat him as if he were what he ought to be and could be, he will become what\nhe ought to be and could be.",
+      "If you treat an individual as he is, he will remain how he is. But if you treat him as if he were what he ought to be and could be, he will become what he ought to be and could be.",
     author: "Johann Wolfgang von Goethe",
   },
   {
     quote:
-      "A man should hear a little music, read a little poetry, and see a fine\npicture every day of his life, in order that worldly cares may not obliterate\nthe sense of the beautiful which God has implanted in the human soul.",
+      "A man should hear a little music, read a little poetry, and see a fine picture every day of his life, in order that worldly cares may not obliterate the sense of the beautiful which God has implanted in the human soul.",
     author: "Johann Wolfgang von Goethe",
   },
   {
@@ -2272,7 +2272,7 @@ quotes = [
   },
   {
     quote:
-      "If you seek peace, be still.\nIf you seek wisdom, be silent.\nIf you seek love, be yourself.",
+      "If you seek peace, be still. If you seek wisdom, be silent. If you seek love, be yourself.",
     author: "@psychepage on instagram",
   },
   {
@@ -2458,7 +2458,7 @@ quotes = [
   },
   {
     quote:
-      "To avoid pain, they avoid pleasure.\nTo avoid death, they avoid life.",
+      "To avoid pain, they avoid pleasure.\n To avoid death, they avoid life.",
     author: "Osho",
   },
   {
