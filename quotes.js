@@ -465,9 +465,9 @@ const quotes = [
     author: "unknown",
   },
   {
-    quote: "Humans aren't rational",
-    author:
-      'they rationalize. And I don\'t just mean "some of them" or "other people". I\'m talking about everyone. We have a "logic engine" in our brains, but for the most part, it\'s not the one in the driver\'s seat -- instead it operates after the fact, generating rationalizations and excuses for our behavior. -- Paul Buchheit',
+    quote:
+      'Humans aren\'t rational they rationalize. And I don\'t just mean "some of them" or "other people". I\'m talking about everyone. We have a "logic engine" in our brains, but for the most part, it\'s not the one in the driver\'s seat -- instead it operates after the fact, generating rationalizations and excuses for our behavior.',
+    author: "Paul Buchheit",
   },
   {
     quote:
