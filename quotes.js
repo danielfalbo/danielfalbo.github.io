@@ -2546,4 +2546,9 @@ const quotes = [
       "Investing should be more like watching paint dry of watching grass grow. If you want excitement, take $800 and go to Las Vegas.",
     author: "Paul Samuelson",
   },
+  {
+    quote:
+      "People who are living far below their means enjoy a freedom that people busy upgrading their lifestyles just can’t fathom",
+    author: "Naval Ravikant",
+  },
 ];
