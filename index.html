@@ -13,6 +13,42 @@
 
     <script src="quotes.js"></script>
 
+    <style>
+      .wave {
+        animation-name: wave-animation;
+        animation-duration: 2.5s;
+        transform-origin: 70% 70%;
+        display: inline-block;
+      }
+
+      @keyframes wave-animation {
+        0% {
+          transform: rotate(0deg);
+        }
+        10% {
+          transform: rotate(14deg);
+        }
+        20% {
+          transform: rotate(-8deg);
+        }
+        30% {
+          transform: rotate(14deg);
+        }
+        40% {
+          transform: rotate(-4deg);
+        }
+        50% {
+          transform: rotate(10deg);
+        }
+        60% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(0deg);
+        }
+      }
+    </style>
+
     <title>Daniel Falbo</title>
   </head>
 
@@ -24,7 +60,9 @@
     ></script>
 
     <nav class="navbar m-3">
-      <h1 class="display-4">👋 Hi, I'm Daniel Falbo.</h1>
+      <h1 class="display-4">
+        <span class="wave">👋</span> Hi, I'm Daniel Falbo.
+      </h1>
 
       <a href="https://github.com/danielfalbo" target="_blank">
         <img src="github.png" style="max-width: 50px" />
