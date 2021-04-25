@@ -2556,4 +2556,10 @@ const quotes = [
       "Going to work isn't exactly like spending the day in a theme park, unless you work in a theme park.",
     author: "An article on studenthut.com",
   },
+  {
+    quote:
+      "The hard part wasn't going to prison. It was getting out and trying to be part of society again. Because at one time I was a contractor, I had four employees, a three-bedroom house, blah blah blah blah, and I had to lose it all to realize it was just stuff. When I discharged my sentence, February 11, 2011, I became a citizen again. Now I can go in and vote for the president, but I can't get a job here or there, and I can't have any apartments because they won't accept felons. I even went through an agency that took felons, and they'll give a pedophile an apartment before me because I had a drug charge. I wasn't even dealing drugs: I just had possession, but they're worried for anybody that had drugs that they could sell it in their apartments, and they won't give them one. They give pedophiles an apartment and not me because I had a drug felony. So the hard part was becoming part of society again. It's like they didn't want me to be part of their society anymore. So I just decided <<Fuck it! I'm going to sleep in a tent. I'm going to do what I love for a living, which is playing music. And if I make a little bit of money, I'd prefer to do what I love with passion rather than go back to contracts and try to make a lot of money and be part of a society that doesn't even want me anymore>>. Fuck them, you know, fuck society. That's what I feel.",
+    author:
+      'The guy from the viral YouTube video "Homeless guy spits some truth."',
+  },
 ];
