@@ -2551,4 +2551,9 @@ const quotes = [
       "People who are living far below their means enjoy a freedom that people busy upgrading their lifestyles just can’t fathom",
     author: "Naval Ravikant",
   },
+  {
+    quote:
+      "Going to work isn't exactly like spending the day in a theme park, unless you work in a theme park.",
+    author: "An article on studenthut.com",
+  },
 ];
