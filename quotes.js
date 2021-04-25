@@ -1,4 +1,4 @@
-quotes = [
+const quotes = [
   {
     quote: "[Monica] What day is it?\n[David] Today",
     author: "A.I. by Steven Spielberg",
