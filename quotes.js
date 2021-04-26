@@ -2562,4 +2562,9 @@ const quotes = [
     quote: "Love your neighbor as yourself.",
     author: "Jesus",
   },
+  {
+    quote:
+      "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic",
+    author: "Jarvis Johnson",
+  },
 ];
