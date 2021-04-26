@@ -2567,4 +2567,8 @@ const quotes = [
       "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic",
     author: "Jarvis Johnson",
   },
+  {
+    quote: "Art is a lie that reveals the truth",
+    author: "Picasso",
+  },
 ];
