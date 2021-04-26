@@ -2558,4 +2558,8 @@ const quotes = [
     author:
       'The guy from the viral YouTube video "Homeless guy spits some truth."',
   },
+  {
+    quote: "Love your neighbor as yourself.",
+    author: "Jesus",
+  },
 ];
