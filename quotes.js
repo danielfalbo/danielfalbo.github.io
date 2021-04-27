@@ -624,7 +624,7 @@ const quotes = [
   },
   {
     quote:
-      "Opportunities that present themselves to you are the consequence at least partially -- of being in the right place at the right time. They tend to present themselves when you're not expecting it -- and often when you are engaged in other activities that would seem to preclude you from pursuing them. And they come and go quickly -- if you don't jump all over an opportunity, someone else generally will and it will vanish.",
+      "Opportunities that present themselves to you are the consequence -- at least partially -- of being in the right place at the right time. They tend to present themselves when you're not expecting it -- and often when you are engaged in other activities that would seem to preclude you from pursuing them. And they come and go quickly -- if you don't jump all over an opportunity, someone else generally will and it will vanish.",
     author: "-- Marc Andreessen (http://blog.pmarca.com/)",
   },
   {
@@ -1933,7 +1933,7 @@ const quotes = [
   },
   {
     quote:
-      "Self-love is a sincere acceptance of the past an agreement to make the most of the present and a willingness to allow the best to occur in the future (wholehearted)",
+      "Self-love is a sincere acceptance of the past, an agreement to make the most of the present and a willingness to allow the best to occur in the future (wholehearted)",
     author: "yung pueblo",
   },
   {
@@ -2320,7 +2320,7 @@ const quotes = [
     author: "Craig Ferguson",
   },
   {
-    quote: "Elegance is not about being noticed, it's about being remembered",
+    quote: "Elegance is not about being noticed, it's about being remembered.",
     author: "Giorgio Armani",
   },
   {
@@ -2343,7 +2343,7 @@ const quotes = [
     author: "Random comment on YouTube",
   },
   {
-    quote: "Life is a constant war between mind and hearth",
+    quote: "Life is a constant war between mind and hearth.",
     author: "unknown",
   },
   { quote: "Flow is meditation while doing.", author: "Naval Rakikant" },
@@ -2381,7 +2381,7 @@ const quotes = [
     author: "Nassim Nicholas Taleb on Twitter",
   },
   {
-    quote: "The more silence you appreciate the more powerful you become",
+    quote: "The more silence you appreciate the more powerful you become.",
     author: "Nico James on Twitter",
   },
   {
@@ -2401,7 +2401,7 @@ const quotes = [
     author: "Thea Knobel on Twitter",
   },
   {
-    quote: "Read what you love until you love to read",
+    quote: "Read what you love until you love to read.",
     author: "Naval Ravikant",
   },
   {
@@ -2421,7 +2421,7 @@ const quotes = [
   { quote: "Anatt? : The self is an illusion", author: "Buddha" },
   { quote: "What we think, we become.", author: "Buddha" },
   {
-    quote: "Don't expect what you don't communicate",
+    quote: "Don't expect what you don't communicate.",
     author: "We're Not Really Strangers on Twitter",
   },
   {
@@ -2439,7 +2439,7 @@ const quotes = [
     author: "Naval Ravikant",
   },
   {
-    quote: "If you think of someone, let them know",
+    quote: "If you think of someone, let them know.",
     author: "@flcnhvy on Twitter",
   },
   {
@@ -2530,7 +2530,7 @@ const quotes = [
   },
   {
     quote:
-      "We didn't realize we were making memories, we just knew we were having fun",
+      "We didn't realize we were making memories, we just knew we were having fun.",
     author: "Winnie the Pooh",
   },
   {
@@ -2544,7 +2544,7 @@ const quotes = [
   },
   {
     quote:
-      "People who are living far below their means enjoy a freedom that people busy upgrading their lifestyles just can’t fathom",
+      "People who are living far below their means enjoy a freedom that people busy upgrading their lifestyles just can’t fathom.",
     author: "Naval Ravikant",
   },
   {
@@ -2564,11 +2564,11 @@ const quotes = [
   },
   {
     quote:
-      "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic",
+      "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic.",
     author: "Jarvis Johnson",
   },
   {
-    quote: "Art is a lie that reveals the truth",
+    quote: "Art is a lie that reveals the truth.",
     author: "Picasso",
   },
 ];
