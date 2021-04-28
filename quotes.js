@@ -625,7 +625,7 @@ const quotes = [
   {
     quote:
       "Opportunities that present themselves to you are the consequence -- at least partially -- of being in the right place at the right time. They tend to present themselves when you're not expecting it -- and often when you are engaged in other activities that would seem to preclude you from pursuing them. And they come and go quickly -- if you don't jump all over an opportunity, someone else generally will and it will vanish.",
-    author: "-- Marc Andreessen (http://blog.pmarca.com/)",
+    author: "Marc Andreessen (http://blog.pmarca.com/)",
   },
   {
     quote:
@@ -1803,7 +1803,7 @@ const quotes = [
   },
   {
     quote:
-      "(1.00)³⁶⁵ = 1.00 (1.01)³⁶⁵ = 37.7 Very small steps are better than doing nothing at all.",
+      "(1.00)³⁶⁵ = 1.00\n(1.01)³⁶⁵ = 37.7\nVery small steps are better than doing nothing at all.",
     author: "(source unknown)",
   },
   {
