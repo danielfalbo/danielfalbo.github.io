@@ -2571,4 +2571,8 @@ const quotes = [
     quote: "Art is a lie that reveals the truth.",
     author: "Picasso",
   },
+  {
+    quote: "You’re offended when you fear that it might be true.",
+    author: "Naval Ravikant",
+  },
 ];
