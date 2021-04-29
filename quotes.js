@@ -2575,4 +2575,26 @@ const quotes = [
     quote: "You’re offended when you fear that it might be true.",
     author: "Naval Ravikant",
   },
+  {
+    quote: "Vibes speak louder than words",
+    author: "Probably Gabby Bernstein",
+  },
+  {
+    quote:
+      "Rich is measured in $. Wealth is measured in time. Ho long you can survive without working is how wealthy you are. For example, most people think $1 million is rich but if you spend $100k a month, your wealth is only 10 months. Rich is some shit you can lose with a crazy summer and a drug habit",
+    author: "?",
+  },
+  {
+    quote:
+      "Without communication, there is no relationship. Without respect there is no love. Without trust, there's no reason to continue.",
+    author: "?",
+  },
+  {
+    quote: "What you deserve will always find its way in the end",
+    author: "?",
+  },
+  {
+    quote: "Discipline today leads to options tomorrow.",
+    author: "?",
+  },
 ];
