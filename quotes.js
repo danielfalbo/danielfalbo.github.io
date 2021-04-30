@@ -2636,4 +2636,8 @@ const quotes = [
     quote: "Social science is fake science.",
     author: "Naval Ravikant",
   },
+  {
+    quote: "Life is a comedy to those who think, a tragedy to those who feel.",
+    author: "Jean Racine",
+  },
 ];
