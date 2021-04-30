@@ -2597,4 +2597,43 @@ const quotes = [
     quote: "Discipline today leads to options tomorrow.",
     author: "?",
   },
+  {
+    quote: "Escape competition through authenticity.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "Be teachable! You're not always right. Humility is necessary for growth!",
+    author: "Richard Feynman",
+  },
+  {
+    quote:
+      "When you have exhausted all possibilities, remember this - you haven't.",
+    author: "Thomas Edison",
+  },
+  {
+    quote: "The less scheduled you are, the more creative you’re going to be.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "If you create it for yourself, it's art.\n If you create it for others, it's business.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote: "Be - don't try to become.",
+    author: "Osho",
+  },
+  {
+    quote: "Adults play characters.\nChildren only play.",
+    author: "@zen_fi on Twitter",
+  },
+  {
+    quote: "Your consistency can beat any talent. Don't let it down.",
+    author: "@Wealthy_Brains on Twitter",
+  },
+  {
+    quote: "Social science is fake science.",
+    author: "Naval Ravikant",
+  },
 ];
