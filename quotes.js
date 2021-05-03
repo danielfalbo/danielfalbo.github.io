@@ -2640,4 +2640,12 @@ const quotes = [
     quote: "Life is a comedy to those who think, a tragedy to those who feel.",
     author: "Jean Racine",
   },
+  {
+    quote: "Excitement fades, but the value remains.",
+    author: "Matt D'Avella"
+  },
+  {
+    quote: "Anything that just costs money is cheap.",
+    author: "John Steinbeck"
+  }
 ];
