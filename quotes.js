@@ -2642,10 +2642,15 @@ const quotes = [
   },
   {
     quote: "Excitement fades, but the value remains.",
-    author: "Matt D'Avella"
+    author: "Matt D'Avella",
   },
   {
     quote: "Anything that just costs money is cheap.",
-    author: "John Steinbeck"
-  }
+    author: "John Steinbeck",
+  },
+  {
+    quote:
+      "Anger is a big part of the formula, for passion is anger and love combined",
+    author: "Robert Kiyosaki",
+  },
 ];
