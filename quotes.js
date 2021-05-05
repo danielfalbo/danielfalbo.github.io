@@ -2657,4 +2657,9 @@ const quotes = [
     quote: "Computers are like a bicycle for our minds.",
     author: "Steve Jobs",
   },
+  {
+    quote:
+      "Success is never owned, it is rented, and the rent is due every day.",
+    author: "Rory Vaden",
+  },
 ];
