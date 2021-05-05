@@ -2653,4 +2653,8 @@ const quotes = [
       "Anger is a big part of the formula, for passion is anger and love combined",
     author: "Robert Kiyosaki",
   },
+  {
+    quote: "Computers are like a bicycle for our minds.",
+    author: "Steve Jobs",
+  },
 ];
