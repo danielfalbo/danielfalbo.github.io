@@ -2672,4 +2672,43 @@ const quotes = [
       "When force of circumstance upsets your equanimity, lose no time in recovering your self-control, and do not remain out of tune longer than you can help. Habitual recurrence to the harmony will increase you mastery of it.",
     author: "Marcus Aurelius",
   },
+  {
+    quote:
+      "A gift consists not in what is done or given, but in the intention of the giver or doer.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "God never tries of forgiving us; we are the ones who tire of seeking his mercy.",
+    author: "Pope Francis",
+  },
+  {
+    quote:
+      "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "Happiness and freedom begin with a clear understanding of one principle: some things are within our control, and some things are not.",
+    author: "Epictetus",
+  },
+  {
+    quote:
+      "It is not events that disturb people, it is their judgements concerning them.",
+    author: "Epictetus",
+  },
+  {
+    quote: "We suffer more in imagination than in reality",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "If you would not have a man flinch when the crisis comes, train him before it comes.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "When you're alone you should call this condition tranquillity and freedom, and think of yourself like the gods; and when you are with many, you shouldn't call it a crowd, or trouble, or uneasiness, but festival and company, and contentedly accept it.",
+    author: "Epictetus",
+  },
 ];
