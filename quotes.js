@@ -2711,4 +2711,9 @@ const quotes = [
       "When you're alone you should call this condition tranquillity and freedom, and think of yourself like the gods; and when you are with many, you shouldn't call it a crowd, or trouble, or uneasiness, but festival and company, and contentedly accept it.",
     author: "Epictetus",
   },
+  {
+    quote:
+      "Life's most persistent and urgent question is, 'What are you doing for others?'",
+    author: "Martin Luther King",
+  },
 ];
