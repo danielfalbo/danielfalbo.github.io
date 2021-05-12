@@ -2716,4 +2716,9 @@ const quotes = [
       "Life's most persistent and urgent question is, 'What are you doing for others?'",
     author: "Martin Luther King",
   },
+  {
+    quote:
+      "Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself.",
+    author: "Naval Ravikant",
+  },
 ];
