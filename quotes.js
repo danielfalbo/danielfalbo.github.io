@@ -2735,4 +2735,9 @@ const quotes = [
       "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves.",
     author: "Nisargadatta Maharaj",
   },
+  {
+    quote:
+      "Two possibilities exist: either we are alone in the universe, or we are not. Both are equally terrifying.",
+    author: "Arthur C. Clarke",
+  },
 ];
