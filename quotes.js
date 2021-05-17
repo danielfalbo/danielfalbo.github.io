@@ -2725,4 +2725,14 @@ const quotes = [
     quote: "Passion doesn’t pay bills, customers do.",
     author: "unknown",
   },
+  {
+    quote:
+      "The most important decision we make is wheter we believe we live in a friendly or hostile universe.",
+    author: "Albert Einstein",
+  },
+  {
+    quote:
+      "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves.",
+    author: "Nisargadatta Maharaj",
+  },
 ];
