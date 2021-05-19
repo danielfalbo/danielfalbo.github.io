@@ -2740,4 +2740,8 @@ const quotes = [
       "Two possibilities exist: either we are alone in the universe, or we are not. Both are equally terrifying.",
     author: "Arthur C. Clarke",
   },
+  {
+    quote: "It is a rough road that leads to the heights of greatness.",
+    author: "Seneca"
+  }
 ];
