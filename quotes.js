@@ -2742,6 +2742,6 @@ const quotes = [
   },
   {
     quote: "It is a rough road that leads to the heights of greatness.",
-    author: "Seneca"
-  }
+    author: "Seneca",
+  },
 ];
