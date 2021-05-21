@@ -2744,4 +2744,9 @@ const quotes = [
     quote: "It is a rough road that leads to the heights of greatness.",
     author: "Seneca",
   },
+  {
+    quote:
+      "O Divine Providence, I ask not for more riches but more wisdom with which to make wiser use of the riches you gave me at birth, consisting in the power to control and direct my own mind to whatever ends I might desire.",
+    author: "Napoleon Hill",
+  },
 ];
