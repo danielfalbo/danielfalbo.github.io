@@ -2749,4 +2749,14 @@ const quotes = [
       "O Divine Providence, I ask not for more riches but more wisdom with which to make wiser use of the riches you gave me at birth, consisting in the power to control and direct my own mind to whatever ends I might desire.",
     author: "Napoleon Hill",
   },
+  {
+    quote:
+      "This may be the last generation that has a powerful tool like the Internet, and the focused attention span to do deep work.",
+    author: "Naval",
+  },
+  {
+    quote:
+      "If you were a character in a book, what would your readers be yelling at you to do?",
+    author: "Eliexer Yudkowsky on Twitter",
+  },
 ];
