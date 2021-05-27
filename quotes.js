@@ -2759,4 +2759,232 @@ const quotes = [
       "If you were a character in a book, what would your readers be yelling at you to do?",
     author: "Eliexer Yudkowsky on Twitter",
   },
+  {
+    quote: "The less confident you are, the more serious you have to act.",
+    author: "Tara Ploughman",
+  },
+  {
+    quote:
+      "The condition of man is already close to satiety and arrogance, and there is danger of destruction of everything in existence.",
+    author: "a Brahmin to Onesicritus, 327 BC, reported in Strabo's Geography",
+  },
+  {
+    quote: "Change breaks the brittle.",
+    author: "Jan Houtema",
+  },
+  {
+    quote:
+      "The sons of Hermes love to play,\nAnd only do their best when they\nAre told they oughtn't;\nApollo's children never shrink\nFrom boring jobs but have to think\nTheir work important.",
+    author: "W. H. Auden, Under Which Lyre",
+  },
+  {
+    quote:
+      "Programs must be written for people to read, and only incidentally for machines to execute.",
+    author: "Abelson & Sussman, SICP, preface to the first edition",
+  },
+  {
+    quote:
+      "That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.",
+    author: "George Boole, quoted in Iverson's Turing Award Lecture",
+  },
+  {
+    quote: "Short words are best and the old words when short are best of all.",
+    author: "Winston Churchill",
+  },
+  {
+    quote:
+      "Many big people were chasing me. I didn't know what to do. So I thought I would surprise them and throw it.",
+    author:
+      "Garo Yepremian, Miami placekicker, after a disastrous attempt to throw a pass in the Super Bowl.",
+  },
+  {
+    quote:
+      "That book is good in vain which the reader throws away. He only is the master who keeps the mind in pleasing captivity; whose pages are perused with eagerness, and in hope of new pleasure are perused again; and whose conclusion is perceived with an eye of sorrow, such as the traveller casts upon departing day.",
+    author: "Johnson, Lives of the Poets: Dryden",
+  },
+  {
+    quote:
+      "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.",
+    author: "Alan Kay",
+  },
+  {
+    quote:
+      "But the audience is right. They're always, always right. You hear directors complain that the advertising was lousy, the distribution is no good, the date was wrong to open the film. I don't believe that. The audience is never wrong. Never.",
+    author: "William Friedkin, in a NYT interview",
+  },
+  {
+    quote:
+      "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.",
+    author: "Alan Perlis",
+  },
+  {
+    quote:
+      "Frankly, I don't think you could have driven a needle up my sphincter using a sledgehammer.",
+    author: "Col. Barry Horne, F-117 pilot, on first mission over Baghdad",
+  },
+  {
+    quote:
+      "Two centuries later a most clear-sighted historian of the Second Crusade can find space in a short narrative to record on many occasions the flattery, perjury, perfidy, blasphemy, heresy, arrogance, servility, deceit, pride, cunning and infidelity of the Greeks.",
+    author: "R. W. Southern, The Making of the Middle Ages",
+  },
+  {
+    quote:
+      "The imagination of nature is far, far greater than the imagination of man.",
+    author: "Richard Feynman",
+  },
+  {
+    quote:
+      "The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding.",
+    author: "Brandeis",
+  },
+  {
+    quote:
+      "People who read Cosmopolitan magazine are very different from those who do not.",
+    author: "Donald Berry, Statistics: A Bayesian Perspective",
+  },
+  {
+    quote:
+      "The art of handling university students is to make oneself appear, and this almost ostentatiously, to be treating them as adults....",
+    author: "Arnold Toynbee, Experiences",
+  },
+  {
+    quote:
+      "Americans spend an average of four hours a day watching TV, an hour of that enduring ads. That adds up to an astounding 10% of total leisure time; at current rates, a typical viewer fritters away three years of his life getting bombarded with commercials.",
+    author: "Scott Woolley, Forbes",
+  },
+  {
+    quote: "The best writing is rewriting.",
+    author: "E. B. White",
+  },
+  {
+    quote:
+      "Modern invention has been a great leveller. A machine may operate far more quickly than a political or economic measure to abolish privilege and wipe out the distinctions of class or finance.",
+    author: "Ivor Brown, The Heart of England",
+  },
+  {
+    quote:
+      "If our goal is to write poetry, the only way we are likely to be any good is to try to be as great as the best.",
+    author: "Donald Hall, Poetry and Ambition",
+  },
+  {
+    quote:
+      "I am annoyed to find myself continually described by people whom I have never set eyes on as bad-tempered.",
+    author: "Evelyn Waugh, Diary (26 Dec 47)",
+  },
+  {
+    quote:
+      "Premature optimization is the root of all evil (or at least most of it) in programming.",
+    author: "Donald Knuth",
+  },
+  {
+    quote:
+      "In France those absurd perversions of the art of war which covered themselves under the name of chivalry were more omnipotent than in any other country of Europe. The strength of the armies of Philip and John of Valois was composed of a fiery and undisciplined aristocracy which imagined itself to be the most efficient military force in the world, but which was in reality little removed from an armed mob.",
+    author: "C. W. C. Oman, The Art of War in the Middle Ages",
+  },
+  {
+    quote:
+      "The public should always be wondering how it is possible to give so much for the money.",
+    author: "Henry Ford",
+  },
+  {
+    quote: "None ever wished it longer than it is.",
+    author: "Johnson on Paradise Lost",
+  },
+  {
+    quote:
+      "Many large and high class greengrocers of my acquaintance have never heard of the Golden Wonder potato.",
+    author: "Roy Genders, Vegetables for the Epicure",
+  },
+  {
+    quote:
+      "The best lack all conviction, while the worst\nAre full of passionate intensity.",
+    author: "Yeats, The Second Coming",
+  },
+  {
+    quote:
+      "We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.",
+    author: "Charles Kingsley",
+  },
+  {
+    quote: "The path from good to evil goes through bogus.",
+    author: "Tara Ploughman",
+  },
+  {
+    quote:
+      'Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.',
+    author: "Edsger Dijkstra, CACM, 15:10",
+  },
+  {
+    quote:
+      "Many who burnt heretics in the ordinary way of their business were otherwise excellent people.",
+    author: 'G. M. Trevelyan, "Bias in History"',
+  },
+  {
+    quote:
+      "He became an object of ridicule in 1993 when a paper published an intercepted phone call in which he told his lover Camilla Parker Bowles he wanted to be reincarnated as her tampon.",
+    author: "Reuters story, on Prince Charles",
+  },
+  {
+    quote: "We're even wrong about which mistakes we're making.",
+    author: "Carl Winfeld",
+  },
+  {
+    quote:
+      "From this place she sent into the world those novels, which by many have been placed on the same shelf as the works of a D'Arblay and an Edgeworth.",
+    author: "Henry Austen on his sister Jane, in a preface to Persuasion",
+  },
+  {
+    quote:
+      "The key to performance is elegance, not battalions of special cases.",
+    author: "Jon Bentley and Doug McIlroy",
+  },
+  {
+    quote:
+      "The economic depression that struck Europe in the fourteenth century was followed ultimately by economic and technological recovery. But the depression we have moved into will have no end. We can anticipate centuries of decline and exhaustion.",
+    author: "Jean Gimpel, The Medieval Machine, 1975",
+  },
+  {
+    quote:
+      "Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable.",
+    author: "J. K. Galbraith, Letter to Kennedy, 1962",
+  },
+  {
+    quote:
+      "A typical dinner from the ape menu would be tofu bake with ratatouille of aubergine, onions and sweet peppers, with pearled barley and vegetable side dishes, says the team.",
+    author: "New Scientist",
+  },
+  {
+    quote:
+      "Guy Steele leads a small team of researchers in Burlington, Massachusetts, who are taking on an enormous challenge — create a programming language better than Java.",
+    author: "Sun.Com",
+  },
+  {
+    quote:
+      "I had my own reactions to Paul's essay — on the whole I liked it but when I connected some dots I found some suggestions of things I strongly disliked — not so much in the essay as suggested by it.",
+    author: "reaction to What You Can't Say in a blog",
+  },
+  {
+    quote:
+      "Your twenties are always an apprenticeship, but you don't always know what for.",
+    author: "Jan Houtema",
+  },
+  {
+    quote:
+      "In addition, the board rewrote the definition of science, so that it is no longer limited to the search for natural explanations of phenomena.",
+    author: "AP story on Kansas Board of Education",
+  },
+  {
+    quote:
+      "A danger sign that fellow-obsessionals will at once recognize is the tendency to regard the happiest moments of your life as those that occur when someone who has an appointment to see you is prevented from coming.",
+    author: "Peter Medawar, Memoirs of a Thinking Radish",
+  },
+  {
+    quote: "Never offer what you'd hate someone for accepting.",
+    author: "Tara Ploughman",
+  },
+  {
+    quote:
+      "The pagans were incensed at the rashness of a recent and obscure sect, which presumed to accuse their countrymen of error, and to devote their ancestors to eternal misery.",
+    author: "Gibbon, The Decline and Fall of the Roman Empire",
+  },
 ];
