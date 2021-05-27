@@ -3336,4 +3336,14 @@ const quotes = [
       "We are the masters of the unsaid words, but slaves of those we let slip out.",
     author: "Churchill",
   },
+  {
+    quote:
+      "The others, step by step, will follow\n The living imprint of your feet;\nBut you yourself must not distinguish\n Your victory from your defeat.\n\nAnd never for a single moment\nBetray your credo or pretend,\nBut be alive-this only matters-\nAlive and burning to the end.",
+    author: "Boris Pasternak",
+  },
+  {
+    quote:
+      "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+    author: "Napoleon Hill",
+  },
 ];
