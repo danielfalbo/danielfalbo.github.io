@@ -2987,4 +2987,353 @@ const quotes = [
       "The pagans were incensed at the rashness of a recent and obscure sect, which presumed to accuse their countrymen of error, and to devote their ancestors to eternal misery.",
     author: "Gibbon, The Decline and Fall of the Roman Empire",
   },
+  {
+    quote:
+      "The pagans were incensed at the rashness of a recent and obscure sect, which presumed to accuse their countrymen of error, and to devote their ancestors to eternal misery.",
+    author: "Gibbon, The Decline and Fall of the Roman Empire",
+  },
+  {
+    quote:
+      "Simultaneously reifying and challenging hegemonic codes of race, class, gender and regional or national identity, his characters explore the complex and changing postmodern cultural landscape.",
+    author:
+      "Robert Bennett, English professor at Montana State, announcing a panel discussion about Brad Pitt",
+  },
+  {
+    quote:
+      "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.",
+    author: "Eisenhower, Farewell Address",
+  },
+  {
+    quote:
+      "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
+    author: "Mark Twain",
+  },
+  {
+    quote: "However little television you watch, watch less.",
+    author: "David McCullough",
+  },
+  {
+    quote: "Any word you have to hunt for in a thesaurus is the wrong word.",
+    author: "Stephen King",
+  },
+  {
+    quote:
+      "The people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger.",
+    author: "Goering at the Nuremberg Trials",
+  },
+  {
+    quote:
+      "As all these results were obtained, not by any heroic method, but by patient and detailed reasoning, I began to think it probable that philosophy had erred in adopting heroic remedies for intellectual difficulties, and that solutions were to be found merely by greater care and accuracy. This view I have come to hold more and more strongly as time went on, and it has led me to doubt whether philosophy, as a study distinct from science and possessed of a method of its own, is anything more than an unfortunate legacy from theology.",
+    author: "Bertrand Russell, Logical Atomism",
+  },
+  {
+    quote: "Get the important things right.",
+    author: "N. P. Calderwood",
+  },
+  {
+    quote:
+      "The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.",
+    author: "Gibbon",
+  },
+  {
+    quote:
+      "I do not know what the Lord's anointed, his Vicegerent upon earth, divinely appointed by him, and accountable to none but him for his actions, will either think or do, upon these symptoms of reason and good sense which seem to be breaking out all over France: but this I foresee, that, before the end of this century, the trade of both King and Priest will not be half so good a one as it has been.",
+    author: "Chesterfield, letter to his son, 13 Apr 1752",
+  },
+  {
+    quote:
+      "filter(P, S) is almost always written clearer as [x for x in S if P(x)]",
+    author: "Guido van Rossum on Python",
+  },
+  {
+    quote:
+      "I'm surrounded by postmodern idiots and blatherers. Your writings give me hope.",
+    author: "email to Paul Graham from a reader of his blog",
+  },
+  {
+    quote:
+      "In the last analysis, productivity of labour is the most important, the principal thing for the victory of the new social system.",
+    author:
+      "Lenin, quoted in First Five-Year Plan for the Development of the National Economy of the People's Republic of China in 1953-1957",
+  },
+  {
+    quote: "Most interesting phenomena have multiple causes.",
+    author: "N. P. Calderwood",
+  },
+  {
+    quote:
+      "From 1911 to 1920, the mood of the city varied between utter dullness and tremendous excitement.",
+    author: "Arthur Coffman, An Illustrated History of Palo Alto",
+  },
+  {
+    quote:
+      "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
+    author: "Max Planck",
+  },
+  {
+    quote:
+      "No man who ever held the office of President would congratulate a friend on obtaining it.",
+    author: "John Adams",
+  },
+  {
+    quote: "PowerPoint makes us stupid.",
+    author: "General James N. Mattis, USMC",
+  },
+  {
+    quote:
+      "The best way to do something 'lean' is to gather a tight group of people, give them very little money, and very little time.",
+    author: "Bob Klein, chief engineer of the F-14 program",
+  },
+  {
+    quote:
+      "But camels, though odious to view and endowed with the offensive spirit, did not enjoy the blessing of pachydermaty.",
+    author: "F. E. Adcock, The Greek and Macedonian Art of War",
+  },
+  {
+    quote:
+      "As it turned out, the obvious clearly stated, and combined with new observations, was sometimes close to revolutionary.",
+    author: "Wallace Stegner on John Wesley Powell",
+  },
+  {
+    quote: "Focusing is about saying no.",
+    author: "Steve Jobs",
+  },
+  {
+    quote:
+      'The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it.',
+    author: "John F. Kennedy",
+  },
+  {
+    quote:
+      "In the Zenith Color chassis there are no printed circuits, no production shortcuts. Every connection is carefully hand-wired with the same exacting care that makes Zenith America's largest selling TV, and your best Color TV buy.",
+    author: "Zenith TV ad, 1964",
+  },
+  {
+    quote: "Semper aut discere, aut docere, aut scribere dulce habui.",
+    author: "Bede",
+  },
+  {
+    quote:
+      "The qualities that made for success in a fighter-pilot seemed to be just those sturdy qualities that made for success in other professions; observation, initiative, determination, courage, including the courage to run away. In course of time it appeared that men who had a private axe to grind beyond the public axe of the King's enemies were especially successful.",
+    author: "Jim Bailey, The Sky Suspended",
+  },
+  {
+    quote:
+      "Everything about it was visibly mis-shapen, corrupt, crawling, verminous; for a time I could not bear to look at it, and passed with averted eyes; recovering from this weakness, I forced myself to look, and to face day by day the question: a thing so obviously, so incontrovertibly, so indefensibly bad, why had Scott done it?",
+    author: "R. G. Collingwood on the Albert Memorial",
+  },
+  {
+    quote:
+      "Anybody who cares less about wanting to be cool, I think, is more interesting.",
+    author: "Aimee Mann",
+  },
+  {
+    quote:
+      "The late Richard Feynman, a superb physicist, said once as we talked about the laser that the way to tell a great idea is that, when people hear it, they say, 'Gee, I could have thought of that.'",
+    author: "Charles Townes, How the Laser Happened",
+  },
+  {
+    quote:
+      "If we chose always to be wise we should rarely need to be virtuous. But inclinations which we could easily overcome irresistibly attract us. We give in to slight temptations and minimize the danger. We fall insensibly into dangerous situations, from which we could easily have safeguarded ourselves, but from which we cannot withdraw without heroic efforts which appal us. So finally, as we tumble into the abyss, we ask God why he has made us so feeble. But, in spite of ourselves, He replies through our consciences: 'I have made you too feeble to climb out of the pit, because I made you strong enough not to fall in.'",
+    author: "Rousseau, Confessions, Cohen trans.",
+  },
+  {
+    quote:
+      "Constantly fortified with the new blood of immigrants who saw America as a place where anything was possible, the nation had adopted an ethos that elevated problem solving to the status of religion.",
+    author: "John Hoyt Williams, A Great and Shining Road",
+  },
+  {
+    quote:
+      "That 95 per cent. fail of those who start in business upon their own account seems incredible, and yet such are said to be the statistics upon the subject.",
+    author: "Andrew Carnegie, 1896",
+  },
+  {
+    quote:
+      "You should never turn a man's generosity as a sword against him. Any virtue that a man has, even if he has many vices, should not be used as a tool against him.",
+    author: "Rabi to Feynman",
+  },
+  {
+    quote:
+      "You can't say I didn't try really hard, 'cause I'm trying really hard to be good.",
+    author: "Tom Petty",
+  },
+  {
+    quote:
+      "He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night.",
+    author: "divorce complaint of Richard Feynman's second wife",
+  },
+  {
+    quote:
+      "The development of this aircraft was long and complex even by Soviet standards, partially explained by the fact that its entire design team was in jail.",
+    author: "Howard Moon on the TU-2",
+  },
+  {
+    quote:
+      "It is said that there is a technical term for people who believe that little boys and little girls are born indistinguishable and are molded into their natures by parental socialization. The term is 'childless.'",
+    author: "Steven Pinker",
+  },
+  {
+    quote:
+      "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+    author: "Sherlock Holmes",
+  },
+  {
+    quote:
+      "His notions fitted things so well,\nThat which was which he could not tell;\nBut oftentimes mistook th' one\n For th' other, as great clerks have done.",
+    author: "Samuel Butler, Hudibras",
+  },
+  {
+    quote:
+      "A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.",
+    author: "John Gall",
+  },
+  {
+    quote:
+      "The Muslims of al-Andalus had nothing to learn from their Christian neighbours and were incurious about them. Geographers' accounts of Christian Spain tended to be cursory in the extreme: it was cold, the inhabitants were barbarians who ate pigs, you could get slaves there - that was about the sum of it.",
+    author: "Richard Fletcher, Moorish Spain",
+  },
+  {
+    quote:
+      "When the enemy is making a false movement we must take good care not to interrupt him.",
+    author: "Napoleon",
+  },
+  {
+    quote:
+      "Leave me alone, I'm trying to build! Don't you know how people build? By concentrating!",
+    author: "Paul Graham's 5 year old son, building Lego",
+  },
+  {
+    quote:
+      "An expert is a man who has made all the mistakes which can be made in a very narrow field.",
+    author: "Niels Bohr",
+  },
+  {
+    quote: "Don't fear moving slowly. Fear standing still.",
+    author: "Chinese proverb",
+  },
+  {
+    quote:
+      "I think a life properly lived is just learn, learn, learn all the time.",
+    author: "Charlie Munger",
+  },
+  {
+    quote:
+      "The handicap under which most beginning writers struggle is that they don't know how to write.",
+    author: "Wodehouse",
+  },
+  {
+    quote:
+      "Then in 1888 came the publication of Denton's history of England in the fifteenth century. This was a masterpiece of egregious perversity, depicting the later Middle Ages as a culminating period of ruinous taxation, iniquitous labour laws, demoralizing pestilences, and lavish dissipation of national resources upon violent and embittered domestic feuds and futile and indecisive foreign wars. The credulity of even the most undiscriminating reader was taxed to a degree by a portrayal in which horror succeeded upon cataclysm, in a thickening atmosphere of crime and terror, want, degradation, and wretchedness.",
+    author: "A. R. Bridbury",
+  },
+  {
+    quote:
+      "We are all agreed that your theory is crazy. The question that divides us is whether it is crazy enough to have a chance of being correct.",
+    author: "Neils Bohr",
+  },
+  {
+    quote: "Pessimists sound smart. Optimists make money.",
+    author: "Nat Friedman",
+  },
+  {
+    quote:
+      "Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.",
+    author: "T. S. Eliot",
+  },
+  {
+    quote:
+      "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka' but 'That's funny...'",
+    author: "Isaac Asimov",
+  },
+  {
+    quote:
+      "We always want to make sure that our machines haven't by accident learned something that isn't what we intended.",
+    author: "Susan Wojcicki",
+  },
+  {
+    quote:
+      "The population is made up of four types of people: A small number hunt witches. A large number go along with the hunt. A larger number are silent. A tiny number oppose it. The final group — as if by magic — become witches.",
+    author: "Bret Weinstein",
+  },
+  {
+    quote:
+      "People who can't laugh at themselves will always be outwitted by people who can.",
+    author: "T. K. Coleman",
+  },
+  {
+    quote:
+      "Political correctness is America's newest form of intolerance, and it is especially pernicious because it comes disguised as tolerance. It presents itself as fairness, yet attempts to restrict and control people's language with strict codes and rigid rules.",
+    author: "George Carlin",
+  },
+  {
+    quote:
+      "I sometimes ask students what their position on slavery would have been had they been white and living in the South before abolition. Guess what? They all would have been abolitionists! They all would have bravely spoken out against slavery, and worked tirelessly against it.",
+    author: "Robert P. George",
+  },
+  {
+    quote:
+      "Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.",
+    author: "Hannah Arendt",
+  },
+  {
+    quote: "If you want to have good ideas, you must have many ideas.",
+    author: "Linus Pauling",
+  },
+  {
+    quote:
+      "A good notation has a subtlety and suggestiveness which at times make it almost seem like a live teacher.",
+    author: "Bertrand Russell",
+  },
+  {
+    quote:
+      "I didn't make a decision to pursue astronomy. Rather, it just grabbed me, and I had no thought of escaping.",
+    author: "Carl Sagan",
+  },
+  {
+    quote: "How we spend our days is, of course, how we spend our lives.",
+    author: "Annie Dillard",
+  },
+  {
+    quote:
+      "Tis not in mortals to command success; but we'll do more, Sempronius, we'll deserve it.",
+    author: "Addison",
+  },
+  {
+    quote:
+      "Sometimes, magic is just someone spending more time on something than anyone else might reasonably expect.",
+    author: "Teller",
+  },
+  {
+    quote:
+      "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.",
+    author: "Einstein",
+  },
+  {
+    quote: "All buildings are predictions. All predictions are wrong.",
+    author: "Stewart Brand",
+  },
+  {
+    quote: "It's easier to win an argument with a genius than an idiot.",
+    author: "Gurwinder Bhogal",
+  },
+  {
+    quote:
+      "Now, most people hate to admit they're wrong, but it didn't bother Bill one bit. All he cared about was what was right, not who was right. That's what makes Bill very, very dangerous.",
+    author: "Larry Ellison on Bill Gates",
+  },
+  {
+    quote:
+      "Because most entrenched bureaucracies tend to develop a strong aversion to changing the status quo, state-run technological progress is not likely to be sustained over long periods.",
+    author: "Joel Mokyr",
+  },
+  {
+    quote:
+      "The German historians of the nineteenth century were explicit and vastly successful in the exercise of what they regarded as social responsibility. Nor did they see any conflict between their ethics as historians and their obligations as citizens. But we can now perceive that they were building not only a united Germany but a Germany united in authoritarian terms.",
+    author: "Lynn White",
+  },
+  {
+    quote:
+      "We are the masters of the unsaid words, but slaves of those we let slip out.",
+    author: "Churchill",
+  },
 ];
