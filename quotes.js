@@ -3346,4 +3346,9 @@ const quotes = [
       "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
     author: "Napoleon Hill",
   },
+  {
+    quote:
+      "Writing is thinking. To write well is to think clearly. That's why it's so hard.",
+    author: "David McCullough",
+  },
 ];
