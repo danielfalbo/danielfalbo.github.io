@@ -2245,8 +2245,8 @@ const quotes = [
   },
   {
     quote:
-      "Here's to the crazy ones.\n The misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey push the human race forward.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
-    author: "Rob Siltanen",
+      "Here's to the crazy ones.\n The misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey invent. They imagine. They heal.\nThey explore. They create. They inspire.\nThey push the human race forward.\nMaybe they have to be crazy.\nHow else can you stare at an empty canvas and see a work of art?\nOr, sit in silence and hear a song that’s never been written?\nOr, gaze at a red planet and see a laboratory on wheels?\nWe make tools for these kinds of people.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
+    author: "Apple, 1997, Think Different",
   },
   {
     quote:
