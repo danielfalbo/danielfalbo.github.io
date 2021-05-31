@@ -3351,4 +3351,14 @@ const quotes = [
       "Writing is thinking. To write well is to think clearly. That's why it's so hard.",
     author: "David McCullough",
   },
+  {
+    quote:
+      '"Computer science" is a terrible name. Astronomy is not called "telescope science", and biology is not called "microscope science"',
+    author: "unknown",
+  },
+  {
+    quote:
+      "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.",
+    author: "Edsger W. Dijkstra",
+  },
 ];
