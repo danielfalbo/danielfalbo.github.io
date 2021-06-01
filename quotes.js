@@ -3361,4 +3361,8 @@ const quotes = [
       "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.",
     author: "Edsger W. Dijkstra",
   },
+  {
+    quote: "Praise by name, criticize by category",
+    author: "Peter Bevelin",
+  },
 ];
