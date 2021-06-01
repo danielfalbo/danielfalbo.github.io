@@ -3365,4 +3365,9 @@ const quotes = [
     quote: "Praise by name, criticize by category",
     author: "Peter Bevelin",
   },
+  {
+    quote:
+      "I’m just going to give you some good, general advice. And the first bit is – play to your strengths.",
+    author: "Mad-Eye Moody",
+  },
 ];
