@@ -3370,4 +3370,9 @@ const quotes = [
       "I’m just going to give you some good, general advice. And the first bit is – play to your strengths.",
     author: "Mad-Eye Moody",
   },
+  {
+    quote:
+      "Life is like arriving late for a movie, having to figure out what was going on without bothering everybody with a lot of questions.",
+    author: "Joseph Campbell",
+  },
 ];
