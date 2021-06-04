@@ -689,11 +689,6 @@ const quotes = [
   },
   {
     quote:
-      "If we wish to count lines of code, we should not regard them as lines produced but as lines spent.",
-    author: "Edsger Dijkstra",
-  },
-  {
-    quote:
       "The most damaging phrase in the language is, It's always been done that way.",
     author: "Rear Admiral Grace Hopper",
   },
@@ -3359,7 +3354,7 @@ const quotes = [
   {
     quote:
       "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.",
-    author: "Edsger W. Dijkstra",
+    author: "unknown",
   },
   {
     quote: "Praise by name, criticize by category",
