@@ -3370,4 +3370,9 @@ const quotes = [
       "Life is like arriving late for a movie, having to figure out what was going on without bothering everybody with a lot of questions.",
     author: "Joseph Campbell",
   },
+  {
+    quote:
+      "And that's the thing about people who mean everything they say. They think everyone else does too.",
+    author: "Khaled Hosseini, The Kite Runner",
+  },
 ];
