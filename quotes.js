@@ -3375,4 +3375,9 @@ const quotes = [
       "And that's the thing about people who mean everything they say. They think everyone else does too.",
     author: "Khaled Hosseini, The Kite Runner",
   },
+  {
+    quote:
+      "I must study politics and war, that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
+    autor: "John Adams",
+  },
 ];
