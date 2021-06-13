@@ -3380,4 +3380,13 @@ const quotes = [
       "I must study politics and war, that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
     autor: "John Adams",
   },
+  {
+    quote: "As soon as it works, no one calls it AI anymore.",
+    author: "John McCarthy",
+  },
+  {
+    quote:
+      "AI has by now succeded in doing essentially everything that requires 'thinking' but has failed to do most of what people and animals do 'without thinking' - that, somehow, is much harder!",
+    author: "Donald Knuth",
+  },
 ];
