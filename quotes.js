@@ -3389,4 +3389,8 @@ const quotes = [
       "AI has by now succeded in doing essentially everything that requires 'thinking' but has failed to do most of what people and animals do 'without thinking' - that, somehow, is much harder!",
     author: "Donald Knuth",
   },
+  {
+    quote: "Math always trumps brute force!",
+    author: "@jlsajfj on GitHub"
+  }
 ];
