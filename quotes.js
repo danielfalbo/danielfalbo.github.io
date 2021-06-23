@@ -3391,6 +3391,23 @@ const quotes = [
   },
   {
     quote: "Math always trumps brute force!",
-    author: "@jlsajfj on GitHub"
-  }
+    author: "@jlsajfj on GitHub",
+  },
+  {
+    quote:
+      'No one on his death bed ever said, "I wish I had spent more time on my business."',
+    author: "Paul Tsongas",
+  },
+  {
+    quote: "The whole future lies in uncertainty: live immediately.",
+    author: "Seneca",
+  },
+  {
+    quote: "Death is only the end if you assume the story is about you",
+    author: "Welcome to Night Vale",
+  },
+  {
+    quote: "",
+    author: "",
+  },
 ];
