@@ -3407,7 +3407,8 @@ const quotes = [
     author: "Welcome to Night Vale",
   },
   {
-    quote: "",
-    author: "",
+    quote:
+      "Once you have a name for something you get power over it: you can start to talk about it.",
+    author: "Patrick Winston",
   },
 ];
