@@ -3411,4 +3411,9 @@ const quotes = [
       "Once you have a name for something you get power over it: you can start to talk about it.",
     author: "Patrick Winston",
   },
+  {
+    quote:
+      "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
+    author: "Konstantin Tsiolkovsky",
+  },
 ];
