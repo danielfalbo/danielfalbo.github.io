@@ -3416,4 +3416,12 @@ const quotes = [
       "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
     author: "Konstantin Tsiolkovsky",
   },
+  {
+    quote: "Start coloring inside the lines you live between.",
+    author: "Natalie Lynn",
+  },
+  {
+    quote: "Nothing matters in the end so make it matter right now.",
+    author: "Natalie Lynn",
+  },
 ];
