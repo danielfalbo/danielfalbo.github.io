@@ -3377,8 +3377,8 @@ const quotes = [
   },
   {
     quote:
-      "I must study politics and war, that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
-    autor: "John Adams",
+      "I must study politics and war, so that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
+    author: "John Adams",
   },
   {
     quote: "As soon as it works, no one calls it AI anymore.",
