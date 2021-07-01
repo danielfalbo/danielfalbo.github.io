@@ -3424,4 +3424,9 @@ const quotes = [
     quote: "Nothing matters in the end so make it matter right now.",
     author: "Natalie Lynn",
   },
+  {
+    quote:
+      "You could never convince a monkey to give you a banana by promising him limitless bananas after death in monkey heaven.",
+    author: "Yuval Noah Harari",
+  },
 ];
