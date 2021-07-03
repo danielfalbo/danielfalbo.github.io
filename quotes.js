@@ -3429,4 +3429,9 @@ const quotes = [
       "You could never convince a monkey to give you a banana by promising him limitless bananas after death in monkey heaven.",
     author: "Yuval Noah Harari",
   },
+  {
+    quote:
+      "Two things define you, your patience when you have nothing, and your attitude when you have everything.",
+    author: "unknown",
+  },
 ];
