@@ -3434,4 +3434,9 @@ const quotes = [
       "Two things define you, your patience when you have nothing, and your attitude when you have everything.",
     author: "unknown",
   },
+  {
+    quote:
+      "The trick to education is to teach in such a way that people only find out they're learning when it's too late.",
+    author: 'Michael "Vsauce" Stevens',
+  },
 ];
