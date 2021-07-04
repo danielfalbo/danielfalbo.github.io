@@ -3439,4 +3439,9 @@ const quotes = [
       "The trick to education is to teach in such a way that people only find out they're learning when it's too late.",
     author: 'Michael "Vsauce" Stevens',
   },
+  {
+    quote:
+      "Be Fearful When Others Are Greedy and Greedy When Others Are Fearful",
+    author: "Warren Buffet",
+  },
 ];
