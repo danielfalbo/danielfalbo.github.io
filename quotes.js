@@ -3444,4 +3444,10 @@ const quotes = [
       "Be Fearful When Others Are Greedy and Greedy When Others Are Fearful",
     author: "Warren Buffet",
   },
+  {
+    quote:
+      "Before we even start to read this passage together, it's probably worthwhile to stress that we should get pumped about reading this passage, because if we're interested in it, we will comprehend it better. But even more importantly, we're about to spend a few minutes of out life on this passage, and so if we're gonna spend a few minutes of our life on something, we might as well enjoy it.",
+    author:
+      "Sal Khan (from Khan Academy) before going through an example of the SAT Reading test",
+  },
 ];
