@@ -3450,4 +3450,8 @@ const quotes = [
     author:
       "Sal Khan (from Khan Academy) before going through an example of the SAT Reading test",
   },
+  {
+    quote: "That which can be destroyed by the truth should be.",
+    author: "P.C. Hodgell",
+  },
 ];
