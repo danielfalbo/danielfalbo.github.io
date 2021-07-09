@@ -3454,4 +3454,9 @@ const quotes = [
     quote: "That which can be destroyed by the truth should be.",
     author: "P.C. Hodgell",
   },
+  {
+    quote:
+      "Talent doesn't lay in those who make it first, but in those who give up last.",
+    author: "Alessandro Steri",
+  },
 ];
