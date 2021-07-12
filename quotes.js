@@ -3463,4 +3463,8 @@ const quotes = [
     quote: "Mathematics is not just solving for x, it's also figuring out y.",
     author: "Arthur Benjamin",
   },
+  {
+    quote: "If you torture the data long enough, it will confess to anything.",
+    author: "Ronald Coase",
+  },
 ];
