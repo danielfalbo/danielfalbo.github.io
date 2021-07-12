@@ -3459,4 +3459,8 @@ const quotes = [
       "Talent doesn't lay in those who make it first, but in those who give up last.",
     author: "Alessandro Steri",
   },
+  {
+    quote: "Mathematics is not just solving for x, it's also figuring out y.",
+    author: "Arthur Benjamin",
+  },
 ];
