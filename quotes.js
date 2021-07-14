@@ -3467,4 +3467,14 @@ const quotes = [
     quote: "If you torture the data long enough, it will confess to anything.",
     author: "Ronald Coase",
   },
+  {
+    author: "Albert Einstein",
+    quote:
+      "The world will not be destroyed by evil, but by those who watch it and refuse to fix it.",
+  },
+  {
+    quote:
+      "Remember kids: if you study hard, get good grades, got to a good college, get a job, work hard, never take a sick day, live within your means and do what you're told ... then one day your boss mught go to space.",
+    author: "Dan Price on Linkedin (July 2021)",
+  },
 ];
