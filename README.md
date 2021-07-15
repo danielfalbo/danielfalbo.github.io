@@ -7,7 +7,7 @@
 macOS:
 
 ```bash
-# Sort the entries in `quotes.js`
+# Sort `quotes.js`
 make
 
 # Find duplicates
@@ -22,10 +22,10 @@ macOS:
 # Install prettier
 make prettier
 
-# Export the content of `quotes.js` to `quotes.json`
+# Export `quotes.json`
 make json
 
-# Sort `quotes.js` and keep `quotes.json`
+# Sort `quotes.js` (and keep `quotes.json`)
 make sort_js
 
 # Sort `quotes.json`
