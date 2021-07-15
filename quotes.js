@@ -214,11 +214,6 @@ const quotes = [
   },
   {
     quote:
-      "A gift consists not in what is done or given, but in the intention of the giver or doer.",
-    author: "Seneca",
-  },
-  {
-    quote:
       "A good notation has a subtlety and suggestiveness which at times make it almost seem like a live teacher.",
     author: "Bertrand Russell",
   },
@@ -415,11 +410,6 @@ const quotes = [
     quote:
       "Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.",
     author: "Marcus Aurelius, Meditations VI.53",
-  },
-  {
-    quote:
-      "Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.",
-    author: "Marcus Aurelius",
   },
   {
     quote: "Accustom yourself to criticism.",
@@ -654,11 +644,6 @@ const quotes = [
     quote:
       "Any fool can make the simple complex, only a smart person can make the complex simple.",
     author: "unknown",
-  },
-  {
-    quote:
-      "Any sufficiently advanced technology is indistinguishable from magic.",
-    author: "Arthur C. Clarke",
   },
   {
     quote:
@@ -1208,11 +1193,6 @@ const quotes = [
   },
   {
     quote:
-      "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.",
-    author: "Alan Perlis",
-  },
-  {
-    quote:
       "Death and life, honor and dishonor, pain and pleasure — all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.",
     author: "Marcus Aurelius, Meditations II.11",
   },
@@ -1488,11 +1468,6 @@ const quotes = [
   {
     quote: "Don't stay in bed, unless you can make money in bed.",
     author: "George Burns",
-  },
-  {
-    quote:
-      "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.",
-    author: "Alan Kay",
   },
   {
     quote:
@@ -2215,11 +2190,6 @@ const quotes = [
   },
   {
     quote:
-      "How long are you going to wait before you demand the best for yourself?",
-    author: "Epictetus",
-  },
-  {
-    quote:
       "How long will you wait before you demand the best of yourself, and trust reason to determine what is best?",
     author: "Epictetus, Enchiridion 51.1",
   },
@@ -2394,11 +2364,6 @@ const quotes = [
     quote:
       "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
     author: "Epictetus, Discourses I, 1.32",
-  },
-  {
-    quote:
-      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
-    author: "Epictetus",
   },
   {
     quote:
@@ -3198,11 +3163,6 @@ const quotes = [
   },
   {
     quote:
-      "It is essential to make oneself used to putting up with a little. Even the wealthy and the well provided are continually met and frustrated by difficult times and situations. It is in no man's power to have whatever he wants; but he has it in his power not to wish for what he hasn't got, and cheerfully make the most of the things that do come his way.",
-    author: "Seneca",
-  },
-  {
-    quote:
       "It is impossible that happiness, and yearning for what is not present, should ever be united.",
     author: "Epictetus",
   },
@@ -3244,11 +3204,6 @@ const quotes = [
   {
     quote:
       "It is not events that disturb people, it is their judgements concerning them.",
-    author: "Epictetus",
-  },
-  {
-    quote:
-      "It is not events that disturb people, it is their judgements concerning them.",
     author: "Epictetus, Enchiridion 5",
   },
   {
@@ -3278,11 +3233,6 @@ const quotes = [
   },
   {
     quote:
-      "It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
       "It is peculiar to man to love even those who do wrong. And this happens, if when they do wrong it occurs to you that they are fellow humans and that they do wrong through ignorance and unintentionally, and that soon both of you will die; and above all, that the wrongdoer has done you no harm, for he has not made your ruling faculty worse than it was before.",
     author: "Marcus Aurelius, Meditations, VII.22",
   },
@@ -3290,11 +3240,6 @@ const quotes = [
     quote:
       "It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.",
     author: "E. W. Dijkstra",
-  },
-  {
-    quote:
-      "It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.",
-    author: "Edsger Dijkstra",
   },
   {
     quote:
@@ -3345,10 +3290,6 @@ const quotes = [
     quote:
       "It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.",
     author: "John Von Neumann, circa 1949",
-  },
-  {
-    quote: "It's better to conquer grief than to deceive it.",
-    author: "Seneca",
   },
   {
     quote: "It's better to conquer grief than to deceive it.",
@@ -3501,11 +3442,6 @@ const quotes = [
     quote:
       "Justice will not be observed, if we either care for indifferent things or are easily deceived and careless and changeable.",
     author: "Marcus Aurelius, Meditations, XI.10",
-  },
-  {
-    quote:
-      "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
-    author: "Mark Twain",
   },
   {
     quote:
@@ -3722,11 +3658,6 @@ const quotes = [
   {
     quote: "Linux is only free if your time has no value.",
     author: "Jamie Zawinski",
-  },
-  {
-    quote:
-      'Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.',
-    author: "Edsger Dijkstra, CACM, 15:10",
   },
   {
     quote:
@@ -4357,11 +4288,6 @@ const quotes = [
   },
   {
     quote:
-      "Pain is neither intolerable nor everlasting if you bear in mind that it has its limits, and if you add nothing to it in imagination.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
       "Pain too is just a scary mask: look under it and you will see. The body sometimes suffers, but relief is never far behind. And if that isn't good enough for you, the door stands open; otherwise put up with it. The door needs to stay open whatever the circumstances, with the result that our problems disappear.",
     author: "Epictetus, Discourses II, 1.19",
   },
@@ -4543,11 +4469,6 @@ const quotes = [
     quote:
       "Premature abstraction is an equally grevious sin as premature optimization.",
     author: "Keith Devens",
-  },
-  {
-    quote:
-      "Premature optimization is the root of all evil (or at least most of it) in programming.",
-    author: "Donald Knuth",
   },
   {
     quote:
@@ -4822,10 +4743,6 @@ const quotes = [
     quote:
       "Show me someone untroubled with disturbing thoughts about illness, danger, death, exile or loss of reputation. By all the gods, I want to see a Stoic!",
     author: "Epictetus, Discourses II, 19.24",
-  },
-  {
-    quote: "Show people, don't tell people.",
-    author: "David Goggins",
   },
   {
     quote: "Show, don't tell.",
@@ -5691,11 +5608,6 @@ const quotes = [
     author: "Arthur C. Clarke",
   },
   {
-    quote:
-      "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
-    author: "Arthur C. Clarke",
-  },
-  {
     quote: "The only way to do great work is to love what you do.",
     author: "Steve Jobs",
   },
@@ -5709,10 +5621,6 @@ const quotes = [
     author: "Elie Wiesel",
   },
   {
-    quote: "The opposite of love is not hate, it's indifference.",
-    author: "Elie Wiesel",
-  },
-  {
     quote:
       "The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.",
     author: "Albert Einstein",
@@ -5721,11 +5629,6 @@ const quotes = [
     quote:
       "The others, step by step, will follow\n The living imprint of your feet;\nBut you yourself must not distinguish\n Your victory from your defeat.\n\nAnd never for a single moment\nBetray your credo or pretend,\nBut be alive-this only matters-\nAlive and burning to the end.",
     author: "Boris Pasternak",
-  },
-  {
-    quote:
-      "The pagans were incensed at the rashness of a recent and obscure sect, which presumed to accuse their countrymen of error, and to devote their ancestors to eternal misery.",
-    author: "Gibbon, The Decline and Fall of the Roman Empire",
   },
   {
     quote:
@@ -5878,10 +5781,6 @@ const quotes = [
     author: "Marcus Aurelius, Meditations I.16",
   },
   {
-    quote: "The things you own end up owning you.",
-    author: "Joshua Fields Millburn",
-  },
-  {
     quote:
       "The things you own end up owning you. It's only after you lose everything that you're free to do anything.",
     author: "Chuck Palahniuk, Fight Club",
@@ -5956,10 +5855,6 @@ const quotes = [
   {
     quote: "The way to get started is to quit talking and start doing.",
     author: "Walt Disney",
-  },
-  {
-    quote: "The whole future lies in uncertainty: live immediately.",
-    author: "Seneca",
   },
   {
     quote: "The whole future lies in uncertainty: live immediately.",
@@ -6546,11 +6441,6 @@ const quotes = [
   },
   {
     quote:
-      "We are what we repeatedly do. Excellence, therefore is not an act but an habit.",
-    author: "Aristotle",
-  },
-  {
-    quote:
       'We control complexity by building abstractions that hide details when appropriate. We control complexity by establishing conventional interfaces that enable us to construct systems by combining standard, well-understood pieces in a "mix and match" way. We control complexity by establishing new languages for describing a design, each of which emphasizes particular aspects of the design and deemphasizes others.',
     author: "Alan J. Perlis",
   },
@@ -6683,11 +6573,6 @@ const quotes = [
     quote:
       "We're not really here that long, and we don't really matter that much. Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone.",
     author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock stars. But we won't. And we're slowly learning that fact. And we're very, very pissed off.",
-    author: "Chuck Palahniuk, Fight Club",
   },
   {
     quote:
@@ -7011,11 +6896,6 @@ const quotes = [
   },
   {
     quote:
-      "When someone is properly grounded in life, they shouldn't have to look outside themselves for approval.",
-    author: "Epictetus",
-  },
-  {
-    quote:
       "When something is important enough, you do it even if the odds are not in your favor.",
     author: "Elon Musk",
   },
@@ -7073,11 +6953,6 @@ const quotes = [
     quote:
       "When you have done a good act and another has received it, why do you look for a third thing besides these, as fools do, either to have the reputation of having done a good act or to obtain a return?",
     author: "Marcus Aurelius, Meditations, VII.73",
-  },
-  {
-    quote:
-      "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-    author: "Sherlock Holmes",
   },
   {
     quote:
