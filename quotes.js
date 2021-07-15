@@ -1,166 +1,8 @@
 const quotes = [
   {
     quote:
-      '"A cucumber is bitter." Throw it away. "There are briars in the road." Turn aside from them. This is enough. Do not add, "And why were such things made in the world?"',
-    author: "Marcus Aurelius, Meditations, VIII.50",
-  },
-  {
-    quote:
-      '"A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy – no one is more difficult to reach.',
-    author: "Epictetus, Discourses II, 15.13-14",
-  },
-  {
-    quote:
-      '"Being healthy is good, being sick is bad." No, my friend: enjoying health in the right way is good; making bad use of your health is bad.',
-    author: "Epictetus, Discourses III, 20.4",
-  },
-  {
-    quote:
-      '"But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.',
-    author: "Epictetus, Discourses I, 19.29",
-  },
-  {
-    quote:
-      '"But it is not worthwhile to live if this cannot be done." Take your departure then from life contentedly.',
-    author: "Marcus Aurelius, Meditations, VIII.47",
-  },
-  {
-    quote:
-      '"But my nose is running!" What do you have hands for, idiot, if not to wipe it? "But how is it right that there be running noses in the first place?" Instead of thinking up protests, wouldn\'t it be easier just to wipe your nose?',
-    author: "Epictetus, Discourses I, 6.30",
-  },
-  {
-    quote:
-      '"But the tyrant will chain –" What will he chain? Your leg. "He will chop off –" What? Your head. What he will never chain or chop off is your integrity.',
-    author: "Epictetus, Discourses I, 18.17",
-  },
-  {
-    quote:
-      '"But we must stick with a decision." "For heaven\'s sake, man, that rule only applies to sound decisions. I suppose next you will decide that it is night now, and refuse to change your mind because you don\'t want to.',
-    author: "Epictetus, Discourses II, 15.7",
-  },
-  {
-    quote:
-      '"Computer science" is a terrible name. Astronomy is not called "telescope science", and biology is not called "microscope science"',
-    author: "unknown",
-  },
-  {
-    quote:
-      '"Define for me now what the "indifferents" are." "Whatever things we cannot control.\'"Tell me the upshot." "They are nothing to me."',
-    author: "Epictetus, Discourses I, 30.3",
-  },
-  {
-    quote:
-      '"Do we have that many masters?" We do. Because over and above the rest we have masters in the form of circumstances, which are legion. And anyone who controls any one of them controls us as well.',
-    author: "Epictetus, Discourses IV, 1.59",
-  },
-  {
-    quote:
-      '"I am unhappy, because this has happened to me." Not so: say, "I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future."',
-    author: "Marcus Aurelius, Meditations IV.49",
-  },
-  {
-    quote:
-      '"I will throw you into prison." "Correction – it is my body you will throw there."',
-    author: "Epictetus, Discourses I, 1.24",
-  },
-  {
-    quote:
-      '"If you don\'t know what you want," the doorman said, "you end up with a lot you don\'t.”',
-    author: "Chuck Palahniuk, Fight Club",
-  },
-  {
-    quote:
-      '"Monetize your passions" it\'s more like exploiting your passions to the point where they become a source of stress and pressure in your life and you end up loosing/hating the passion',
-    author: "Random comment on YouTube",
-  },
-  {
-    quote:
-      "\"My God, what if I'm sent to Gyara?\" Well, if that's tolerable for you, you will go; if not, you have the choice of another destination, the place even the person who sent you to Gyara is headed, whether they like it or not.",
-    author: "Epictetus, Discourses II, 6.22",
-  },
-  {
-    quote:
-      '"My brother is unfair to me." Well then, keep up your side of the relationship; don\'t concern yourself with his behaviour, only with what you must do to keep your will in tune with nature. Another person will not hurt you without your cooperation; you are hurt the moment you believe yourself to be.',
-    author: "Epictetus, Enchiridion 30",
-  },
-  {
-    quote:
-      '"Well, what will my profession in the community be?" Whatever position you are equipped to fill, so long as you preserve the man of trust and integrity.',
-    author: "Epictetus, Enchiridion 24.4",
-  },
-  {
-    quote:
-      '"Well, whatever you may say, I know good from bad, and have an idea of the good." You have one, I allow. "And I put it into practice." You use it in specific instances, yes. "And I use it correctly." Well, that\'s the crux, because this is where opinions become an issue.',
-    author: "Epictetus, Discourses II, 11.7-8",
-  },
-  {
-    quote:
-      "\"What about if someone threatens me with death, though; surely he compels me then?\" It isn't what you're threatened with – it's the fact that you prefer to do anything rather than die. It's your set of values that compelled you: will acting on will.",
-    author: "Epictetus, Discourses I, 17.25-26",
-  },
-  {
-    quote:
-      '"What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.',
-    author: "Anthony de Mello",
-  },
-  {
-    quote:
-      '"Why did this happen to me?" Why not? Events will never conform perfectly to your desires. Move forward.',
-    author: "@TheStoicEmperor",
-  },
-  {
-    quote:
-      '"Why do I keep repeating harmful behaviors/habits when I know they are bad for me?" Because they give you pleasure or help you avoid discomfort. And you are too weak to let go of a little pleasure or to bear a little discomfort.',
-    author: "@TheAncientSage",
-  },
-  {
-    quote:
-      "'If you give him a penny for his thoughts, you'd get change.', 'Not the sharpest knife in the drawer.', 'A prime candidate for natural deselection.'",
-    author: "Ideas for flamewars",
-  },
-  {
-    quote:
-      "(1.00)³⁶⁵ = 1.00\n(1.01)³⁶⁵ = 37.7\nVery small steps are better than doing nothing at all.",
-    author: "(source unknown)",
-  },
-  {
-    quote:
-      "...nothing is burdensome if taken lightly, and how… nothing need arouse one's irritation so long as one doesn't make it bigger than it is by getting irritated.",
-    author: "Seneca, Letter CXXII",
-  },
-  {
-    quote:
-      "...pleasures, when they go beyond a certain limit, are but punishments…",
-    author: "Seneca, Letter LXXXIII",
-  },
-  {
-    quote:
-      "...to be feared is to fear: no one has been able to strike terror into others and at the same time enjoy peace of mind himself.",
-    author: "Seneca, Letter CIV",
-  },
-  {
-    quote:
-      "1 - Creativity and innovation always build on the past.\n2 - The past always tries to control the creativity that builds on it.\n3 - Free societies enable the future by limiting the past.\n4 - Ours is less and less a free society.",
-    author: "Lawrence Lessig, Free Culture.",
-  },
-  {
-    quote: "640K ought to be enough for anybody.",
-    author: "Bill Gates, 1981",
-  },
-  {
-    quote: ":nunmap can also be used outside of a monastery.",
-    author: "Vim user manual",
-  },
-  {
-    quote:
-      "A CS professor once explained recursion as follows: A child couldn't sleep, so her mother told her a story about a little frog, who couldn't sleep, so the frog's mother told her a story about a little bear, who couldn't sleep, so the bear's mother told her a story about a little weasel... who fell asleep. ...and the little bear fell asleep; ...and the little frog fell asleep; ...and the child fell asleep.",
-    author: "everything2.com",
-  },
-  {
-    quote:
-      "A Stoic is someone who transforms fear into prudence, pain into transformation, mistakes into initiation, and desire into undertaking.",
-    author: "Nassim Nicholas Taleb",
+      "About death: Whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change.",
+    author: "Marcus Aurelius, Meditations, VII.32",
   },
   {
     quote:
@@ -174,8 +16,27 @@ const quotes = [
   },
   {
     quote:
+      'Abstraction is a form of data compression: absolutely necessary, because human short-term memory is so small, but the critically important aspect of abstraction is the algorithm that gets you from the name back to the "uncompressed" details.',
+    author: "Bruce Wilder (blog post comment)",
+  },
+  {
+    quote:
       "A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness.",
     author: "Albert Einstein",
+  },
+  {
+    quote:
+      "Accept things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.",
+    author: "Marcus Aurelius, Meditations VI.53",
+  },
+  {
+    quote: "Accustom yourself to criticism.",
+    author: "Robert Greene",
   },
   {
     quote:
@@ -184,8 +45,42 @@ const quotes = [
   },
   {
     quote:
+      "Acknowledging the negative doesn't mean sniveling [whining, complaining]; it means facing the truth and then moving on.",
+    author: "George Leonard, Mastery.",
+  },
+  {
+    quote:
       "A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.",
     author: "John Gall",
+  },
+  {
+    quote:
+      "Acquire the contemplative way of seeing how all things change into one another, and constantly attend to it, and exercise yourself about this part of philosophy. For nothing is so much adapted to produce magnanimity.",
+    author: "Marcus Aurelius, Meditations, X.11",
+  },
+  {
+    quote:
+      "A CS professor once explained recursion as follows: A child couldn't sleep, so her mother told her a story about a little frog, who couldn't sleep, so the frog's mother told her a story about a little bear, who couldn't sleep, so the bear's mother told her a story about a little weasel... who fell asleep. ...and the little bear fell asleep; ...and the little frog fell asleep; ...and the child fell asleep.",
+    author: "everything2.com",
+  },
+  {
+    quote: "Act as if what you do makes a difference. It does.",
+    author: "William James",
+  },
+  {
+    quote:
+      "Act from reason, and failure makes you rethink and study harder. Act from faith, and failure makes you blame someone and push harder.",
+    author: "Erik Naggum",
+  },
+  {
+    quote:
+      "Actually, the essence of boredom is to be found in the obsessive search for novelty. Satisfaction lies in mindful repetition, the discovery of endless richness in subtle variations on familiar themes.",
+    author: "George Leonard, Mastery.",
+  },
+  {
+    quote:
+      '"A cucumber is bitter." Throw it away. "There are briars in the road." Turn aside from them. This is enough. Do not add, "And why were such things made in the world?"',
+    author: "Marcus Aurelius, Meditations, VIII.50",
   },
   {
     quote:
@@ -194,13 +89,40 @@ const quotes = [
   },
   {
     quote:
+      "Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.",
+    author: "Alan J. Perlis (Epigrams in programming)",
+  },
+  {
+    quote:
       "A designer knows he has arrived at perfection not when there is no longer anything to add, but when there is no longer anything to take away.",
     author: "Antoine de St Exupery.",
+  },
+  {
+    quote: "Adults play characters.\nChildren only play.",
+    author: "@zen_fi on Twitter",
+  },
+  {
+    quote: "Advice for nearly everything: start slowly and maintain traction.",
+    author: "Michael",
   },
   {
     quote:
       "A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.",
     author: "Naval Ravikant",
+  },
+  {
+    quote:
+      '"A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy – no one is more difficult to reach.',
+    author: "Epictetus, Discourses II, 15.13-14",
+  },
+  {
+    quote: "After all, love is a good reason for everything to go wrong.",
+    author: "La Casa de papel | Tokyo",
+  },
+  {
+    quote:
+      "After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all — the trouble is, humans do have a knack of choosing precisely those things that are worst for them.",
+    author: "Professor Dumbledore",
   },
   {
     quote:
@@ -234,8 +156,22 @@ const quotes = [
   },
   {
     quote:
+      "AI has by now succeded in doing essentially everything that requires 'thinking' but has failed to do most of what people and animals do 'without thinking' - that, somehow, is much harder!",
+    author: "Donald Knuth",
+  },
+  {
+    quote: "A journey of a thousand miles must begin with a single step.",
+    author: "Lao­Tzu",
+  },
+  {
+    quote:
       "A language that doesn't affect the way you think about programming, is not worth knowing.",
     author: "Alan Perlis",
+  },
+  {
+    quote:
+      "Alexander the Macedonian and his groom were brought to the same state by death; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.",
+    author: "Marcus Aurelius, Meditations VI.24",
   },
   {
     quote:
@@ -245,226 +181,6 @@ const quotes = [
   {
     quote: "A little learning is a dangerous thing.",
     author: "Alexander Pope",
-  },
-  {
-    quote: "A man is no bigger than the smallest thing that provokes him.",
-    author: "Dan Horton",
-  },
-  {
-    quote:
-      "A man must learn a great deal to enable him to pass a correct judgment on another man's acts.",
-    author: "Marcus Aurelius, Meditations, XI.18",
-  },
-  {
-    quote:
-      "A man should always have these two rules in readiness: one, to do only whatever the reason of the ruling and legislating faculty may suggest for the use of men; the other, to change your opinion, if anyone sets you right and dissuades you from any opinion.",
-    author: "Marcus Aurelius, Meditations IV.12",
-  },
-  {
-    quote:
-      "A man should hear a little music, read a little poetry, and see a fine picture every day of his life, in order that worldly cares may not obliterate the sense of the beautiful which God has implanted in the human soul.",
-    author: "Johann Wolfgang von Goethe",
-  },
-  {
-    quote:
-      "A man thus grounded must, whether he wills or not, necessarily be attended by constant cheerfulness and a joy that is deep and issues from deep within, since he finds delight in his own resources, and desires no joys greater than his inner joys.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.",
-    author: "Marcus Aurelius, Meditations V.6",
-  },
-  {
-    quote:
-      "A minute of rage can undo a lifetime of diligent effort. Self-control is self-preservation. Most of us won't look back on the moments we acted in anger as among our finest.",
-    author: "@TheStoicEmperor",
-  },
-  {
-    quote: "A nation is born stoic, and dies epicurean.",
-    author: "Will Durant",
-  },
-  {
-    quote:
-      "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
-    author: "Max Planck",
-  },
-  {
-    quote:
-      "A non negative binary integer value x is a power of 2 iff (x & (x-1)) is 0 using 2's complement arithmetic.",
-    author: "[fact]",
-  },
-  {
-    quote:
-      "A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere.",
-    author: "@TheAncientSage",
-  },
-  {
-    quote:
-      "A person won't become proficient at something until he or she has done it many times. In other words., if you want someone to be really good at building a software system, he or she will have to have built 10 or more systems of that type.",
-    author: "Philip Greenspun",
-  },
-  {
-    quote:
-      "A person won't retain proficiency at a task unless he or she has at one time learned to perform that task very rapidly. Learning research demonstrates that the skills of people who become accurate but not fast deteriorate much sooner than the skills of people who become both accurate and fast.",
-    author: "Philip Greenspun",
-  },
-  {
-    quote:
-      "A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading – is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.",
-    author: "Epictetus, Discourses IV, 1.121-122",
-  },
-  {
-    quote:
-      "A rational person can find peace by cultivating indifference to things outside of their control.",
-    author: "Unknown",
-  },
-  {
-    quote:
-      "A setback has often cleared the way for greater prosperity. Many things have fallen only to rise to more exalted heights.",
-    author: "Seneca, Letter XCI",
-  },
-  {
-    quote:
-      "A single day among the learned lasts longer than the longest life of the ignorant.",
-    author: "Posidonius",
-  },
-  {
-    quote:
-      "A society grows great when old men plant trees in whose shade they know they shall never sit.",
-    author: "an ancient Greek proverb?",
-  },
-  {
-    quote:
-      "A society that puts equality in the sense of equality of outcome ahead of freedom will end up with neither equality nor freedom. The use of force to achieve equality will destroy freedom, and the force, introduced for good purposes, will end up in the hands of people who use it to promote their own interests.",
-    author: "Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)",
-  },
-  {
-    quote: "A stoic is a Buddhist with attitude.",
-    author: "Nassim Nicholas Taleb",
-  },
-  {
-    quote:
-      "A tail call allows a function to return the result of another function without leaving an entry on the stack. Tail recursion is a specific case of tail calling.",
-    author: "ASPN : Python Cookbook : Explicit Tail Call",
-  },
-  {
-    quote: "A thing is neither better nor worse for having been praised.",
-    author: "Marcus Aurelius, Meditations IV.20",
-  },
-  {
-    quote:
-      "A truly successful person is not one who achieves his highest ambitions, but one who enjoys helping others reach theirs.",
-    author: "Charbel Tadros",
-  },
-  {
-    quote:
-      "A typical dinner from the ape menu would be tofu bake with ratatouille of aubergine, onions and sweet peppers, with pearled barley and vegetable side dishes, says the team.",
-    author: "New Scientist",
-  },
-  {
-    quote:
-      "A vacation is a very expensive way to schedule the time to read a book in peace.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "A vine cannot behave olively, nor an olive tree vinely – it is impossible, inconceivable. No more can a human being wholly efface his native disposition.",
-    author: "Epictetus, Discourses II, 20.18-19",
-  },
-  {
-    quote:
-      "A will that never fails to get what it wants, a faculty of aversion that always avoids what it dislikes, proper impulse, careful purpose and disciplined assent. That's the human specimen you should prepare yourselves to see.",
-    author: "Epictetus, Discourses II, 8.29",
-  },
-  {
-    quote: "A witty saying proves nothing.",
-    author: "Voltaire",
-  },
-  {
-    quote:
-      "A year spent in artificial intelligence is enough to make one believe in God.",
-    author: "Alan J. Perlis (Epigrams in programming)",
-  },
-  {
-    quote:
-      "AI has by now succeded in doing essentially everything that requires 'thinking' but has failed to do most of what people and animals do 'without thinking' - that, somehow, is much harder!",
-    author: "Donald Knuth",
-  },
-  {
-    quote:
-      "About death: Whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change.",
-    author: "Marcus Aurelius, Meditations, VII.32",
-  },
-  {
-    quote:
-      'Abstraction is a form of data compression: absolutely necessary, because human short-term memory is so small, but the critically important aspect of abstraction is the algorithm that gets you from the name back to the "uncompressed" details.',
-    author: "Bruce Wilder (blog post comment)",
-  },
-  {
-    quote:
-      "Accept things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "Accustom yourself to attend carefully to what is said by another, and as much as it is possible, try to inhabit the speaker's mind.",
-    author: "Marcus Aurelius, Meditations VI.53",
-  },
-  {
-    quote: "Accustom yourself to criticism.",
-    author: "Robert Greene",
-  },
-  {
-    quote:
-      "Acknowledging the negative doesn't mean sniveling [whining, complaining]; it means facing the truth and then moving on.",
-    author: "George Leonard, Mastery.",
-  },
-  {
-    quote:
-      "Acquire the contemplative way of seeing how all things change into one another, and constantly attend to it, and exercise yourself about this part of philosophy. For nothing is so much adapted to produce magnanimity.",
-    author: "Marcus Aurelius, Meditations, X.11",
-  },
-  {
-    quote: "Act as if what you do makes a difference. It does.",
-    author: "William James",
-  },
-  {
-    quote:
-      "Act from reason, and failure makes you rethink and study harder. Act from faith, and failure makes you blame someone and push harder.",
-    author: "Erik Naggum",
-  },
-  {
-    quote:
-      "Actually, the essence of boredom is to be found in the obsessive search for novelty. Satisfaction lies in mindful repetition, the discovery of endless richness in subtle variations on familiar themes.",
-    author: "George Leonard, Mastery.",
-  },
-  {
-    quote:
-      "Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.",
-    author: "Alan J. Perlis (Epigrams in programming)",
-  },
-  {
-    quote: "Adults play characters.\nChildren only play.",
-    author: "@zen_fi on Twitter",
-  },
-  {
-    quote: "Advice for nearly everything: start slowly and maintain traction.",
-    author: "Michael",
-  },
-  {
-    quote: "After all, love is a good reason for everything to go wrong.",
-    author: "La Casa de papel | Tokyo",
-  },
-  {
-    quote:
-      "After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all — the trouble is, humans do have a knack of choosing precisely those things that are worst for them.",
-    author: "Professor Dumbledore",
-  },
-  {
-    quote:
-      "Alexander the Macedonian and his groom were brought to the same state by death; for either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms.",
-    author: "Marcus Aurelius, Meditations VI.24",
   },
   {
     quote: "All buildings are predictions. All predictions are wrong.",
@@ -479,12 +195,12 @@ const quotes = [
     author: "Seneca",
   },
   {
-    quote: "All great things require great dedication.",
-    author: "Chuck Norris(?)",
-  },
-  {
     quote: "All greatness comes from suffering.",
     author: "Naval Ravikant",
+  },
+  {
+    quote: "All great things require great dedication.",
+    author: "Chuck Norris(?)",
   },
   {
     quote: "All non-trivial abstractions, to some degree, are leaky.",
@@ -540,52 +256,51 @@ const quotes = [
     author: "Jane Austen",
   },
   {
+    quote: "A man is no bigger than the smallest thing that provokes him.",
+    author: "Dan Horton",
+  },
+  {
+    quote:
+      "A man must learn a great deal to enable him to pass a correct judgment on another man's acts.",
+    author: "Marcus Aurelius, Meditations, XI.18",
+  },
+  {
+    quote:
+      "A man should always have these two rules in readiness: one, to do only whatever the reason of the ruling and legislating faculty may suggest for the use of men; the other, to change your opinion, if anyone sets you right and dissuades you from any opinion.",
+    author: "Marcus Aurelius, Meditations IV.12",
+  },
+  {
+    quote:
+      "A man should hear a little music, read a little poetry, and see a fine picture every day of his life, in order that worldly cares may not obliterate the sense of the beautiful which God has implanted in the human soul.",
+    author: "Johann Wolfgang von Goethe",
+  },
+  {
+    quote:
+      "A man thus grounded must, whether he wills or not, necessarily be attended by constant cheerfulness and a joy that is deep and issues from deep within, since he finds delight in his own resources, and desires no joys greater than his inner joys.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.",
+    author: "Marcus Aurelius, Meditations V.6",
+  },
+  {
     quote:
       "Americans spend an average of four hours a day watching TV, an hour of that enduring ads. That adds up to an astounding 10% of total leisure time; at current rates, a typical viewer fritters away three years of his life getting bombarded with commercials.",
     author: "Scott Woolley, Forbes",
+  },
+  {
+    quote:
+      "A minute of rage can undo a lifetime of diligent effort. Self-control is self-preservation. Most of us won't look back on the moments we acted in anger as among our finest.",
+    author: "@TheStoicEmperor",
   },
   {
     quote: 'Amor fati - "Love your fate", which is in fact your life.',
     author: "Unknown",
   },
   {
-    quote:
-      "An expert is a man who has made all the mistakes which can be made in a very narrow field.",
-    author: "Niels Bohr",
-  },
-  {
-    quote:
-      'An expert is, according to my working definition "someone who doesn\'t need to look up answers to easy questions".',
-    author: "Eric Lippert.",
-  },
-  {
-    quote:
-      "An eye, when open, has no option but to see. The decision whether to look at a particular man's wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it – that also belongs to the will.",
-    author: "Epictetus, Discourses II, 23.11-13",
-  },
-  {
-    quote:
-      "An hour of deeply contemplating your own moral failures will leave you feeling much more forgiving of the foibles of others.",
-    author: "@TheStoicEmperor",
-  },
-  {
-    quote:
-      "An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple. Anyway, an idiot, anything the more complicated is the more he will admire it. If you make something so complicated he can't understand it, he's gonna think you're a god 'cause you made it so complicated nobody can understand it.",
-    author: "Terry A. Davis",
-  },
-  {
-    quote:
-      "An ignorant person is inclined to blame others for his own misfortune. To blame oneself is proof of progress. But the wise man never has to blame another or himself.",
-    author: "Epictetus, Enchiridion 5",
-  },
-  {
-    quote:
-      "An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language.",
-    author: "SICP",
-  },
-  {
-    quote: "An investment in knowledge always pays the best interest.",
-    author: "Benjamin Franklin",
+    quote: "A nation is born stoic, and dies epicurean.",
+    author: "Will Durant",
   },
   {
     quote: "Anatt? : The self is an illusion",
@@ -627,13 +342,72 @@ const quotes = [
   },
   {
     quote:
+      "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
+    author: "Max Planck",
+  },
+  {
+    quote:
+      'An expert is, according to my working definition "someone who doesn\'t need to look up answers to easy questions".',
+    author: "Eric Lippert.",
+  },
+  {
+    quote:
+      "An expert is a man who has made all the mistakes which can be made in a very narrow field.",
+    author: "Niels Bohr",
+  },
+  {
+    quote:
+      "An eye, when open, has no option but to see. The decision whether to look at a particular man's wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it – that also belongs to the will.",
+    author: "Epictetus, Discourses II, 23.11-13",
+  },
+  {
+    quote:
       "Anger is a big part of the formula, for passion is anger and love combined",
     author: "Robert Kiyosaki",
   },
   {
     quote:
+      "An hour of deeply contemplating your own moral failures will leave you feeling much more forgiving of the foibles of others.",
+    author: "@TheStoicEmperor",
+  },
+  {
+    quote:
+      "An idiot admires complexity, a genius admires simplicity. A physicist tries to make it simple. Anyway, an idiot, anything the more complicated is the more he will admire it. If you make something so complicated he can't understand it, he's gonna think you're a god 'cause you made it so complicated nobody can understand it.",
+    author: "Terry A. Davis",
+  },
+  {
+    quote:
+      "An ignorant person is inclined to blame others for his own misfortune. To blame oneself is proof of progress. But the wise man never has to blame another or himself.",
+    author: "Epictetus, Enchiridion 5",
+  },
+  {
+    quote:
+      "An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language.",
+    author: "SICP",
+  },
+  {
+    quote: "An investment in knowledge always pays the best interest.",
+    author: "Benjamin Franklin",
+  },
+  {
+    quote:
+      "A non negative binary integer value x is a power of 2 iff (x & (x-1)) is 0 using 2's complement arithmetic.",
+    author: "[fact]",
+  },
+  {
+    quote:
       "Another feature about this guy is his low threshold of boredom. He'll pick up on a task and work frantically at it, accomplishing wonders in a short time and then get bored and drop it before its properly finished. He'll do nothing but strum his guitar and lie around in bed for several days after. Thats also part of the pattern too; periods of frenetic activity followed by periods of melancholia, withdrawal and inactivity. This is a bipolar personality.",
     author: "The bipolar lisp programmer",
+  },
+  {
+    quote:
+      "A no uttered from the deepest conviction is better than a yes merely uttered to please or what is worse, to avoid trouble.",
+    author: "Mahatma Gandhi",
+  },
+  {
+    quote:
+      "Anybody who cares less about wanting to be cool, I think, is more interesting.",
+    author: "Aimee Mann",
   },
   {
     quote:
@@ -647,6 +421,11 @@ const quotes = [
   },
   {
     quote:
+      "Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So – a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.",
+    author: "Epictetus, Discourses I, 29.53-54",
+  },
+  {
+    quote:
       "Any sufficiently advanced technology is undistinguishable from magic.",
     author: "Arthur C. Clarke",
   },
@@ -656,22 +435,37 @@ const quotes = [
     author: "Philip Greenspun (Greenspun's Tenth Rule)",
   },
   {
+    quote: "Anything that just costs money is cheap.",
+    author: "John Steinbeck",
+  },
+  {
     quote: "Any word you have to hunt for in a thesaurus is the wrong word.",
     author: "Stephen King",
   },
   {
     quote:
-      "Anybody who cares less about wanting to be cool, I think, is more interesting.",
-    author: "Aimee Mann",
+      "A person who has built his life around pleasure is bound to be disillusioned. Hedonism is not sustainable, and it leaves a person empty. We are not meant to experience sustained pleasure. Therefore, to cope with the drab routine of daily existence, one must find meaning somewhere.",
+    author: "@TheAncientSage",
   },
   {
     quote:
-      "Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So – a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.",
-    author: "Epictetus, Discourses I, 29.53-54",
+      "A person won't become proficient at something until he or she has done it many times. In other words., if you want someone to be really good at building a software system, he or she will have to have built 10 or more systems of that type.",
+    author: "Philip Greenspun",
   },
   {
-    quote: "Anything that just costs money is cheap.",
-    author: "John Steinbeck",
+    quote:
+      "A person won't retain proficiency at a task unless he or she has at one time learned to perform that task very rapidly. Learning research demonstrates that the skills of people who become accurate but not fast deteriorate much sooner than the skills of people who become both accurate and fast.",
+    author: "Philip Greenspun",
+  },
+  {
+    quote:
+      "A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading – is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.",
+    author: "Epictetus, Discourses IV, 1.121-122",
+  },
+  {
+    quote:
+      "A rational person can find peace by cultivating indifference to things outside of their control.",
+    author: "Unknown",
   },
   {
     quote: "Are you adding to the noise, or are you cutting through the noise?",
@@ -715,6 +509,16 @@ const quotes = [
   },
   {
     quote:
+      "A setback has often cleared the way for greater prosperity. Many things have fallen only to rise to more exalted heights.",
+    author: "Seneca, Letter XCI",
+  },
+  {
+    quote:
+      "A single day among the learned lasts longer than the longest life of the ignorant.",
+    author: "Posidonius",
+  },
+  {
+    quote:
       "As is a tale, so is life: not how long it is, but how good it is, is what matters.",
     author: "Seneca",
   },
@@ -725,12 +529,51 @@ const quotes = [
   },
   {
     quote:
+      "Ask me what the real good in man's case is, and I can only say that it is the right kind of moral character.",
+    author: "Epictetus, Discourses I, 8.16",
+  },
+  {
+    quote:
+      "Ask yourself the 3 things you must always ask yourself before you say anything:\n  1. Does this need to be said?\n  2. Does this need to be said by me?\n  3. Does this need to be said my me now?",
+    author: "Craig Ferguson",
+  },
+  {
+    quote:
       "As long as you remember that everything is exactly how it's supposed to be, you will always be sane.",
     author: "Alan Watts",
   },
   {
+    quote:
+      "A society grows great when old men plant trees in whose shade they know they shall never sit.",
+    author: "an ancient Greek proverb?",
+  },
+  {
+    quote:
+      "A society that puts equality in the sense of equality of outcome ahead of freedom will end up with neither equality nor freedom. The use of force to achieve equality will destroy freedom, and the force, introduced for good purposes, will end up in the hands of people who use it to promote their own interests.",
+    author: "Milton Friedman (Thomas Sowell: A Conflict of Visions, p130)",
+  },
+  {
+    quote:
+      "Associate with people who are likely to improve you. Welcome those who you are capable of improving. The process is a mutual one: men learn as they teach.",
+    author: "Seneca",
+  },
+  {
     quote: "As soon as it works, no one calls it AI anymore.",
     author: "John McCarthy",
+  },
+  {
+    quote:
+      "Assume life will be really tough, and then ask if you can handle it. If the answer is yes, you've won.",
+    author: "Charlie Munger",
+  },
+  {
+    quote: "A stoic is a Buddhist with attitude.",
+    author: "Nassim Nicholas Taleb",
+  },
+  {
+    quote:
+      "A Stoic is someone who transforms fear into prudence, pain into transformation, mistakes into initiation, and desire into undertaking.",
+    author: "Nassim Nicholas Taleb",
   },
   {
     quote:
@@ -749,23 +592,8 @@ const quotes = [
   },
   {
     quote:
-      "Ask me what the real good in man's case is, and I can only say that it is the right kind of moral character.",
-    author: "Epictetus, Discourses I, 8.16",
-  },
-  {
-    quote:
-      "Ask yourself the 3 things you must always ask yourself before you say anything:\n  1. Does this need to be said?\n  2. Does this need to be said by me?\n  3. Does this need to be said my me now?",
-    author: "Craig Ferguson",
-  },
-  {
-    quote:
-      "Associate with people who are likely to improve you. Welcome those who you are capable of improving. The process is a mutual one: men learn as they teach.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "Assume life will be really tough, and then ask if you can handle it. If the answer is yes, you've won.",
-    author: "Charlie Munger",
+      "A tail call allows a function to return the result of another function without leaving an entry on the stack. Tail recursion is a specific case of tail calling.",
+    author: "ASPN : Python Cookbook : Explicit Tail Call",
   },
   {
     quote:
@@ -778,6 +606,15 @@ const quotes = [
     author: "@garrytan on Twitter",
   },
   {
+    quote: "A thing is neither better nor worse for having been praised.",
+    author: "Marcus Aurelius, Meditations IV.20",
+  },
+  {
+    quote:
+      "A truly successful person is not one who achieves his highest ambitions, but one who enjoys helping others reach theirs.",
+    author: "Charbel Tadros",
+  },
+  {
     quote:
       'At this point you run the risk of him saying, "What business is that of yours, sir? What are you to me?" Pester him further, and he is liable to punch you in the nose. I myself was once keen for this sort of discourse, until I met with just such a reception.',
     author: "Epictetus, Discourses II, 12.24-25",
@@ -787,13 +624,33 @@ const quotes = [
     author: "Eric S. Raymond, How to become a hacker",
   },
   {
-    quote: "A journey of a thousand miles must begin with a single step.",
-    author: "Lao­Tzu",
+    quote:
+      "A typical dinner from the ape menu would be tofu bake with ratatouille of aubergine, onions and sweet peppers, with pearled barley and vegetable side dishes, says the team.",
+    author: "New Scientist",
   },
   {
     quote:
-      "A no uttered from the deepest conviction is better than a yes merely uttered to please or what is worse, to avoid trouble.",
-    author: "Mahatma Gandhi",
+      "A vacation is a very expensive way to schedule the time to read a book in peace.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "A vine cannot behave olively, nor an olive tree vinely – it is impossible, inconceivable. No more can a human being wholly efface his native disposition.",
+    author: "Epictetus, Discourses II, 20.18-19",
+  },
+  {
+    quote:
+      "A will that never fails to get what it wants, a faculty of aversion that always avoids what it dislikes, proper impulse, careful purpose and disciplined assent. That's the human specimen you should prepare yourselves to see.",
+    author: "Epictetus, Discourses II, 8.29",
+  },
+  {
+    quote: "A witty saying proves nothing.",
+    author: "Voltaire",
+  },
+  {
+    quote:
+      "A year spent in artificial intelligence is enough to make one believe in God.",
+    author: "Alan J. Perlis (Epigrams in programming)",
   },
   {
     quote:
@@ -804,15 +661,6 @@ const quotes = [
     quote:
       "Barley porridge, or a crust of bread, and water do not make a very cheerful diet, but nothing gives one keener pleasure than the ability to derive pleasure even from that — and the feeling of having arrived at something which one cannot be deprived of by any unjust stroke of fortune.",
     author: "Seneca",
-  },
-  {
-    quote: "Be - don't try to become.",
-    author: "Osho",
-  },
-  {
-    quote:
-      "Be Fearful When Others Are Greedy and Greedy When Others Are Fearful",
-    author: "Warren Buffet",
   },
   {
     quote: "Be a good person but don't waste your time proving it.",
@@ -827,8 +675,92 @@ const quotes = [
     author: "Unknown",
   },
   {
+    quote:
+      "Because most entrenched bureaucracies tend to develop a strong aversion to changing the status quo, state-run technological progress is not likely to be sustained over long periods.",
+    author: "Joel Mokyr",
+  },
+  {
+    quote:
+      "Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, 'Is this necessary?'.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "Because we're the only animals who not only die but are conscious of it even while it happens, we are beset by anxiety.",
+    author: "Epictetus, Discourses II, 6.14",
+  },
+  {
+    quote:
+      "Because what is a human being? Part of a community – the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.",
+    author: "Epictetus, Discourses II, 5.26",
+  },
+  {
+    quote:
+      "Become your own worst critic; see your work as if through the eyes of others.",
+    author: "Robert Greene",
+  },
+  {
+    quote:
+      "Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad – that the student of philosophy will also have to learn a few things of his own?",
+    author: "Epictetus, Discourses II, 14.10",
+  },
+  {
     quote: "Be disentangled from all perceptions. They are not you.",
     author: "Brian Thompson",
+  },
+  {
+    quote: "Be - don't try to become.",
+    author: "Osho",
+  },
+  {
+    quote:
+      "Be Fearful When Others Are Greedy and Greedy When Others Are Fearful",
+    author: "Warren Buffet",
+  },
+  {
+    quote:
+      "Before enlightenment, chop wood and carry water. After enlightenment, chop wood and carry water.",
+    author: "Ancient Eastern adage",
+  },
+  {
+    quote: "Before software can be reusable it first has to be usable.",
+    author: "Ralph Johnson",
+  },
+  {
+    quote:
+      "Before we even start to read this passage together, it's probably worthwhile to stress that we should get pumped about reading this passage, because if we're interested in it, we will comprehend it better. But even more importantly, we're about to spend a few minutes of out life on this passage, and so if we're gonna spend a few minutes of our life on something, we might as well enjoy it.",
+    author:
+      "Sal Khan (from Khan Academy) before going through an example of the SAT Reading test",
+  },
+  {
+    quote:
+      "Begin at once to live, and count each separate day as a separate life.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. ... I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him.",
+    author: "Marcus Aurelius, Meditations II.1",
+  },
+  {
+    quote:
+      "Being angry means your lizard brain took control. Being calm means you stayed above your emotions.",
+    author: "Maxime Lagacé",
+  },
+  {
+    quote:
+      "Being a programmer is the same way. The only way to be a good programmer is to write code. When you realize you haven't been writing much code lately, and it seems like all you do is brag about code you wrote in the past, and people start looking at you funny while you're shooting your mouth off, realize it's because they know. They might not even know they know, but they know. So, yes, doing what you love brings success, and by all means, throw yourself a nice big party, buy yourself a nice car, soak up the adulation of an adoring crowd. Then shut the fuck up and get back to work.",
+    author: "Sincerity Theory",
+  },
+  {
+    quote:
+      "Being attached to many things, we are weighed down and dragged along with them.",
+    author: "Epictetus, Discourses I, 1.15",
+  },
+  {
+    quote:
+      '"Being healthy is good, being sick is bad." No, my friend: enjoying health in the right way is good; making bad use of your health is bad.',
+    author: "Epictetus, Discourses III, 20.4",
   },
   {
     quote:
@@ -873,76 +805,6 @@ const quotes = [
   },
   {
     quote:
-      "Because most entrenched bureaucracies tend to develop a strong aversion to changing the status quo, state-run technological progress is not likely to be sustained over long periods.",
-    author: "Joel Mokyr",
-  },
-  {
-    quote:
-      "Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, 'Is this necessary?'.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "Because we're the only animals who not only die but are conscious of it even while it happens, we are beset by anxiety.",
-    author: "Epictetus, Discourses II, 6.14",
-  },
-  {
-    quote:
-      "Because what is a human being? Part of a community – the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.",
-    author: "Epictetus, Discourses II, 5.26",
-  },
-  {
-    quote:
-      "Become your own worst critic; see your work as if through the eyes of others.",
-    author: "Robert Greene",
-  },
-  {
-    quote:
-      "Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad – that the student of philosophy will also have to learn a few things of his own?",
-    author: "Epictetus, Discourses II, 14.10",
-  },
-  {
-    quote:
-      "Before enlightenment, chop wood and carry water. After enlightenment, chop wood and carry water.",
-    author: "Ancient Eastern adage",
-  },
-  {
-    quote: "Before software can be reusable it first has to be usable.",
-    author: "Ralph Johnson",
-  },
-  {
-    quote:
-      "Before we even start to read this passage together, it's probably worthwhile to stress that we should get pumped about reading this passage, because if we're interested in it, we will comprehend it better. But even more importantly, we're about to spend a few minutes of out life on this passage, and so if we're gonna spend a few minutes of our life on something, we might as well enjoy it.",
-    author:
-      "Sal Khan (from Khan Academy) before going through an example of the SAT Reading test",
-  },
-  {
-    quote:
-      "Begin at once to live, and count each separate day as a separate life.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. ... I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him.",
-    author: "Marcus Aurelius, Meditations II.1",
-  },
-  {
-    quote:
-      "Being a programmer is the same way. The only way to be a good programmer is to write code. When you realize you haven't been writing much code lately, and it seems like all you do is brag about code you wrote in the past, and people start looking at you funny while you're shooting your mouth off, realize it's because they know. They might not even know they know, but they know. So, yes, doing what you love brings success, and by all means, throw yourself a nice big party, buy yourself a nice car, soak up the adulation of an adoring crowd. Then shut the fuck up and get back to work.",
-    author: "Sincerity Theory",
-  },
-  {
-    quote:
-      "Being angry means your lizard brain took control. Being calm means you stayed above your emotions.",
-    author: "Maxime Lagacé",
-  },
-  {
-    quote:
-      "Being attached to many things, we are weighed down and dragged along with them.",
-    author: "Epictetus, Discourses I, 1.15",
-  },
-  {
-    quote:
       "Between stimulus and response, there is a space. In that space is our power to choose our response.",
     author: "Viktor Frankl",
   },
@@ -967,6 +829,21 @@ const quotes = [
   },
   {
     quote:
+      '"But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.',
+    author: "Epictetus, Discourses I, 19.29",
+  },
+  {
+    quote:
+      '"But it is not worthwhile to live if this cannot be done." Take your departure then from life contentedly.',
+    author: "Marcus Aurelius, Meditations, VIII.47",
+  },
+  {
+    quote:
+      '"But my nose is running!" What do you have hands for, idiot, if not to wipe it? "But how is it right that there be running noses in the first place?" Instead of thinking up protests, wouldn\'t it be easier just to wipe your nose?',
+    author: "Epictetus, Discourses I, 6.30",
+  },
+  {
+    quote:
       'But suppose I choose to walk, and someone obstructs me?" What part of you will they obstruct? Certainly not your power of assent? "No, my body." Your body, yes – as they might obstruct a rock. "Perhaps; but the upshot is, now I\'m not allowed to walk." Whoever told you, "Walking is your irrevocable privilege\'? I said only that the will to walk could not be obstructed.',
     author: "Epictetus, Discourses IV, 1.72-73",
   },
@@ -974,6 +851,16 @@ const quotes = [
     quote:
       "But the audience is right. They're always, always right. You hear directors complain that the advertising was lousy, the distribution is no good, the date was wrong to open the film. I don't believe that. The audience is never wrong. Never.",
     author: "William Friedkin, in a NYT interview",
+  },
+  {
+    quote:
+      '"But the tyrant will chain –" What will he chain? Your leg. "He will chop off –" What? Your head. What he will never chain or chop off is your integrity.',
+    author: "Epictetus, Discourses I, 18.17",
+  },
+  {
+    quote:
+      '"But we must stick with a decision." "For heaven\'s sake, man, that rule only applies to sound decisions. I suppose next you will decide that it is night now, and refuse to change your mind because you don\'t want to.',
+    author: "Epictetus, Discourses II, 15.7",
   },
   {
     quote: "But what is it good for?",
@@ -996,23 +883,13 @@ const quotes = [
     author: "Steve Yegge, Tour de Babel.",
   },
   {
-    quote:
-      "C++ is history repeated as tragedy. Java is history repeated as farce.",
-    author: "Scott McKay",
-  },
-  {
-    quote:
-      "C++ is like teenage sex: Everybody is talking about it all the time, only few are really doing it.",
-    author: "unknown",
-  },
-  {
-    quote:
-      'CFO asks CEO: "What happens if we invest in developing out people and then they leave us?" CEO: "What happens if we don\'t, and they stay?"',
-    author: "unknown",
-  },
-  {
     quote: "Can you take criticism and use it constructively?",
     author: "Robert Greene",
+  },
+  {
+    quote:
+      "Ce n’est que par les beaux sentiments qu’on parvient à la fortune !",
+    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
   },
   {
     quote:
@@ -1022,8 +899,8 @@ const quotes = [
   },
   {
     quote:
-      "Ce n’est que par les beaux sentiments qu’on parvient à la fortune !",
-    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
+      'CFO asks CEO: "What happens if we invest in developing out people and then they leave us?" CEO: "What happens if we don\'t, and they stay?"',
+    author: "unknown",
   },
   {
     quote: "Chance favors the prepared mind.",
@@ -1045,6 +922,16 @@ const quotes = [
   },
   {
     quote:
+      "C++ is history repeated as tragedy. Java is history repeated as farce.",
+    author: "Scott McKay",
+  },
+  {
+    quote:
+      "C++ is like teenage sex: Everybody is talking about it all the time, only few are really doing it.",
+    author: "unknown",
+  },
+  {
+    quote:
       "Civilization advances by extending the number of important operations which we can perform without thinking about them.",
     author: "Alfred North Whitehead (Introduction to Mathematics)",
   },
@@ -1062,18 +949,23 @@ const quotes = [
     author: "Nassim Nicholas Taleb",
   },
   {
+    quote: "Computers are like a bicycle for our minds.",
+    author: "Steve Jobs",
+  },
+  {
     quote:
       "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.",
     author: "Eric Raymond",
   },
   {
     quote:
-      "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.",
+      '"Computer science" is a terrible name. Astronomy is not called "telescope science", and biology is not called "microscope science"',
     author: "unknown",
   },
   {
-    quote: "Computers are like a bicycle for our minds.",
-    author: "Steve Jobs",
+    quote:
+      "Computer science is no more about computers than astronomy is about telescopes, biology is about microscopes or chemistry is about beakers and test tubes. Science is not about tools. It is about how we use them, and what we find out when we do.",
+    author: "unknown",
   },
   {
     quote:
@@ -1084,6 +976,11 @@ const quotes = [
     quote:
       "Consider at what price you sell your integrity; but please, for God's sake, don't sell it cheap.",
     author: "Epictetus, Discourses I, 2.33",
+  },
+  {
+    quote:
+      "Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline.",
+    author: "Bill Clinton",
   },
   {
     quote:
@@ -1119,11 +1016,6 @@ const quotes = [
     quote:
       "Consider what men are when they are eating, sleeping, coupling, evacuating, and so forth. Then what kind of men they are when they are imperious and arrogant, or angry and scolding from their elevated place.",
     author: "Marcus Aurelius, Meditations, X.19",
-  },
-  {
-    quote:
-      "Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline.",
-    author: "Bill Clinton",
   },
   {
     quote:
@@ -1175,12 +1067,17 @@ const quotes = [
   },
   {
     quote:
-      "Cultivate a fearless approach to life, attack everything with boldness and energy.",
-    author: "Robert Greene",
+      "1 - Creativity and innovation always build on the past.\n2 - The past always tries to control the creativity that builds on it.\n3 - Free societies enable the future by limiting the past.\n4 - Ours is less and less a free society.",
+    author: "Lawrence Lessig, Free Culture.",
   },
   {
     quote: "C’s great for what it’s great for.",
     author: "Ben Hoyts (micropledge)",
+  },
+  {
+    quote:
+      "Cultivate a fearless approach to life, attack everything with boldness and energy.",
+    author: "Robert Greene",
   },
   {
     quote: "Dance first. Talk later. It's the natural order.",
@@ -1208,6 +1105,11 @@ const quotes = [
   },
   {
     quote:
+      "Death, [Diogenes] said, was not evil because it was not dishonourable. Reputation was the empty noise of fools.",
+    author: "Epictetus, Discourses I, 24.6",
+  },
+  {
+    quote:
       "Death is necessary and cannot be avoided. I mean, where am I going to go to get away from it?",
     author: "Epictetus, Discourses I, 27.7-8",
   },
@@ -1221,18 +1123,18 @@ const quotes = [
   },
   {
     quote:
-      "Death, [Diogenes] said, was not evil because it was not dishonourable. Reputation was the empty noise of fools.",
-    author: "Epictetus, Discourses I, 24.6",
-  },
-  {
-    quote:
-      "Des mots simples, quand ils sont bien utilisés, font faire à des gens ordinaires des choses extraordinaires.",
-    author: "Khaled TANGAO",
+      '"Define for me now what the "indifferents" are." "Whatever things we cannot control.\'"Tell me the upshot." "They are nothing to me."',
+    author: "Epictetus, Discourses I, 30.3",
   },
   {
     quote:
       "Desire is a contract that you make with yourself to be unhappy until you get what you want.",
     author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "Des mots simples, quand ils sont bien utilisés, font faire à des gens ordinaires des choses extraordinaires.",
+    author: "Khaled TANGAO",
   },
   {
     quote:
@@ -1264,6 +1166,16 @@ const quotes = [
     quote:
       'Do as Socrates did, never replying to the question of where he was from with, "I am Athenian," or "I am from Corinth," but always, "I am a citizen of the world."',
     author: "Epictetus, Discourses, I, 9.1",
+  },
+  {
+    quote:
+      "Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "Does what's happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all other qualities that allow a person's nature to fulfil itself? So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune.",
+    author: "Marcus Aurelius",
   },
   {
     quote:
@@ -1325,45 +1237,6 @@ const quotes = [
     author: "Marcus Aurelius, Meditations III.4",
   },
   {
-    quote:
-      "Do what is necessary, and whatever the reason of a social animal naturally requires, and as it requires.",
-    author: "Marcus Aurelius, Meditations IV.24",
-  },
-  {
-    quote:
-      "Do what you will. Even if you tear yourself apart, most people will continue doing the same things.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote: "Do you have reason? I have. Why then do you not use it?",
-    author: "Marcus Aurelius, Meditations IV.13",
-  },
-  {
-    quote:
-      "Do you see how many qualities you are immediately able to exhibit, in which there is no excuse of natural incapacity and unfitness, and yet you still remain voluntarily below the mark?",
-    author: "Marcus Aurelius, Meditations V.5",
-  },
-  {
-    quote:
-      "Do you want to know if you are educated? Show us your values, philosopher.",
-    author: "Epictetus, Discourses III, 23.9",
-  },
-  {
-    quote:
-      "Do you want to sell sugared water all your life or do you want to change the world?",
-    author: "Steve Jobs, to John Sculley (former Pepsi executive)",
-  },
-  {
-    quote:
-      "Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "Does what's happened keep you from acting with justice, generosity, self-control, sanity, prudence, honesty, humility, straightforwardness, and all other qualities that allow a person's nature to fulfil itself? So remember this principle when something threatens to cause you pain: the thing itself was no misfortune at all; to endure it and prevail is great good fortune.",
-    author: "Marcus Aurelius",
-  },
-  {
     quote: "Don't aim to be perfect. Aim to be antifragile.",
     author: "Nassim Nicholas Taleb",
   },
@@ -1388,13 +1261,13 @@ const quotes = [
   },
   {
     quote:
-      "Don't be the person that looks at the weather report the night before to decide what you are going to do the next day.",
-    author: "David Goggins",
+      "Don't believe your situation is genuinely bad – no one can make you do that. Is there smoke in the house? If it's not suffocating, I will stay indoors; if it proves too much, I'll leave. Always remember – the door is open.",
+    author: "Epictetus, Discourses I, 25.17-18",
   },
   {
     quote:
-      "Don't believe your situation is genuinely bad – no one can make you do that. Is there smoke in the house? If it's not suffocating, I will stay indoors; if it proves too much, I'll leave. Always remember – the door is open.",
-    author: "Epictetus, Discourses I, 25.17-18",
+      "Don't be the person that looks at the weather report the night before to decide what you are going to do the next day.",
+    author: "David Goggins",
   },
   {
     quote:
@@ -1426,6 +1299,10 @@ const quotes = [
   {
     quote: "Don't get mad at others because life is kicking your ass.",
     author: "David Goggins",
+  },
+  {
+    quote: "Dont give users the opportunity to lock themselves.",
+    author: "unknown",
   },
   {
     quote: "Don't grieve. Anything you lose comes round in another form.",
@@ -1475,8 +1352,38 @@ const quotes = [
     author: "Alan Kay",
   },
   {
-    quote: "Dont give users the opportunity to lock themselves.",
-    author: "unknown",
+    quote:
+      '"Do we have that many masters?" We do. Because over and above the rest we have masters in the form of circumstances, which are legion. And anyone who controls any one of them controls us as well.',
+    author: "Epictetus, Discourses IV, 1.59",
+  },
+  {
+    quote:
+      "Do what is necessary, and whatever the reason of a social animal naturally requires, and as it requires.",
+    author: "Marcus Aurelius, Meditations IV.24",
+  },
+  {
+    quote:
+      "Do what you will. Even if you tear yourself apart, most people will continue doing the same things.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote: "Do you have reason? I have. Why then do you not use it?",
+    author: "Marcus Aurelius, Meditations IV.13",
+  },
+  {
+    quote:
+      "Do you see how many qualities you are immediately able to exhibit, in which there is no excuse of natural incapacity and unfitness, and yet you still remain voluntarily below the mark?",
+    author: "Marcus Aurelius, Meditations V.5",
+  },
+  {
+    quote:
+      "Do you want to know if you are educated? Show us your values, philosopher.",
+    author: "Epictetus, Discourses III, 23.9",
+  },
+  {
+    quote:
+      "Do you want to sell sugared water all your life or do you want to change the world?",
+    author: "Steve Jobs, to John Sculley (former Pepsi executive)",
   },
   {
     quote:
@@ -1575,6 +1482,16 @@ const quotes = [
   },
   {
     quote:
+      "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+    author: "Albert Einstein",
+  },
+  {
+    quote:
+      "Everybody makes their own fun. If you don't make it yourself, it ain't fun, it's entertainment.",
+    author: "David Mamet (as relayed by Joss Whedon)",
+  },
+  {
+    quote:
       "Every day as it comes should be welcomed and reduced forthwith into our own possession as if it were the finest day imaginable. What flies past has to be seized at.",
     author: "Seneca, Letter CVIII",
   },
@@ -1594,23 +1511,13 @@ const quotes = [
   },
   {
     quote:
-      "Every part of me then will be reduced by change into some part of the universe, and that again will change into another part of the universe, and so on forever.",
-    author: "Marcus Aurelius, Meditations V.13",
-  },
-  {
-    quote:
-      "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
-    author: "Albert Einstein",
-  },
-  {
-    quote:
-      "Everybody makes their own fun. If you don't make it yourself, it ain't fun, it's entertainment.",
-    author: "David Mamet (as relayed by Joss Whedon)",
-  },
-  {
-    quote:
       "Everyone faces up more bravely to a thing for which he has long prepared himself, sufferings, even, being withstood if they have been trained for in advance. Those who are unprepared, on the other hand, are panic-stricken by the most insignificant happenings.",
     author: "Seneca",
+  },
+  {
+    quote:
+      "Every part of me then will be reduced by change into some part of the universe, and that again will change into another part of the universe, and so on forever.",
+    author: "Marcus Aurelius, Meditations V.13",
   },
   {
     quote:
@@ -1663,13 +1570,13 @@ const quotes = [
     author: "Matt D'Avella",
   },
   {
+    quote: "Expectation is the only seed of disappointment.",
+    author: "Mokokoma Mokhonoana",
+  },
+  {
     quote:
       "Expect the river to be wild, surprising and challenging. To expect the opposite is to live in delusion.",
     author: "Maxime Lagacé",
-  },
-  {
-    quote: "Expectation is the only seed of disappointment.",
-    author: "Mokokoma Mokhonoana",
   },
   {
     quote: "Experience is what you get when you don't get what you want.",
@@ -1710,12 +1617,13 @@ const quotes = [
   },
   {
     quote:
-      "Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded. But if there is no harm to the elements themselves in each continually changing into another, why should a man have any apprehension about the change and dissolution of all the elements?",
-    author: "Marcus Aurelius, Meditations II.17",
+      "filter(P, S) is almost always written clearer as [x for x in S if P(x)]",
+    author: "Guido van Rossum on Python",
   },
   {
-    quote: "Find someone who shares your definition of love.",
-    author: "@vintagefeeling on instagram",
+    quote:
+      "Finally, waiting for death with a cheerful mind, as being nothing else than a dissolution of the elements of which every living being is compounded. But if there is no harm to the elements themselves in each continually changing into another, why should a man have any apprehension about the change and dissolution of all the elements?",
+    author: "Marcus Aurelius, Meditations II.17",
   },
   {
     quote:
@@ -1723,14 +1631,18 @@ const quotes = [
     author: "@TheStoicEmperor",
   },
   {
-    quote:
-      "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.",
-    author: "George Carrette",
+    quote: "Find someone who shares your definition of love.",
+    author: "@vintagefeeling on instagram",
   },
   {
     quote:
       "First, do nothing inconsiderately or without a purpose. Second, make your acts refer to nothing else but a social end.",
     author: "Marcus Aurelius, Meditations, XII.20",
+  },
+  {
+    quote:
+      "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.",
+    author: "George Carrette",
   },
   {
     quote:
@@ -1740,6 +1652,10 @@ const quotes = [
   {
     quote: "Flow is meditation while doing.",
     author: "Naval Rakikant",
+  },
+  {
+    quote: "Focusing is about saying no.",
+    author: "Steve Jobs",
   },
   {
     quote:
@@ -1752,17 +1668,8 @@ const quotes = [
     author: "Marcus Aurelius",
   },
   {
-    quote: "Focusing is about saying no.",
-    author: "Steve Jobs",
-  },
-  {
     quote: "Folks who want porn can buy an android.",
     author: "Steve Jobs",
-  },
-  {
-    quote:
-      "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.",
-    author: "Alan J. Perlis (Epigrams in programming)",
   },
   {
     quote:
@@ -1771,13 +1678,23 @@ const quotes = [
   },
   {
     quote:
-      "For God's sake, stop honouring externals, quit turning yourself into the tool of mere matter, or of people who can supply you or deny you those material things.",
-    author: "Epictetus, Discourses III, 20.8",
+      "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.",
+    author: "Alan J. Perlis (Epigrams in programming)",
   },
   {
     quote:
       "For complex systems, the compiler and development environment need to be in the same language that its supporting. It's the only way to grow code.",
     author: "Alan Kay",
+  },
+  {
+    quote:
+      "For God's sake, stop honouring externals, quit turning yourself into the tool of mere matter, or of people who can supply you or deny you those material things.",
+    author: "Epictetus, Discourses III, 20.8",
+  },
+  {
+    quote:
+      "Formerly, when you were devoted to worthless pursuits, your friends found you congenial company. But you can't be a hit in both roles. To the extent you cultivate one you will fall short in the other.",
+    author: "Epictetus, Discourses IV, 2.6-7",
   },
   {
     quote:
@@ -1793,11 +1710,6 @@ const quotes = [
     quote:
       "For where else is friendship found if not with fairness, reliability and respect for virtue only?",
     author: "Epictetus, Discourses II, 22.30",
-  },
-  {
-    quote:
-      "Formerly, when you were devoted to worthless pursuits, your friends found you congenial company. But you can't be a hit in both roles. To the extent you cultivate one you will fall short in the other.",
-    author: "Epictetus, Discourses IV, 2.6-7",
   },
   {
     quote: "Fragile egos make for fragile friendships.",
@@ -1816,11 +1728,6 @@ const quotes = [
     quote:
       "Friends, the school of a philosopher is a hospital. When you leave, you should have suffered, not enjoyed yourself.",
     author: "Epictetus, Discourses III, 23.30",
-  },
-  {
-    quote:
-      "From 1911 to 1920, the mood of the city varied between utter dullness and tremendous excitement.",
-    author: "Arthur Coffman, An Illustrated History of Palo Alto",
   },
   {
     quote:
@@ -1849,16 +1756,6 @@ const quotes = [
   },
   {
     quote:
-      "From Rustics [I learned] with respect to those who have offended me by words, or done me wrong, to be easily disposed to be pacified and reconciled.",
-    author: "Marcus Aurelius, Meditations I.7",
-  },
-  {
-    quote:
-      "From Sextus [I learned] to tolerate ignorant persons, and those who form opinions without consideration.",
-    author: "Marcus Aurelius, Meditations I.9",
-  },
-  {
-    quote:
       "From my brother Severus [I learned] to love my kin, and to love truth, and to love justice.",
     author: "Marcus Aurelius, Meditations I.14",
   },
@@ -1874,8 +1771,23 @@ const quotes = [
   },
   {
     quote:
+      "From Rustics [I learned] with respect to those who have offended me by words, or done me wrong, to be easily disposed to be pacified and reconciled.",
+    author: "Marcus Aurelius, Meditations I.7",
+  },
+  {
+    quote:
+      "From Sextus [I learned] to tolerate ignorant persons, and those who form opinions without consideration.",
+    author: "Marcus Aurelius, Meditations I.9",
+  },
+  {
+    quote:
       "From this place she sent into the world those novels, which by many have been placed on the same shelf as the works of a D'Arblay and an Edgeworth.",
     author: "Henry Austen on his sister Jane, in a preface to Persuasion",
+  },
+  {
+    quote:
+      "From 1911 to 1920, the mood of the city varied between utter dullness and tremendous excitement.",
+    author: "Arthur Coffman, An Illustrated History of Palo Alto",
   },
   {
     quote:
@@ -1982,13 +1894,13 @@ const quotes = [
     author: "Steve Jobs",
   },
   {
-    quote: "Great times are great softeners.",
-    author: "Ryan Holiday",
-  },
-  {
     quote:
       "Greatness starts with the replacement of hatred with polite disdain.",
     author: "Nassim Nicholas Taleb",
+  },
+  {
+    quote: "Great times are great softeners.",
+    author: "Ryan Holiday",
   },
   {
     quote: "Growth and comfort do not coexist.",
@@ -2014,12 +1926,12 @@ const quotes = [
     author: "Epictetus",
   },
   {
-    quote: "Happiness is peace in motion.",
-    author: "Naval Rakikant",
-  },
-  {
     quote: "Happiness isn't outside of us, but actually comes from within.",
     author: "Leo Babauta",
+  },
+  {
+    quote: "Happiness is peace in motion.",
+    author: "Naval Rakikant",
   },
   {
     quote:
@@ -2076,8 +1988,43 @@ const quotes = [
   },
   {
     quote:
+      "Hence my urgent advice to all of you to reject the morals of the bestseller society and to find, to start with, your reward in your own fun. This is quite feasible, for the challenge of simplification is so fascinating that, if we do our job properly, we shall have the greatest fun in the world.",
+    author: "E. W. Dijkstra, On the nature of computing science.",
+  },
+  {
+    quote:
       "He often acts unjustly who does not do a certain thing; not only he who does a certain thing.",
     author: "Marcus Aurelius, Meditations, IX.5",
+  },
+  {
+    quote:
+      "Here is a rule to remember in future, when anything tempts you to feel bitter: not 'This is misfortune', but 'To bear this worthily is good fortune.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "Here's to the crazy ones.\n The misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey invent. They imagine. They heal.\nThey explore. They create. They inspire.\nThey push the human race forward.\nMaybe they have to be crazy.\nHow else can you stare at an empty canvas and see a work of art?\nOr, sit in silence and hear a song that’s never been written?\nOr, gaze at a red planet and see a laboratory on wheels?\nWe make tools for these kinds of people.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
+    author: "Apple, 1997, Think Different",
+  },
+  {
+    quote:
+      "Here you have philosophy's starting point: we find that people cannot agree among themselves, and we go in search of the source of their disagreement.",
+    author: "Epictetus, Discourses II, 11.13",
+  },
+  {
+    quote:
+      "Heroes are heroes because they are heroic in behaviour, not because they won or lost.",
+    author: "Nassim Nicholas Taleb",
+  },
+  {
+    quote:
+      'He\'s a clever young man and a fan of rhetoric." "How do you know?" "He praises me." Oh, well, that proves it, of course.',
+    author: "Epictetus, Discourses III, 23.14",
+  },
+  {
+    quote:
+      "Heureux l'étudiant qui comme la Rivière peut suivre son cours sans quitter son lit...",
+    author: "Sebastien, sur commentcamarche.net",
   },
   {
     quote: "He who angers you conquers you.",
@@ -2130,41 +2077,6 @@ const quotes = [
   },
   {
     quote:
-      'He\'s a clever young man and a fan of rhetoric." "How do you know?" "He praises me." Oh, well, that proves it, of course.',
-    author: "Epictetus, Discourses III, 23.14",
-  },
-  {
-    quote:
-      "Hence my urgent advice to all of you to reject the morals of the bestseller society and to find, to start with, your reward in your own fun. This is quite feasible, for the challenge of simplification is so fascinating that, if we do our job properly, we shall have the greatest fun in the world.",
-    author: "E. W. Dijkstra, On the nature of computing science.",
-  },
-  {
-    quote:
-      "Here is a rule to remember in future, when anything tempts you to feel bitter: not 'This is misfortune', but 'To bear this worthily is good fortune.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "Here you have philosophy's starting point: we find that people cannot agree among themselves, and we go in search of the source of their disagreement.",
-    author: "Epictetus, Discourses II, 11.13",
-  },
-  {
-    quote:
-      "Here's to the crazy ones.\n The misfits.\nThe rebels.\nThe troublemakers.\nThe round pegs in the square holes.\nThe ones who see things differently.\nThey're not fond of rules.\nAnd they have no respect for the status quo.\nYou can quote them, disagree with them,\nglorify or vilify them.\nAbout the only thing you can't do is ignore them.\nBecause they change things.\nThey invent. They imagine. They heal.\nThey explore. They create. They inspire.\nThey push the human race forward.\nMaybe they have to be crazy.\nHow else can you stare at an empty canvas and see a work of art?\nOr, sit in silence and hear a song that’s never been written?\nOr, gaze at a red planet and see a laboratory on wheels?\nWe make tools for these kinds of people.\nWhile some may see them as the crazy ones,\nwe see genius.\nBecause the people who are crazy enough to think\nthey can change the world, are the ones who do.",
-    author: "Apple, 1997, Think Different",
-  },
-  {
-    quote:
-      "Heroes are heroes because they are heroic in behaviour, not because they won or lost.",
-    author: "Nassim Nicholas Taleb",
-  },
-  {
-    quote:
-      "Heureux l'étudiant qui comme la Rivière peut suivre son cours sans quitter son lit...",
-    author: "Sebastien, sur commentcamarche.net",
-  },
-  {
-    quote:
       "Hippocrates, after curing many diseases, himself fell sick and died. ... Alexander and Pompeius and Gaius Caesar, after so often completely destroying whole cities ... themselves, too, at last departed from life. ... And lice destroyed Democritus; and other lice killed Socrates.",
     author: "Marcus Aurelius, Meditations III.3",
   },
@@ -2182,6 +2094,21 @@ const quotes = [
     quote:
       "How do you move forward? One step at a time. How do you lose weight? One kilo at a time. How do you write a book? One page at a time. How do you build a relationship? One day at a time. In a world obsessed with speed, never forget things of real worth and value take time.",
     author: "Thibaut",
+  },
+  {
+    quote:
+      "However beautiful the strategy, you should occasionally look at the results.",
+    author: "Winston Churchill",
+  },
+  {
+    quote: "However little television you watch, watch less.",
+    author: "David McCullough",
+  },
+  {
+    quote:
+      "[How friendly will this machine be?] Well, I don’t think it’s a matter of friendliness, because ultimately if the program is going to accomplish anything of value, it will probably be relatively complex.",
+    author:
+      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
@@ -2221,15 +2148,6 @@ const quotes = [
   {
     quote: "How we spend our days is, of course, how we spend our lives.",
     author: "Annie Dillard",
-  },
-  {
-    quote:
-      "However beautiful the strategy, you should occasionally look at the results.",
-    author: "Winston Churchill",
-  },
-  {
-    quote: "However little television you watch, watch less.",
-    author: "David McCullough",
   },
   {
     quote:
@@ -2273,6 +2191,11 @@ const quotes = [
   },
   {
     quote:
+      '"I am unhappy, because this has happened to me." Not so: say, "I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future."',
+    author: "Marcus Aurelius, Meditations IV.49",
+  },
+  {
+    quote:
       "I begin to speak only when I'm certain what I'll say isn't better left unsaid.",
     author: "Cato The Younger",
   },
@@ -2312,202 +2235,73 @@ const quotes = [
     author: "Claude Shannon",
   },
   {
+    quote: "I’d rather write programs to write programs than write programs.",
+    author: "Richard Sites",
+  },
+  {
+    quote:
+      "If a man is mistaken, instruct him kindly and show him his error. But if you are not able, blame yourself, or not even yourself.",
+    author: "Marcus Aurelius, Meditations, X.4",
+  },
+  {
+    quote:
+      "If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher's weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them.",
+    author: "Epictetus, Discourses I, 5.1",
+  },
+  {
+    quote:
+      "If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance.",
+    author: "Marcus Aurelius, Meditations VI.21",
+  },
+  {
+    quote:
+      "If anyone can refute me ‚ show me I'm making a mistake or looking at things from the wrong perspective ‚ I'll gladly change. It's the truth I'm after.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, 'He was ignorant of my other faults, else he would not have mentioned these alone'.",
+    author: "Epictetus",
+  },
+  {
+    quote:
+      "If a thing is in your own power, why do you do it? But if it is in the power of another, whom do you blame? The atoms (chance) or the gods? Both are foolish. You must blame nobody.",
+    author: "Marcus Aurelius, Meditations, VIII.17",
+  },
+  {
+    quote:
+      "If change is forced upon you, you must resist the temptation to overreact or feel sorry for yourself.",
+    author: "Robert Greene",
+  },
+  {
+    quote:
+      "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    author: "Edsger W. Dijkstra",
+  },
+  {
     quote:
       "I feel it is everybodies obligation to reach for the best in themselves and use that for the interest of mankind.",
     author:
       "Corneluis (comment on 'Are you going to change the world? (Really?)')",
   },
   {
-    quote: "I find that the harder I work, the more luck I seem to have.",
-    author: "Thomas Jefferson",
+    quote:
+      "If even the perception of doing wrong departs, what reason is there for living any longer?",
+    author: "Marcus Aurelius, Meditations, VII.24",
+  },
+  {
+    quote: "If everything seems under control, you're not going fast enough.",
+    author: "Mario Andretti",
   },
   {
     quote:
-      "I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.",
-    author: "Buddha",
+      "If evil be spoken of you and it be true, correct yourself, if it's a lie, laugh at it.",
+    author: "Epictetus",
   },
   {
     quote:
-      "I guess, when you're drunk, every woman looks beautiful and every language looks (like) a Lisp :)",
-    author: "Lament, #scheme@freenode.net",
-  },
-  {
-    quote:
-      "I had my own reactions to Paul's essay — on the whole I liked it but when I connected some dots I found some suggestions of things I strongly disliked — not so much in the essay as suggested by it.",
-    author: "reaction to What You Can't Say in a blog",
-  },
-  {
-    quote: "I had to learn how to teach less, so that more could be learned.",
-    author: "Tim Gallwey, The inner game of work",
-  },
-  {
-    quote:
-      "I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.",
-    author: "Epictetus, Discourses III, 20.11",
-  },
-  {
-    quote:
-      "I have never met a man so ignorant that I couldn't learn something from him.",
-    author: "Galileo Galilei",
-  },
-  {
-    quote:
-      "I have no money, no resources, no hopes. I am the happiest man alive.",
-    author: "Henry Miller",
-  },
-  {
-    quote:
-      "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
-    author: "Marcus Aurelius, Meditations, XII.4",
-  },
-  {
-    quote:
-      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
-    author: "Epictetus, Discourses I, 1.32",
-  },
-  {
-    quote:
-      "I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.",
-    author: "Alan Kay",
-  },
-  {
-    quote:
-      "I like times of turbulence more than times of stability. More opportunity to seize and grow.",
-    author: "@LifeMathMoney",
-  },
-  {
-    quote:
-      "I like to see what I'm made of. I want to see if there is a limit to the human soul.",
-    author: "David Goggins",
-  },
-  {
-    quote: "I love to go and see all the things I am happy without.",
-    author: "Socrates, On going to the market",
-  },
-  {
-    quote:
-      "I must study politics and war, so that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
-    author: "John Adams",
-  },
-  {
-    quote:
-      "I say never be complete, I say stop being perfect, I say let... lets evolve, let the chips fall where they may.",
-    author: "Chuck Palahniuk, Fight Club",
-  },
-  {
-    quote:
-      "I say that virtue is more valuable than wealth to the same degree that eyes are more valuable than fingernails.",
-    author: "Epictetus, Fragments 13",
-  },
-  {
-    quote:
-      "I see no virtue that is opposed to justice; but I see a virtue that is opposed to love of pleasure, and that is temperance.",
-    author: "Marcus Aurelius, Meditations, VIII.39",
-  },
-  {
-    quote:
-      "I sometimes ask students what their position on slavery would have been had they been white and living in the South before abolition. Guess what? They all would have been abolitionists! They all would have bravely spoken out against slavery, and worked tirelessly against it.",
-    author: "Robert P. George",
-  },
-  {
-    quote:
-      "I think a life properly lived is just learn, learn, learn all the time.",
-    author: "Charlie Munger",
-  },
-  {
-    quote:
-      "I think everything in life is art. What you do. How you dress. The way you love someone, and how you talk. Your smile and your personality. What you believe in, and all your dreams. The way you drink your tea. How you decorate your home. Or party. Your grocery list. The food you make. How your writing looks. And the way you feel. Life is art.",
-    author: "Helena Bonham Carter",
-  },
-  {
-    quote:
-      "I think it is possible for ordinary people to choose to be extraordinary.",
-    author: "Elon Musk",
-  },
-  {
-    quote:
-      'I think it is wise, and only honest, to warn you that my goal is immodest. It is not my purpose to "transfer knowledge" to you that, subsequently, you can forget again. My purpose is no less than to effectuate in each of you a noticeable, irreversable change. I want you to gain, for the rest of your lives, the insight that beautiful proofs are not "found" by trial anf error but are the result of a consciously applied design discipline. I want you to raise your quality standards. I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.',
-    author: "E. W. Dijkstra",
-  },
-  {
-    quote:
-      "I think that a lot of programmers are ignoring an important point when people talk about reducing code repetition on large projects. Part of the idea is that large projects are intrinsically _wrong_. That you should be looking at making a number of smaller projects that are composable, even if you never end up reusing one of those smaller projects elsewhere.",
-    author: "Dan Nugent",
-  },
-  {
-    quote:
-      'I think that in terms of creating a company, what Edison said (which was like "it\'s 1% inspiration and 99% perspiration") is true, so a lot of creating a company is execution: you start off with an idea and that idea is mostly wrong and then you adapt that idea, keep refining it, listen to your criticism (try to discard the wrong criticism, try to listen to the correct criticism) and then engage in a sort of recursive self-improvement, constantly refining it and making it better (it\'s very important to work super hard) and finally just keep making sure you keep iterating on a loop which says "am I doing something useful for other people?" because that\'s what a company is supposed to do, a company is just a group of people gathered together to produce a product or service and a company should only exist if that product or service is truly useful to customers.',
-    author: "Elon Musk",
-  },
-  {
-    quote:
-      "I think the root of your mistake is saying that macros don't scale to larger groups. The real truth is that macros don't scale to stupider groups.",
-    author: "Paul Graham, on the Lightweight Languages mailing list.",
-  },
-  {
-    quote: "I think there’s a world market for about 5 computers.",
-    author: "Thomas J. Watson, Chairman of the Board, IBM, circa 1948",
-  },
-  {
-    quote:
-      "I used to think that the world was doing something to me, that the world owed me something. And that either the conservatives or the socialists or the fascists or the communists or the Christians or the Jews or the fascists were doing something to me. And when you're a teeny-booper, that's what you think. I'm 40 now, I don't think that anymore—because I found out it doesn't fucking work. I am part of them. There's no separation. Were all one. \"Give peace a chance,\" not \"Shoot people for peace.\" \"All you need is love.\" I believe it. It's damn hard, but I absolutely believe it.",
-    author: "John Lennon",
-  },
-  {
-    quote:
-      'I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can\'t tell is whether they have any kind of taste."',
-    author: "Paul Graham",
-  },
-  {
-    quote: "I would never die for my beliefs because I might be wrong.",
-    author: "Bertrand Russell",
-  },
-  {
-    quote:
-      "I would rather be an optimist and be wrong than a pessimist who proves to be right. The former sometimes wins, but never the latter.",
-    author: '"Hoots"',
-  },
-  {
-    quote:
-      "I'm always happy to trade performance for readability as long as the former isn't already scarce.",
-    author: "Crayz (Commentor on blog.raganwald.com)",
-  },
-  {
-    quote: "I'm going, she said. I love you but you're crazy, you're doomed.",
-    author: "Charles Bukowski",
-  },
-  {
-    quote:
-      "I'm happy as hell, but I'm also real. Happy didn't get me here. But going through hell to get to where I'm at made me happy.",
-    author: "David Goggins",
-  },
-  {
-    quote: "I'm not afraid of dying. I'm afraid not to have lived.",
-    author: "Wim Hof",
-  },
-  {
-    quote:
-      "I'm not asking you to be fearless. I'm asking you to be courageous.",
-    author: "Maxime Lagacé",
-  },
-  {
-    quote:
-      "I'm one of those people who feel good on their own, so if I'm looking for you, it's because I really want you.",
-    author: "Anonymous",
-  },
-  {
-    quote: "I'm smart enough to know that I'm dumb.",
-    author: "Richard Feynman",
-  },
-  {
-    quote:
-      "I'm surrounded by postmodern idiots and blatherers. Your writings give me hope.",
-    author: "email to Paul Graham from a reader of his blog",
-  },
-  {
-    quote:
-      "I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.",
-    author: "Morpheus, The Matrix",
+      "If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face – the way a runner does when he applies the principles of running, or a singer those of musicianship – that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.",
+    author: "Epictetus, Discourses I, 4.20",
   },
   {
     quote:
@@ -2530,77 +2324,17 @@ const quotes = [
     author: "Henry Ford",
   },
   {
-    quote:
-      "If I tell you I'm good, you would probably think I'm boasting. If I tell you I'm no good, you know I'm lying.",
-    author: "Bruce Lee",
-  },
-  {
-    quote:
-      "If Java had true garbage collection, most programs would delete themselves upon execution.",
-    author: "Robert Sewell",
-  },
-  {
-    quote:
-      "If a man is mistaken, instruct him kindly and show him his error. But if you are not able, blame yourself, or not even yourself.",
-    author: "Marcus Aurelius, Meditations, X.4",
-  },
-  {
-    quote:
-      "If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher's weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them.",
-    author: "Epictetus, Discourses I, 5.1",
-  },
-  {
-    quote:
-      "If a thing is in your own power, why do you do it? But if it is in the power of another, whom do you blame? The atoms (chance) or the gods? Both are foolish. You must blame nobody.",
-    author: "Marcus Aurelius, Meditations, VIII.17",
-  },
-  {
-    quote:
-      "If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth by which no man was ever injured. But he is injured who abides in his error and ignorance.",
-    author: "Marcus Aurelius, Meditations VI.21",
-  },
-  {
-    quote:
-      "If anyone can refute me ‚ show me I'm making a mistake or looking at things from the wrong perspective ‚ I'll gladly change. It's the truth I'm after.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, 'He was ignorant of my other faults, else he would not have mentioned these alone'.",
-    author: "Epictetus",
-  },
-  {
-    quote:
-      "If change is forced upon you, you must resist the temptation to overreact or feel sorry for yourself.",
-    author: "Robert Greene",
-  },
-  {
-    quote:
-      "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
-    author: "Edsger W. Dijkstra",
-  },
-  {
-    quote:
-      "If even the perception of doing wrong departs, what reason is there for living any longer?",
-    author: "Marcus Aurelius, Meditations, VII.24",
-  },
-  {
-    quote: "If everything seems under control, you're not going fast enough.",
-    author: "Mario Andretti",
-  },
-  {
-    quote:
-      "If evil be spoken of you and it be true, correct yourself, if it's a lie, laugh at it.",
-    author: "Epictetus",
-  },
-  {
-    quote:
-      "If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face – the way a runner does when he applies the principles of running, or a singer those of musicianship – that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.",
-    author: "Epictetus, Discourses I, 4.20",
+    quote: "I find that the harder I work, the more luck I seem to have.",
+    author: "Thomas Jefferson",
   },
   {
     quote: "If it doesn't challenge you, it won't change you.",
     author: "Unknown",
+  },
+  {
+    quote:
+      "If I tell you I'm good, you would probably think I'm boasting. If I tell you I'm no good, you know I'm lying.",
+    author: "Bruce Lee",
   },
   {
     quote:
@@ -2633,6 +2367,11 @@ const quotes = [
   },
   {
     quote:
+      "If Java had true garbage collection, most programs would delete themselves upon execution.",
+    author: "Robert Sewell",
+  },
+  {
+    quote:
       "If money is your only standard, then consider that, by your lights, someone who loses their nose does not suffer any harm.",
     author: "Epictetus, Discourses II, 10.20",
   },
@@ -2662,17 +2401,17 @@ const quotes = [
     author: "Marcus Aurelius, Meditations IV.4",
   },
   {
-    quote:
-      "If the rules are such that you can't make progress, then you have to fight the rules.",
-    author: "Elon Musk",
-  },
-  {
     quote: "If there is a will, there is a way.",
     author: "unknown",
   },
   {
     quote: "If there is one thing Voldemort cannot understand, it is love.",
     author: "Professor Dumbledore",
+  },
+  {
+    quote:
+      "If the rules are such that you can't make progress, then you have to fight the rules.",
+    author: "Elon Musk",
   },
   {
     quote:
@@ -2725,13 +2464,13 @@ const quotes = [
   },
   {
     quote:
-      "If you can't fly then run. If you can't run then walk. If you can't walk, then crawl, but by all means, keep moving.",
-    author: "Martin Luther King Jr.",
+      "If you cannot change something, it is best to accept it cheerfully rather than adding to one's misfortune by grieving over it.",
+    author: "@TheAncientSage",
   },
   {
     quote:
-      "If you cannot change something, it is best to accept it cheerfully rather than adding to one's misfortune by grieving over it.",
-    author: "@TheAncientSage",
+      "If you can't fly then run. If you can't run then walk. If you can't walk, then crawl, but by all means, keep moving.",
+    author: "Martin Luther King Jr.",
   },
   {
     quote: "If you choose not to decide, you still have made a choice.",
@@ -2756,6 +2495,11 @@ const quotes = [
     quote:
       "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
     author: "Alan Kay",
+  },
+  {
+    quote:
+      '"If you don\'t know what you want," the doorman said, "you end up with a lot you don\'t.”',
+    author: "Chuck Palahniuk, Fight Club",
   },
   {
     quote: "If you don't like where you are, change it. You're not a tree.",
@@ -2794,6 +2538,11 @@ const quotes = [
     quote:
       "If you get up in the mornnig and think the future is going to be better, it is a bright day. Otherwise, it's not.",
     author: "Elon Musk",
+  },
+  {
+    quote:
+      "'If you give him a penny for his thoughts, you'd get change.', 'Not the sharpest knife in the drawer.', 'A prime candidate for natural deselection.'",
+    author: "Ideas for flamewars",
   },
   {
     quote:
@@ -2842,6 +2591,30 @@ const quotes = [
   {
     quote: "If you need inspiring words, don't do it.",
     author: "Elon Musk",
+  },
+  {
+    quote:
+      "If your body was turned over to just anyone, you would doubtless take exception. Why aren't you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset?",
+    author: "Epictetus, Enchiridion 28",
+  },
+  {
+    quote:
+      "If your brother mistreats you, don't try to come to grips with it by dwelling on the wrong he's done (because that approach makes it unbearable); remind yourself that he's your brother, that you two grew up together; then you'll find that you can bear it.",
+    author: "Epictetus, Enchiridion 43",
+  },
+  {
+    quote:
+      "If you're going to try, go all the way. Otherwise, don't even start. This could mean losing girlfriends, wives, relatives and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision. It could mean mockery--isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you'll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is.",
+    author: "Charles Bukowski",
+  },
+  {
+    quote:
+      "If you're more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote: "If your target audience is everyone, it's no one.",
+    author: "Thea Knobel on Twitter",
   },
   {
     quote:
@@ -2911,27 +2684,8 @@ const quotes = [
   },
   {
     quote:
-      "If you're going to try, go all the way. Otherwise, don't even start. This could mean losing girlfriends, wives, relatives and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision. It could mean mockery--isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you'll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you're going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It's the only good fight there is.",
-    author: "Charles Bukowski",
-  },
-  {
-    quote:
-      "If you're more passionate about founding a business than the business itself, you can fall into a ten year trap. Better to stay emotionally unattached and select the best opportunity that arises. Applies to relationships too.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "If your body was turned over to just anyone, you would doubtless take exception. Why aren't you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset?",
-    author: "Epictetus, Enchiridion 28",
-  },
-  {
-    quote:
-      "If your brother mistreats you, don't try to come to grips with it by dwelling on the wrong he's done (because that approach makes it unbearable); remind yourself that he's your brother, that you two grew up together; then you'll find that you can bear it.",
-    author: "Epictetus, Enchiridion 43",
-  },
-  {
-    quote: "If your target audience is everyone, it's no one.",
-    author: "Thea Knobel on Twitter",
+      "I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.",
+    author: "Buddha",
   },
   {
     quote:
@@ -2940,13 +2694,71 @@ const quotes = [
   },
   {
     quote:
-      "Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la résolution au choix des moyens, du choix ds moyens à lapplication.",
-    author: "Jean-François Paul de Gondi de Retz",
+      "I guess, when you're drunk, every woman looks beautiful and every language looks (like) a Lisp :)",
+    author: "Lament, #scheme@freenode.net",
+  },
+  {
+    quote:
+      "I had my own reactions to Paul's essay — on the whole I liked it but when I connected some dots I found some suggestions of things I strongly disliked — not so much in the essay as suggested by it.",
+    author: "reaction to What You Can't Say in a blog",
+  },
+  {
+    quote: "I had to learn how to teach less, so that more could be learned.",
+    author: "Tim Gallwey, The inner game of work",
+  },
+  {
+    quote:
+      "I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.",
+    author: "Epictetus, Discourses III, 20.11",
+  },
+  {
+    quote:
+      "I have never met a man so ignorant that I couldn't learn something from him.",
+    author: "Galileo Galilei",
+  },
+  {
+    quote:
+      "I have no money, no resources, no hopes. I am the happiest man alive.",
+    author: "Henry Miller",
+  },
+  {
+    quote:
+      "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    author: "Marcus Aurelius, Meditations, XII.4",
+  },
+  {
+    quote:
+      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
+    author: "Epictetus, Discourses I, 1.32",
+  },
+  {
+    quote:
+      "I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.",
+    author: "Alan Kay",
+  },
+  {
+    quote:
+      "I like times of turbulence more than times of stability. More opportunity to seize and grow.",
+    author: "@LifeMathMoney",
+  },
+  {
+    quote:
+      "I like to see what I'm made of. I want to see if there is a limit to the human soul.",
+    author: "David Goggins",
+  },
+  {
+    quote: "I love to go and see all the things I am happy without.",
+    author: "Socrates, On going to the market",
   },
   {
     quote:
       "Ils ne sont pas forts parce qu'ils sont forts. Ils sont forts parce que nous sommes faibles.",
     author: "Ragala Khalid",
+  },
+  {
+    quote:
+      "Il y a très loin de la velléité à la volnt, de la volonté à la résolution, de la résolution au choix des moyens, du choix ds moyens à lapplication.",
+    author: "Jean-François Paul de Gondi de Retz",
   },
   {
     quote: "Imagination is more important than knowledge.",
@@ -2959,8 +2771,41 @@ const quotes = [
   },
   {
     quote:
+      "I'm always happy to trade performance for readability as long as the former isn't already scarce.",
+    author: "Crayz (Commentor on blog.raganwald.com)",
+  },
+  {
+    quote: "I'm going, she said. I love you but you're crazy, you're doomed.",
+    author: "Charles Bukowski",
+  },
+  {
+    quote:
+      "I'm happy as hell, but I'm also real. Happy didn't get me here. But going through hell to get to where I'm at made me happy.",
+    author: "David Goggins",
+  },
+  {
+    quote:
+      "I’m just going to give you some good, general advice. And the first bit is – play to your strengths.",
+    author: "Mad-Eye Moody",
+  },
+  {
+    quote:
       "Immature poets imitate; mature poets steal; bad poets deface what they take, and good poets make it into something better, or at least something different.",
     author: "T. S. Eliot",
+  },
+  {
+    quote: "I'm not afraid of dying. I'm afraid not to have lived.",
+    author: "Wim Hof",
+  },
+  {
+    quote:
+      "I'm not asking you to be fearless. I'm asking you to be courageous.",
+    author: "Maxime Lagacé",
+  },
+  {
+    quote:
+      "I'm one of those people who feel good on their own, so if I'm looking for you, it's because I really want you.",
+    author: "Anonymous",
   },
   {
     quote:
@@ -2968,24 +2813,37 @@ const quotes = [
     author: "Epictetus, Fragments 9",
   },
   {
-    quote:
-      "In France those absurd perversions of the art of war which covered themselves under the name of chivalry were more omnipotent than in any other country of Europe. The strength of the armies of Philip and John of Valois was composed of a fiery and undisciplined aristocracy which imagined itself to be the most efficient military force in the world, but which was in reality little removed from an armed mob.",
-    author: "C. W. C. Oman, The Art of War in the Middle Ages",
+    quote: "I'm smart enough to know that I'm dumb.",
+    author: "Richard Feynman",
   },
   {
     quote:
-      "In God I trust; I will not be afraid. What can mortal man do to me?",
-    author: "David (Psalm 56:4)",
+      "I'm surrounded by postmodern idiots and blatherers. Your writings give me hope.",
+    author: "email to Paul Graham from a reader of his blog",
   },
   {
     quote:
-      "In OO, it's the data that is the \"important\" thing: you define the class which contains member data, and only incidentally contains code for manipulating the object. In FP, it's the code that's important: you define a function which contains code for working with the data, and only incidentally define what the data is.",
-    author: "almkgor, on reddit",
+      "I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.",
+    author: "Morpheus, The Matrix",
+  },
+  {
+    quote:
+      "I must study politics and war, so that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.",
+    author: "John Adams",
+  },
+  {
+    quote:
+      "In addition, the board rewrote the definition of science, so that it is no longer limited to the search for natural explanations of phenomena.",
+    author: "AP story on Kansas Board of Education",
   },
   {
     quote:
       "In a little while you will have forgotten everything; in a little while everything will have forgotten you.",
     author: "Marcus Aurelius, Meditations, VII.21",
+  },
+  {
+    quote: "In all things we should try to make ourselves be.",
+    author: "Seneca",
   },
   {
     quote:
@@ -2994,17 +2852,23 @@ const quotes = [
   },
   {
     quote:
-      "In addition, the board rewrote the definition of science, so that it is no longer limited to the search for natural explanations of phenomena.",
-    author: "AP story on Kansas Board of Education",
-  },
-  {
-    quote: "In all things we should try to make ourselves be.",
-    author: "Seneca",
+      "In France those absurd perversions of the art of war which covered themselves under the name of chivalry were more omnipotent than in any other country of Europe. The strength of the armies of Philip and John of Valois was composed of a fiery and undisciplined aristocracy which imagined itself to be the most efficient military force in the world, but which was in reality little removed from an armed mob.",
+    author: "C. W. C. Oman, The Art of War in the Middle Ages",
   },
   {
     quote:
       "In general, we can think of data as defined by some collection of selectors and constructors, together with specified conditions that these procedures must fulfill in order to be a valid representation.",
     author: "SICP, What is meant by data?",
+  },
+  {
+    quote:
+      "In God I trust; I will not be afraid. What can mortal man do to me?",
+    author: "David (Psalm 56:4)",
+  },
+  {
+    quote:
+      "Injustice is impiety. For since the universal nature has made rational animals for the sake of one another to help one another according to their deserts, but in no way to injure one another, he who transgresses her will is clearly guilty of impiety toward the highest divinity.",
+    author: "Marcus Aurelius, Meditations, IX.1",
   },
   {
     quote:
@@ -3017,6 +2881,16 @@ const quotes = [
     author: "Marcus Aurelius, Meditations IV.32",
   },
   {
+    quote:
+      "[Innovation] comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.",
+    author: "Steve Jobs",
+  },
+  {
+    quote:
+      "In OO, it's the data that is the \"important\" thing: you define the class which contains member data, and only incidentally contains code for manipulating the object. In FP, it's the code that's important: you define a function which contains code for working with the data, and only incidentally define what the data is.",
+    author: "almkgor, on reddit",
+  },
+  {
     quote: "In order to be irreplaceable one must always be different.",
     author: "Coco Chanel",
   },
@@ -3026,14 +2900,13 @@ const quotes = [
     author: "George Miller",
   },
   {
-    quote:
-      "In terms of energy, it's better to make a wrong choice than none at all.",
-    author: "George Leonard, Mastery.",
+    quote: "Intelligence consists in ignoring things that are irrelevant.",
+    author: "Nassim Nicholas Taleb",
   },
   {
     quote:
-      "In the Zenith Color chassis there are no printed circuits, no production shortcuts. Every connection is carefully hand-wired with the same exacting care that makes Zenith America's largest selling TV, and your best Color TV buy.",
-    author: "Zenith TV ad, 1964",
+      "In terms of energy, it's better to make a wrong choice than none at all.",
+    author: "George Leonard, Mastery.",
   },
   {
     quote:
@@ -3063,32 +2936,18 @@ const quotes = [
   },
   {
     quote:
-      "In the writings of the Ephesians there was this precept: constantly to think of one of the men of former times who practiced virtue.",
-    author: "Marcus Aurelius, Meditations, XI.26",
-  },
-  {
-    quote:
       "In theory, there’s no difference between theory and practice. But in practice, there is.",
     author: "Albert Einstein",
   },
   {
     quote:
-      "In whatever I do, either by myself or with another, I must direct my energies to this alone, that it shall conduce to the common interest and be in harmony with it.",
-    author: "Marcus Aurelius, Meditations, VII.5",
+      "In the writings of the Ephesians there was this precept: constantly to think of one of the men of former times who practiced virtue.",
+    author: "Marcus Aurelius, Meditations, XI.26",
   },
   {
     quote:
-      "In your conversation, don't dwell at excessive length on your own deeds or adventures. Just because you enjoy recounting your exploits doesn't mean that others derive the same pleasure from hearing about them.",
-    author: "Epictetus, Enchiridion 33.14",
-  },
-  {
-    quote:
-      "Injustice is impiety. For since the universal nature has made rational animals for the sake of one another to help one another according to their deserts, but in no way to injure one another, he who transgresses her will is clearly guilty of impiety toward the highest divinity.",
-    author: "Marcus Aurelius, Meditations, IX.1",
-  },
-  {
-    quote: "Intelligence consists in ignoring things that are irrelevant.",
-    author: "Nassim Nicholas Taleb",
+      "In the Zenith Color chassis there are no printed circuits, no production shortcuts. Every connection is carefully hand-wired with the same exacting care that makes Zenith America's largest selling TV, and your best Color TV buy.",
+    author: "Zenith TV ad, 1964",
   },
   {
     quote:
@@ -3102,8 +2961,38 @@ const quotes = [
   },
   {
     quote:
+      "In whatever I do, either by myself or with another, I must direct my energies to this alone, that it shall conduce to the common interest and be in harmony with it.",
+    author: "Marcus Aurelius, Meditations, VII.5",
+  },
+  {
+    quote:
+      "In your conversation, don't dwell at excessive length on your own deeds or adventures. Just because you enjoy recounting your exploits doesn't mean that others derive the same pleasure from hearing about them.",
+    author: "Epictetus, Enchiridion 33.14",
+  },
+  {
+    quote:
       "Is any man afraid of change? What can take place without change? What then is more pleasing or more suitable to the universal nature? And can you take a hot bath unless the wood for the fire undergoes a change? And can you be nourished unless the food undergoes a change? And can anything else that is useful be accomplished without change? Do you not see then that for yourself also to change is just the same, and equally necessary for the universal nature?",
     author: "Marcus Aurelius, Meditations, VII.18",
+  },
+  {
+    quote:
+      "I say never be complete, I say stop being perfect, I say let... lets evolve, let the chips fall where they may.",
+    author: "Chuck Palahniuk, Fight Club",
+  },
+  {
+    quote:
+      "I say that virtue is more valuable than wealth to the same degree that eyes are more valuable than fingernails.",
+    author: "Epictetus, Fragments 13",
+  },
+  {
+    quote:
+      "I see no virtue that is opposed to justice; but I see a virtue that is opposed to love of pleasure, and that is temperance.",
+    author: "Marcus Aurelius, Meditations, VIII.39",
+  },
+  {
+    quote:
+      "I sometimes ask students what their position on slavery would have been had they been white and living in the South before abolition. Guess what? They all would have been abolitionists! They all would have bravely spoken out against slavery, and worked tirelessly against it.",
+    author: "Robert P. George",
   },
   {
     quote: "Is there such a thing as a cheerful pessimist? That's what I am.",
@@ -3117,6 +3006,45 @@ const quotes = [
   {
     quote: "It does not matter what you bear, but how you bear it.",
     author: "Seneca",
+  },
+  {
+    quote:
+      "I think a life properly lived is just learn, learn, learn all the time.",
+    author: "Charlie Munger",
+  },
+  {
+    quote:
+      "I think everything in life is art. What you do. How you dress. The way you love someone, and how you talk. Your smile and your personality. What you believe in, and all your dreams. The way you drink your tea. How you decorate your home. Or party. Your grocery list. The food you make. How your writing looks. And the way you feel. Life is art.",
+    author: "Helena Bonham Carter",
+  },
+  {
+    quote:
+      "I think it is possible for ordinary people to choose to be extraordinary.",
+    author: "Elon Musk",
+  },
+  {
+    quote:
+      'I think it is wise, and only honest, to warn you that my goal is immodest. It is not my purpose to "transfer knowledge" to you that, subsequently, you can forget again. My purpose is no less than to effectuate in each of you a noticeable, irreversable change. I want you to gain, for the rest of your lives, the insight that beautiful proofs are not "found" by trial anf error but are the result of a consciously applied design discipline. I want you to raise your quality standards. I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.',
+    author: "E. W. Dijkstra",
+  },
+  {
+    quote:
+      "I think that a lot of programmers are ignoring an important point when people talk about reducing code repetition on large projects. Part of the idea is that large projects are intrinsically _wrong_. That you should be looking at making a number of smaller projects that are composable, even if you never end up reusing one of those smaller projects elsewhere.",
+    author: "Dan Nugent",
+  },
+  {
+    quote:
+      'I think that in terms of creating a company, what Edison said (which was like "it\'s 1% inspiration and 99% perspiration") is true, so a lot of creating a company is execution: you start off with an idea and that idea is mostly wrong and then you adapt that idea, keep refining it, listen to your criticism (try to discard the wrong criticism, try to listen to the correct criticism) and then engage in a sort of recursive self-improvement, constantly refining it and making it better (it\'s very important to work super hard) and finally just keep making sure you keep iterating on a loop which says "am I doing something useful for other people?" because that\'s what a company is supposed to do, a company is just a group of people gathered together to produce a product or service and a company should only exist if that product or service is truly useful to customers.',
+    author: "Elon Musk",
+  },
+  {
+    quote: "I think there’s a world market for about 5 computers.",
+    author: "Thomas J. Watson, Chairman of the Board, IBM, circa 1948",
+  },
+  {
+    quote:
+      "I think the root of your mistake is saying that macros don't scale to larger groups. The real truth is that macros don't scale to stupider groups.",
+    author: "Paul Graham, on the Lightweight Languages mailing list.",
   },
   {
     quote:
@@ -3228,6 +3156,11 @@ const quotes = [
   },
   {
     quote:
+      "It isn't death, pain, exile or anything else you care to mention that accounts for the way we act, only our opinion about death, pain and the rest.",
+    author: "Epictetus, Discourses I, 11.33",
+  },
+  {
+    quote:
       "It is our own opinions that disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone.",
     author: "Marcus Aurelius, Meditations, XI.18",
   },
@@ -3252,9 +3185,8 @@ const quotes = [
     author: "Steven Pinker",
   },
   {
-    quote:
-      "It isn't death, pain, exile or anything else you care to mention that accounts for the way we act, only our opinion about death, pain and the rest.",
-    author: "Epictetus, Discourses I, 11.33",
+    quote: "It(mastering)’s knowing what you are doing.",
+    author: "Joesgoals.com",
   },
   {
     quote:
@@ -3263,33 +3195,14 @@ const quotes = [
   },
   {
     quote:
-      "It takes courage to accept life fully, to say yes to our life, yes to our karma, yes to our mind, emotions and whatever else unfolds.",
-    author: "Dzigar Kongtrul Rinpoche",
+      "It’s a problem if the design doesn’t let you add features at a later date. If you have to redo a program, the hours you spend can cause you to lose your competitive edge. A flexible program demonstrates the difference between a good designer and someone who is just getting a piece of code out.",
+    author:
+      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "It was Antigonus who was anxious before their meeting. Naturally – he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.",
-    author: "Epictetus, Discourses II, 13, 15",
-  },
-  {
-    quote:
-      "It was Edison who said ‘1% inspiration, 99% perspiration’. That may have been true a hundred years ago. These days it's ‘0.01% inspiration, 99.99% perspiration’, and the inspiration is the easy part.",
-    author: "Linux Torvalds",
-  },
-  {
-    quote:
-      "It will even do to socialize with men of good character, in order to model your life on theirs, whether you choose someone living or someone from the past.",
-    author: "Epictetus, Discourses II, 18.21",
-  },
-  {
-    quote:
-      "It will only hurt if you keep remembering it but a true stoic looks forward.",
-    author: "Maxime Lagacé",
-  },
-  {
-    quote:
-      "It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.",
-    author: "John Von Neumann, circa 1949",
+      "Its a shame that the students of our generation grew up with windows and mice because that tainted our mindset not to think in terms of powerful tools. Some of us are just so tainted that we will never recover.",
+    author: "Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp",
   },
   {
     quote: "It's better to conquer grief than to deceive it.",
@@ -3306,6 +3219,11 @@ const quotes = [
   {
     quote: "It's easy if you try.",
     author: "John Lennon",
+  },
+  {
+    quote:
+      "It’s hard to grasp abstractions if you don’t understand what they’re abstracting away from.",
+    author: "Nathan Weizenbaum",
   },
   {
     quote:
@@ -3353,33 +3271,58 @@ const quotes = [
     author: "Charlie Munger",
   },
   {
-    quote: "It(mastering)’s knowing what you are doing.",
-    author: "Joesgoals.com",
+    quote:
+      "It takes courage to accept life fully, to say yes to our life, yes to our karma, yes to our mind, emotions and whatever else unfolds.",
+    author: "Dzigar Kongtrul Rinpoche",
   },
   {
     quote:
-      "Its a shame that the students of our generation grew up with windows and mice because that tainted our mindset not to think in terms of powerful tools. Some of us are just so tainted that we will never recover.",
-    author: "Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp",
+      "It was Antigonus who was anxious before their meeting. Naturally – he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.",
+    author: "Epictetus, Discourses II, 13, 15",
   },
   {
     quote:
-      "It’s a problem if the design doesn’t let you add features at a later date. If you have to redo a program, the hours you spend can cause you to lose your competitive edge. A flexible program demonstrates the difference between a good designer and someone who is just getting a piece of code out.",
-    author:
-      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
+      "It was Edison who said ‘1% inspiration, 99% perspiration’. That may have been true a hundred years ago. These days it's ‘0.01% inspiration, 99.99% perspiration’, and the inspiration is the easy part.",
+    author: "Linux Torvalds",
   },
   {
     quote:
-      "It’s hard to grasp abstractions if you don’t understand what they’re abstracting away from.",
-    author: "Nathan Weizenbaum",
-  },
-  {
-    quote: "I’d rather write programs to write programs than write programs.",
-    author: "Richard Sites",
+      "It will even do to socialize with men of good character, in order to model your life on theirs, whether you choose someone living or someone from the past.",
+    author: "Epictetus, Discourses II, 18.21",
   },
   {
     quote:
-      "I’m just going to give you some good, general advice. And the first bit is – play to your strengths.",
-    author: "Mad-Eye Moody",
+      "It will only hurt if you keep remembering it but a true stoic looks forward.",
+    author: "Maxime Lagacé",
+  },
+  {
+    quote:
+      "It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.",
+    author: "John Von Neumann, circa 1949",
+  },
+  {
+    quote:
+      "I used to think that the world was doing something to me, that the world owed me something. And that either the conservatives or the socialists or the fascists or the communists or the Christians or the Jews or the fascists were doing something to me. And when you're a teeny-booper, that's what you think. I'm 40 now, I don't think that anymore—because I found out it doesn't fucking work. I am part of them. There's no separation. Were all one. \"Give peace a chance,\" not \"Shoot people for peace.\" \"All you need is love.\" I believe it. It's damn hard, but I absolutely believe it.",
+    author: "John Lennon",
+  },
+  {
+    quote:
+      'I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can\'t tell is whether they have any kind of taste."',
+    author: "Paul Graham",
+  },
+  {
+    quote:
+      '"I will throw you into prison." "Correction – it is my body you will throw there."',
+    author: "Epictetus, Discourses I, 1.24",
+  },
+  {
+    quote: "I would never die for my beliefs because I might be wrong.",
+    author: "Bertrand Russell",
+  },
+  {
+    quote:
+      "I would rather be an optimist and be wrong than a pessimist who proves to be right. The former sometimes wins, but never the latter.",
+    author: '"Hoots"',
   },
   {
     quote:
@@ -3422,6 +3365,11 @@ const quotes = [
   },
   {
     quote:
+      "Justice will not be observed, if we either care for indifferent things or are easily deceived and careless and changeable.",
+    author: "Marcus Aurelius, Meditations, XI.10",
+  },
+  {
+    quote:
       "Just keep in mind: the more we value things outside our control, the less control we have.",
     author: "Epictetus",
   },
@@ -3437,11 +3385,6 @@ const quotes = [
   {
     quote: "Just that you do the right thing. The rest doesn't matter.",
     author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "Justice will not be observed, if we either care for indifferent things or are easily deceived and careless and changeable.",
-    author: "Marcus Aurelius, Meditations, XI.10",
   },
   {
     quote:
@@ -3473,19 +3416,8 @@ const quotes = [
     author: "Bruce Lee",
   },
   {
-    quote:
-      "La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa correction.",
-    author: "Daniel Lovewin (Guillaume Kpotufe)",
-  },
-  {
-    quote:
-      "La haine est une liqueur précieuse, un poison plus cher que celui des Borgia, - car il est fait avec notre sang, notre santé, notre sommeil, et les deux tiers de notre amour! Il faut en être avare!",
-    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
-  },
-  {
-    quote:
-      "La tactique, c'est ce que vous faites quand il y a quelque chose à faire; la stratégie, c'est ce que vous faites quand il n'y a rien à faire.",
-    author: "Xavier Tartacover",
+    quote: "640K ought to be enough for anybody.",
+    author: "Bill Gates, 1981",
   },
   {
     quote:
@@ -3498,12 +3430,41 @@ const quotes = [
     author: "Marcus Aurelius, Meditations III.5",
   },
   {
+    quote:
+      "La connaissance d'un défaut ne l'enlève pas, elle nous torture jusqu'à sa correction.",
+    author: "Daniel Lovewin (Guillaume Kpotufe)",
+  },
+  {
+    quote:
+      "La haine est une liqueur précieuse, un poison plus cher que celui des Borgia, - car il est fait avec notre sang, notre santé, notre sommeil, et les deux tiers de notre amour! Il faut en être avare!",
+    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
+  },
+  {
+    quote:
+      "L’art qui satisfait le besoin le plus impérieux sera toujours le plus honoré.",
+    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
+  },
+  {
+    quote:
+      "La tactique, c'est ce que vous faites quand il y a quelque chose à faire; la stratégie, c'est ce que vous faites quand il n'y a rien à faire.",
+    author: "Xavier Tartacover",
+  },
+  {
     quote: "Lean into the discomfort of the work.",
     author: "Brené Brown",
   },
   {
     quote:
       "Learn how to see. Realize that everything connects to everything else.",
+    author: "Leonardo Da Vinci",
+  },
+  {
+    quote: "Learning is a privilege for the brain.",
+    author: "@Th3Brainiac on Twitter",
+  },
+  {
+    quote:
+      "Learning is the only thing the mind never exhausts, never fears, and never regrets.",
     author: "Leonardo Da Vinci",
   },
   {
@@ -3518,15 +3479,6 @@ const quotes = [
     quote:
       "Learn to fail with pride — and do so fast and cleanly. Maximise trial and error — by mastering the error part.",
     author: "Nassim Nicholas Taleb",
-  },
-  {
-    quote: "Learning is a privilege for the brain.",
-    author: "@Th3Brainiac on Twitter",
-  },
-  {
-    quote:
-      "Learning is the only thing the mind never exhausts, never fears, and never regrets.",
-    author: "Leonardo Da Vinci",
   },
   {
     quote:
@@ -3577,6 +3529,11 @@ const quotes = [
   },
   {
     quote:
+      "Life is all the more precious and beautiful because it is so fleeting.",
+    author: "Jack Kornfield",
+  },
+  {
+    quote:
       "Life is a shipwreck, but we must not forget to sing in the lifeboats.",
     author: "Voltaire",
   },
@@ -3589,11 +3546,6 @@ const quotes = [
     quote:
       "Life is a storm that will test you unceasingly. Don't wait for calm waters that may not arrive. Derive purpose from resilience. Learn to sail the raging sea.",
     author: "@TheStoicEmperor",
-  },
-  {
-    quote:
-      "Life is all the more precious and beautiful because it is so fleeting.",
-    author: "Jack Kornfield",
   },
   {
     quote:
@@ -3611,6 +3563,11 @@ const quotes = [
     author: "Joseph Campbell",
   },
   {
+    quote:
+      "Life isn't always about doing the things we like to do. It's about doing things we have to do.",
+    author: "David Goggins",
+  },
+  {
     quote: "Life is short my friend. Make each second count.",
     author: "unknown",
   },
@@ -3624,27 +3581,8 @@ const quotes = [
   },
   {
     quote:
-      "Life isn't always about doing the things we like to do. It's about doing things we have to do.",
-    author: "David Goggins",
-  },
-  {
-    quote:
       "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.",
     author: "Ferris Bueller",
-  },
-  {
-    quote:
-      "Life will punch you in the face if your head gets too big. Don't ever pretend, don't lie, don't feel superior. Just be honest and do your own thing.",
-    author: "Maxime Lagacé",
-  },
-  {
-    quote:
-      "Life without love would be a strange thing. But don't be surprised if you get burned.",
-    author: "Maxime Lagacé",
-  },
-  {
-    quote: "Life without love, is no life at all.",
-    author: "Leonardo Da Vinci",
   },
   {
     quote:
@@ -3654,6 +3592,20 @@ const quotes = [
   {
     quote: "Life's three best teachers: heartbreak, empty pocket, failures.",
     author: "Haemin Sunim",
+  },
+  {
+    quote:
+      "Life will punch you in the face if your head gets too big. Don't ever pretend, don't lie, don't feel superior. Just be honest and do your own thing.",
+    author: "Maxime Lagacé",
+  },
+  {
+    quote: "Life without love, is no life at all.",
+    author: "Leonardo Da Vinci",
+  },
+  {
+    quote:
+      "Life without love would be a strange thing. But don't be surprised if you get burned.",
+    author: "Maxime Lagacé",
   },
   {
     quote: "Linux is only free if your time has no value.",
@@ -3694,13 +3646,13 @@ const quotes = [
   },
   {
     quote:
-      "Look not round at the depraved morals of others, but run straight along the line without deviating from it.",
-    author: "Marcus Aurelius, Meditations IV.18",
+      'Look, can you be forced to assent to what appears to you wrong?" "No." "Or to dissent from the plain truth?" "No." "Then you see you do have within you a share of freedom."',
+    author: "Epictetus, Discourses III, 22.42",
   },
   {
     quote:
-      'Look, can you be forced to assent to what appears to you wrong?" "No." "Or to dissent from the plain truth?" "No." "Then you see you do have within you a share of freedom."',
-    author: "Epictetus, Discourses III, 22.42",
+      "Look not round at the depraved morals of others, but run straight along the line without deviating from it.",
+    author: "Marcus Aurelius, Meditations IV.18",
   },
   {
     quote:
@@ -3726,11 +3678,6 @@ const quotes = [
   {
     quote: "Luck is where preparation meets opportunity.",
     author: "Randy Pausch",
-  },
-  {
-    quote:
-      "L’art qui satisfait le besoin le plus impérieux sera toujours le plus honoré.",
-    author: "Charles Baudelaire, Conseils aux jeunes littérateurs.",
   },
   {
     quote: "Make the mind tougher by exposing it to adversity.",
@@ -3863,6 +3810,15 @@ const quotes = [
   },
   {
     quote:
+      '"Monetize your passions" it\'s more like exploiting your passions to the point where they become a source of stress and pressure in your life and you end up loosing/hating the passion',
+    author: "Random comment on YouTube",
+  },
+  {
+    quote: "[Monica] What day is it?\n[David] Today",
+    author: "A.I. by Steven Spielberg",
+  },
+  {
+    quote:
       "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.",
     author: "W.A. Wulf",
   },
@@ -3910,6 +3866,11 @@ const quotes = [
   },
   {
     quote:
+      '"My brother is unfair to me." Well then, keep up your side of the relationship; don\'t concern yourself with his behaviour, only with what you must do to keep your will in tune with nature. Another person will not hurt you without your cooperation; you are hurt the moment you believe yourself to be.',
+    author: "Epictetus, Enchiridion 30",
+  },
+  {
+    quote:
       "My city and country, so far as I am Antoninus, is Rome; but so far as I am a man, it is the world.",
     author: "Marcus Aurelius, Meditations VI.44",
   },
@@ -3917,6 +3878,11 @@ const quotes = [
     quote:
       "My dream is that people adopt it on its own merits. We're not trying to bend Ruby on Rails to fit the enterprise, we're encouraging enterprises to bend to Ruby on Rails. Come if you like it, stay away if you don't. We're not going head over heels to accommodate the enterprise or to lure them away from Java. That's how you end up with Java, if you start bending to special interest groups.",
     author: "David Heinemeier Hansson (Ruby On Rails' creator)",
+  },
+  {
+    quote:
+      "\"My God, what if I'm sent to Gyara?\" Well, if that's tolerable for you, you will go; if not, you have the choice of another destination, the place even the person who sent you to Gyara is headed, whether they like it or not.",
+    author: "Epictetus, Discourses II, 6.22",
   },
   {
     quote:
@@ -3997,6 +3963,14 @@ const quotes = [
     author: "Alberti",
   },
   {
+    quote: "Nobody can make you feel inferior without your consent.",
+    author: "Eleanor Roosevelt",
+  },
+  {
+    quote: "Nobody is born with insecurities we are told to have them.",
+    author: "Lili Reinhart",
+  },
+  {
     quote:
       'No doubt you have seen dogs playing with, and fawning before, each other, and thought, "Nothing could be friendlier." But just throw some meat in the middle, and then you\'ll know what friendship amounts to.',
     author: "Epictetus, Discourses II, 22.9",
@@ -4041,6 +4015,15 @@ const quotes = [
   },
   {
     quote:
+      "Non credo di aver mai avuto un weekend libero negli ultimi 10 anni, però tutto quello che facevo era appassionante. Quindi se per esempio avevo un weekend in Germania per uno stage oppure in America per fare una lezione, ero contento, ed anche se già il giorno dopo avevo una lezione all'università, anche quella mi piaceva. Questo non vuol dire che uno non si stanca, però la stanchezza fatta di cose che ti appassionano si recupera molto in fretta. L'importante è stancarsi per cose che si amano, ed allora lì la stanchezza non la senti.",
+    author: "Alessandro Steri",
+  },
+  {
+    quote: "None ever wished it longer than it is.",
+    author: "Johnson on Paradise Lost",
+  },
+  {
+    quote:
       "No one is all evil. Everybody has a good side. If you keep waiting, it will come up.",
     author: "Randy Pausch",
   },
@@ -4072,23 +4055,6 @@ const quotes = [
     author: "Eric S. Raymond, How to become a hacker",
   },
   {
-    quote: "Nobody can make you feel inferior without your consent.",
-    author: "Eleanor Roosevelt",
-  },
-  {
-    quote: "Nobody is born with insecurities we are told to have them.",
-    author: "Lili Reinhart",
-  },
-  {
-    quote:
-      "Non credo di aver mai avuto un weekend libero negli ultimi 10 anni, però tutto quello che facevo era appassionante. Quindi se per esempio avevo un weekend in Germania per uno stage oppure in America per fare una lezione, ero contento, ed anche se già il giorno dopo avevo una lezione all'università, anche quella mi piaceva. Questo non vuol dire che uno non si stanca, però la stanchezza fatta di cose che ti appassionano si recupera molto in fretta. L'importante è stancarsi per cose che si amano, ed allora lì la stanchezza non la senti.",
-    author: "Alessandro Steri",
-  },
-  {
-    quote: "None ever wished it longer than it is.",
-    author: "Johnson on Paradise Lost",
-  },
-  {
     quote: "Normality is the route to nowhere.",
     author: "Ridderstrale & Nordstorm, Funky Business",
   },
@@ -4096,6 +4062,28 @@ const quotes = [
     quote:
       "Not everything requires a response. This is truth for many things in life and almost everything in the news.",
     author: "@TheStoicEmperor",
+  },
+  {
+    quote: "Nothing endures but change.",
+    author: "Heraclitus",
+  },
+  {
+    quote:
+      "Nothing important comes into being overnight; even grapes or figs need time to ripen. If you say that you want a fig now, I will tell you to be patient. First, you must allow the tree to flower, then put forth fruit; then you have to wait until the fruit is ripe. So if the fruit of a fig tree is not brought to maturity instantly or in an hour, how do you expect the human mind to come to fruition, so quickly and easily?",
+    author: "Epictetus, Discourses I, 15.7-8",
+  },
+  {
+    quote:
+      "...nothing is burdensome if taken lightly, and how… nothing need arouse one's irritation so long as one doesn't make it bigger than it is by getting irritated.",
+    author: "Seneca, Letter CXXII",
+  },
+  {
+    quote: "Nothing matters in the end so make it matter right now.",
+    author: "Natalie Lynn",
+  },
+  {
+    quote: "Nothing should be done without a purpose.",
+    author: "Marcus Aurelius, Meditations, VIII.17",
   },
   {
     quote:
@@ -4113,23 +4101,6 @@ const quotes = [
     author: "Marcus Aurelius, What Marcus learned from Sextus",
   },
   {
-    quote: "Nothing endures but change.",
-    author: "Heraclitus",
-  },
-  {
-    quote:
-      "Nothing important comes into being overnight; even grapes or figs need time to ripen. If you say that you want a fig now, I will tell you to be patient. First, you must allow the tree to flower, then put forth fruit; then you have to wait until the fruit is ripe. So if the fruit of a fig tree is not brought to maturity instantly or in an hour, how do you expect the human mind to come to fruition, so quickly and easily?",
-    author: "Epictetus, Discourses I, 15.7-8",
-  },
-  {
-    quote: "Nothing matters in the end so make it matter right now.",
-    author: "Natalie Lynn",
-  },
-  {
-    quote: "Nothing should be done without a purpose.",
-    author: "Marcus Aurelius, Meditations, VIII.17",
-  },
-  {
     quote:
       "Now is the time to get serious about living your ideals. How long can you afford to put off who you really want to be? Your nobler self cannot wait any longer. Put your principles into practice – now. Stop the excuses and the procrastination. This is your life! […] Decide to be extraordinary and do what you need to do – now.",
     author: "Epictetus",
@@ -4138,6 +4109,11 @@ const quotes = [
     quote:
       "Now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things, I see their true nature, and I use each according to its value.",
     author: "Marcus Aurelius, Meditations, VIII.29",
+  },
+  {
+    quote:
+      "Now, most people hate to admit they're wrong, but it didn't bother Bill one bit. All he cared about was what was right, not who was right. That's what makes Bill very, very dangerous.",
+    author: "Larry Ellison on Bill Gates",
   },
   {
     quote:
@@ -4150,19 +4126,18 @@ const quotes = [
     author: "Seneca, Letter CIV",
   },
   {
-    quote:
-      "Now, most people hate to admit they're wrong, but it didn't bother Bill one bit. All he cared about was what was right, not who was right. That's what makes Bill very, very dangerous.",
-    author: "Larry Ellison on Bill Gates",
-  },
-  {
-    quote:
-      "O Divine Providence, I ask not for more riches but more wisdom with which to make wiser use of the riches you gave me at birth, consisting in the power to control and direct my own mind to whatever ends I might desire.",
-    author: "Napoleon Hill",
+    quote: ":nunmap can also be used outside of a monastery.",
+    author: "Vim user manual",
   },
   {
     quote:
       "Objective judgment, at this very moment. Unselfish action, now at this very moment. Willing acceptance – now at this very moment – of all external events. That's all you need.",
     author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "O Divine Providence, I ask not for more riches but more wisdom with which to make wiser use of the riches you gave me at birth, consisting in the power to control and direct my own mind to whatever ends I might desire.",
+    author: "Napoleon Hill",
   },
   {
     quote:
@@ -4175,13 +4150,13 @@ const quotes = [
   },
   {
     quote:
-      "On the occasion of every act ask yourself, How is this with respect to me? Will I regret it? A little time and I am dead, and all is gone.",
-    author: "Marcus Aurelius, Meditations, VIII.2",
+      "Once the ego inflates it will only come back to earth through some jarring failure.",
+    author: "Robert Greene",
   },
   {
     quote:
-      "Once the ego inflates it will only come back to earth through some jarring failure.",
-    author: "Robert Greene",
+      'Once, when [Agrippinus] was preparing for lunch, a messenger arrived from Rome announcing that Nero had sentenced him to exile. Unflustered he replied, "Then why don\'t we just move our lunch to Aricia."',
+    author: "Epictetus, Fragments 21",
   },
   {
     quote:
@@ -4192,11 +4167,6 @@ const quotes = [
     quote:
       "Once you've truly controlled your own fate, for better or for worse, you'll never let anyone else tell you what to do.",
     author: "Naval Ravikant",
-  },
-  {
-    quote:
-      'Once, when [Agrippinus] was preparing for lunch, a messenger arrived from Rome announcing that Nero had sentenced him to exile. Unflustered he replied, "Then why don\'t we just move our lunch to Aricia."',
-    author: "Epictetus, Fragments 21",
   },
   {
     quote: "One day I will find the right words, and they will be simple.",
@@ -4214,13 +4184,13 @@ const quotes = [
   },
   {
     quote:
-      "One thing I know: all the works of mortal man lie under sentence of mortality; we live among things that are destined to perish.",
-    author: "Seneca, Letter XCI",
+      "One thing here is worth a great deal: to pass your life in truth and justice, with a benevolent disposition even to liars and unjust men.",
+    author: "Marcus Aurelius, Meditations VI.47",
   },
   {
     quote:
-      "One thing here is worth a great deal: to pass your life in truth and justice, with a benevolent disposition even to liars and unjust men.",
-    author: "Marcus Aurelius, Meditations VI.47",
+      "One thing I know: all the works of mortal man lie under sentence of mortality; we live among things that are destined to perish.",
+    author: "Seneca, Letter XCI",
   },
   {
     quote:
@@ -4251,6 +4221,16 @@ const quotes = [
   },
   {
     quote:
+      "On the occasion of every act ask yourself, How is this with respect to me? Will I regret it? A little time and I am dead, and all is gone.",
+    author: "Marcus Aurelius, Meditations, VIII.2",
+  },
+  {
+    quote:
+      "[on valuing theoretical over practical philosophy] The result is that we lie – but have no difficulty proving why we shouldn't.",
+    author: "Epictetus, Enchiridion 52.2",
+  },
+  {
+    quote:
       "Opportunities that present themselves to you are the consequence -- at least partially -- of being in the right place at the right time. They tend to present themselves when you're not expecting it -- and often when you are engaged in other activities that would seem to preclude you from pursuing them. And they come and go quickly -- if you don't jump all over an opportunity, someone else generally will and it will vanish.",
     author: "Marc Andreessen (http://blog.pmarca.com/)",
   },
@@ -4276,10 +4256,6 @@ const quotes = [
     quote:
       "Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make the battle. Ah, but the one, one is a warrior, and he will bring the others back.”",
     author: "Heraclitus",
-  },
-  {
-    quote: "PI seconds is a nanocentury.",
-    author: "[fact]",
   },
   {
     quote:
@@ -4325,13 +4301,13 @@ const quotes = [
     author: "Jesus | John 14:27",
   },
   {
-    quote: "Peace must be found in the imperfect present.",
-    author: "@TheStoicEmperor",
-  },
-  {
     quote:
       "Peace. It does not mean to be in a place where there is no noise, trouble or hard work. It means to be in the midst of those things and still be calm in your heart.",
     author: "Unknown",
+  },
+  {
+    quote: "Peace must be found in the imperfect present.",
+    author: "@TheStoicEmperor",
   },
   {
     quote:
@@ -4435,8 +4411,17 @@ const quotes = [
     author: "Eric Hamilton",
   },
   {
+    quote: "PI seconds is a nanocentury.",
+    author: "[fact]",
+  },
+  {
     quote: "Play Stupid Games, Win Stupid Prizes",
     author: "unknown",
+  },
+  {
+    quote:
+      "...pleasures, when they go beyond a certain limit, are but punishments…",
+    author: "Seneca, Letter LXXXIII",
   },
   {
     quote:
@@ -4476,11 +4461,6 @@ const quotes = [
     author: "Donald Knuth",
   },
   {
-    quote:
-      "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic.",
-    author: "Jarvis Johnson",
-  },
-  {
     quote: "Problems only exist in the human mind.",
     author: "Anthony de Mello",
   },
@@ -4508,6 +4488,11 @@ const quotes = [
     quote:
       "Progress is not achieved by luck or accident, but by working on yourself daily.",
     author: "Epictetus",
+  },
+  {
+    quote:
+      "Pro tip: whenever you see people defining themselves by one thing, that culture is going to be toxic.",
+    author: "Jarvis Johnson",
   },
   {
     quote:
@@ -4554,6 +4539,15 @@ const quotes = [
     author: "Paul Graham",
   },
   {
+    quote: "Remember, always be yourself ... unless you suck!",
+    author: "Joss Whedon",
+  },
+  {
+    quote:
+      "Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed. If someone succeeds in provoking you, realize that your mind is complicit in the provocation. ... Take a moment before reacting, and you will find it is easier to maintain control.",
+    author: "Epictetus, Enchiridion 20",
+  },
+  {
     quote:
       "Remember kids: if you study hard, get good grades, got to a good college, get a job, work hard, never take a sick day, live within your means and do what you're told ... then one day your boss mught go to space.",
     author: "Dan Price on Linkedin (July 2021)",
@@ -4577,15 +4571,6 @@ const quotes = [
     quote:
       "Remember to act always as if you were at a symposium. When the food or drink comes around, reach out and take some politely; if it passes you by don't try pulling it back. And if it has not reached you yet, don't let your desire run ahead of you, be patient until your turn comes.",
     author: "Epictetus, Enchiridion 15",
-  },
-  {
-    quote: "Remember, always be yourself ... unless you suck!",
-    author: "Joss Whedon",
-  },
-  {
-    quote:
-      "Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed. If someone succeeds in provoking you, realize that your mind is complicit in the provocation. ... Take a moment before reacting, and you will find it is easier to maintain control.",
-    author: "Epictetus, Enchiridion 20",
   },
   {
     quote:
@@ -4692,13 +4677,13 @@ const quotes = [
   },
   {
     quote:
-      "Set yourself in motion, if it is in your power, and do not look about you to see if anyone will observe it; nor yet expect Plato's Republic: but be content if the smallest thing goes on well, and consider such an event to be no small matter.",
-    author: "Marcus Aurelius, Meditations, IX.29",
+      "Settle on the type of person you want to be and stick to it, whether alone or in company.",
+    author: "Epictetus, Enchiridion 33.1",
   },
   {
     quote:
-      "Settle on the type of person you want to be and stick to it, whether alone or in company.",
-    author: "Epictetus, Enchiridion 33.1",
+      "Set yourself in motion, if it is in your power, and do not look about you to see if anyone will observe it; nor yet expect Plato's Republic: but be content if the smallest thing goes on well, and consider such an event to be no small matter.",
+    author: "Marcus Aurelius, Meditations, IX.29",
   },
   {
     quote:
@@ -4711,13 +4696,13 @@ const quotes = [
     author: "@TheStoicEmperor",
   },
   {
-    quote: "Short words are best and the old words when short are best of all.",
-    author: "Winston Churchill",
-  },
-  {
     quote:
       "Short-term thinking makes people desperate, ungenerous, impulsive. Long-term thinking makes people, gracious, controlled.",
     author: "@TheStoicEmperor",
+  },
+  {
+    quote: "Short words are best and the old words when short are best of all.",
+    author: "Winston Churchill",
   },
   {
     quote:
@@ -4728,6 +4713,10 @@ const quotes = [
     quote:
       "Shouldn't we be content to be cosmic sloths, enjoying the universe from the comfort of Earth? The answer is, no, The Earth is under threat from so many areas that it is difficult for me to be positive.",
     author: "Stephen Hawking",
+  },
+  {
+    quote: "Show, don't tell.",
+    author: "unknown",
   },
   {
     quote:
@@ -4745,10 +4734,6 @@ const quotes = [
     author: "Epictetus, Discourses II, 19.24",
   },
   {
-    quote: "Show, don't tell.",
-    author: "unknown",
-  },
-  {
     quote:
       "Side projects are less masturbatory than reading RSS, often more useful than MobileMe, more educational than the comments on Reddit, and usually more fun than listening to keynotes.",
     author: "Chris Wanstrath",
@@ -4758,13 +4743,13 @@ const quotes = [
     author: "Lao Tzu",
   },
   {
-    quote: "Simple things should be simple. Complex things should be possible.",
-    author: "Alan Kay",
-  },
-  {
     quote:
       "Simple, clear purpose and principles give rise to complex, intelligent behavior. Complex rules and regulations give rise to simple, stupid behavior.",
     author: "Dee Hock, Birth of the Chaordic Age",
+  },
+  {
+    quote: "Simple things should be simple. Complex things should be possible.",
+    author: "Alan Kay",
   },
   {
     quote: "Simplicity and pragmatism beat complexity and theory any day.",
@@ -4820,13 +4805,22 @@ const quotes = [
     author: "Marcus Aurelius, Meditations IV.24",
   },
   {
-    quote:
-      "So - what are the most important problems in software engineering? I’d answer “dealing with complexity”.",
-    author: "Mark Chu-Carroll",
+    quote: "Social science is fake science.",
+    author: "Naval Ravikant",
   },
   {
-    quote: "So I look for the best and am prepared for the opposite.",
-    author: "Seneca, Letter LXXXVIII",
+    quote:
+      "Society is collapsing, and people are starting to recognize that the reason they feel mentally ill is because they're living in a system that is not designed to suit the human spirit.",
+    author: "Jim Carrey",
+  },
+  {
+    quote:
+      "So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.",
+    author: "Seneca",
+  },
+  {
+    quote: "Socrates was not in prison, because he chose to be there.",
+    author: "Epictetus, Discourses I, 12.23",
   },
   {
     quote:
@@ -4839,42 +4833,13 @@ const quotes = [
     author: "Jesus | Matthew 6:34",
   },
   {
+    quote: "So I look for the best and am prepared for the opposite.",
+    author: "Seneca, Letter LXXXVIII",
+  },
+  {
     quote:
       'So make a practice at once of saying to every strong impression: "An impression is all you are, not the source of the impression." Then test and assess it with your criteria, but one primarily: ask, "Is this something that is, or is not, in my control?"',
     author: "Epictetus, Enchiridion 1.5",
-  },
-  {
-    quote:
-      "So the mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.",
-    author: "Paul Graham (a talk at Y Combinator, for startup creators).",
-  },
-  {
-    quote:
-      "So when you hear that even life and the like are indifferent, don't become apathetic; and by the same token, when you're advised to care about them, don't become superficial and conceive a passion for externals.",
-    author: "Epictetus, Discourses II, 6.2",
-  },
-  {
-    quote:
-      "So you admit that you have at least one master. And don't let the fact that Caesar rules over everyone, as you say, console you: it only means that you're a slave in a very large household.",
-    author: "Epictetus, Discourses IV, 1.13",
-  },
-  {
-    quote:
-      "So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.",
-    author: "Seneca",
-  },
-  {
-    quote: "Social science is fake science.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "Society is collapsing, and people are starting to recognize that the reason they feel mentally ill is because they're living in a system that is not designed to suit the human spirit.",
-    author: "Jim Carrey",
-  },
-  {
-    quote: "Socrates was not in prison, because he chose to be there.",
-    author: "Epictetus, Discourses I, 12.23",
   },
   {
     quote:
@@ -4885,6 +4850,11 @@ const quotes = [
     quote:
       "Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But it is nicer to ordinary people.",
     author: "Matz, LL2",
+  },
+  {
+    quote:
+      "Someone bathes in haste; don't say he bathes badly, but in haste. Someone drinks a lot of wine; don't say he drinks badly, but a lot. Until you know their reasons, how do you know that their actions are vicious?",
+    author: "Epictetus, Enchiridion 45",
   },
   {
     quote:
@@ -4909,11 +4879,6 @@ const quotes = [
   },
   {
     quote:
-      "Someone bathes in haste; don't say he bathes badly, but in haste. Someone drinks a lot of wine; don't say he drinks badly, but a lot. Until you know their reasons, how do you know that their actions are vicious?",
-    author: "Epictetus, Enchiridion 45",
-  },
-  {
-    quote:
       "Something Confusing about \"Hard\": It's tempting to think that if it's hard, then it's valuable. Most valuable things are hard. Most hard things are completely useless - (picture of someone smashing their head through concrete blocks kung-fu style). Hard DOES NOT EQUATE TO BEING valuable. Remember Friendster back in the day? You'd sign in, invite friends, have 25 friends, go to their profile, and then it'd show how you were connected to each one. That's an impressive [some geeky CS jargon] Cone traversal of a tree - 100 million string comparisons per page - it won't scale. Used to take a minute per page to load, and Friendster died a painful death. MySpace - not interested in solving problems They use the shortcut of \"Miss Fitzpatrick is in your extended network\" (i.e. even when you're not even signed up for MySpace) They didn't solve the hard problem. But they make the more relevant assumption that you want to be connected to hot women. [LOL] Shows Alexa graph showing that in early 2005 Myspace took off, and quickly bypassed Friendster and never looked back.",
     author: "Max Levchin, PayPal founder, Talk at StartupSchool2007",
   },
@@ -4934,18 +4899,38 @@ const quotes = [
   },
   {
     quote:
-      'Sometimes saying "fuck it" at the right time can be a very powerful thing. It tells your mind that you are willing to do whatever it takes to get to the other side.',
-    author: "David Goggins",
-  },
-  {
-    quote:
       "Sometimes, magic is just someone spending more time on something than anyone else might reasonably expect.",
     author: "Teller",
   },
   {
     quote:
+      'Sometimes saying "fuck it" at the right time can be a very powerful thing. It tells your mind that you are willing to do whatever it takes to get to the other side.',
+    author: "David Goggins",
+  },
+  {
+    quote:
+      "So the mere constraint of staying in regular contact with us will push you to make things happen, because otherwise you'll be embarrassed to tell us that you haven't done anything new since the last time we talked.",
+    author: "Paul Graham (a talk at Y Combinator, for startup creators).",
+  },
+  {
+    quote:
       "Sound methodology can empower and liberate the creative mind; it cannot inflame or inspire the drudge.",
     author: "Frederick P. Brooks, No Sliver Bullet.",
+  },
+  {
+    quote:
+      "So - what are the most important problems in software engineering? I’d answer “dealing with complexity”.",
+    author: "Mark Chu-Carroll",
+  },
+  {
+    quote:
+      "So when you hear that even life and the like are indifferent, don't become apathetic; and by the same token, when you're advised to care about them, don't become superficial and conceive a passion for externals.",
+    author: "Epictetus, Discourses II, 6.2",
+  },
+  {
+    quote:
+      "So you admit that you have at least one master. And don't let the fact that Caesar rules over everyone, as you say, console you: it only means that you're a slave in a very large household.",
+    author: "Epictetus, Discourses IV, 1.13",
   },
   {
     quote:
@@ -4958,13 +4943,13 @@ const quotes = [
   },
   {
     quote:
-      "Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow.",
-    author: "@TheAncientSage",
+      'Starting with things of little value – a bit of spilled oil, a little stolen wine – repeat to yourself: "For such a small price I buy tranquillity and peace of mind."',
+    author: "Epictetus, Enchiridion 12.2",
   },
   {
     quote:
-      'Starting with things of little value – a bit of spilled oil, a little stolen wine – repeat to yourself: "For such a small price I buy tranquillity and peace of mind."',
-    author: "Epictetus, Enchiridion 12.2",
+      "Start living in discomfort. Gradually increase it little by little, and you will steadily grow. If you want sudden growth, deluge yourself in great discomfort and do not retreat from it. The more discomfort you are willing to bear, the more you can grow.",
+    author: "@TheAncientSage",
   },
   {
     quote:
@@ -5072,11 +5057,6 @@ const quotes = [
   },
   {
     quote:
-      "That 95 per cent. fail of those who start in business upon their own account seems incredible, and yet such are said to be the statistics upon the subject.",
-    author: "Andrew Carnegie, 1896",
-  },
-  {
-    quote:
       "That book is good in vain which the reader throws away. He only is the master who keeps the mind in pleasing captivity; whose pages are perused with eagerness, and in hope of new pleasure are perused again; and whose conclusion is perceived with an eye of sorrow, such as the traveller casts upon departing day.",
     author: "Johnson, Lives of the Poets: Dryden",
   },
@@ -5107,45 +5087,21 @@ const quotes = [
   },
   {
     quote:
-      "That person has lost their children: you too, can lose yours; that person received sentence of death: your innocence too, stands under the hammer. This is the fallacy that takes us in and makes us weak while we suffer misfortunes that we never foresaw that we could suffer. The person who has anticipated the coming of troubles takes away their power when they arrive.",
-    author: "Seneca",
+      "That 95 per cent. fail of those who start in business upon their own account seems incredible, and yet such are said to be the statistics upon the subject.",
+    author: "Andrew Carnegie, 1896",
   },
   {
-    quote: "That which can be destroyed by the truth should be.",
-    author: "P.C. Hodgell",
+    quote:
+      "That person has lost their children: you too, can lose yours; that person received sentence of death: your innocence too, stands under the hammer. This is the fallacy that takes us in and makes us weak while we suffer misfortunes that we never foresaw that we could suffer. The person who has anticipated the coming of troubles takes away their power when they arrive.",
+    author: "Seneca",
   },
   {
     quote: "That's your life and its ending one moment at a time.",
     author: "Chuck Palahniuk, Fight Club",
   },
   {
-    quote:
-      "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
-    author: "Konstantin Tsiolkovsky",
-  },
-  {
-    quote: "The Future is already here. It's just not evenly distributed yet.",
-    author: "William Gibson",
-  },
-  {
-    quote:
-      "The German historians of the nineteenth century were explicit and vastly successful in the exercise of what they regarded as social responsibility. Nor did they see any conflict between their ethics as historians and their obligations as citizens. But we can now perceive that they were building not only a united Germany but a Germany united in authoritarian terms.",
-    author: "Lynn White",
-  },
-  {
-    quote:
-      "The Muslims of al-Andalus had nothing to learn from their Christian neighbours and were incurious about them. Geographers' accounts of Christian Spain tended to be cursory in the extreme: it was cold, the inhabitants were barbarians who ate pigs, you could get slaves there - that was about the sum of it.",
-    author: "Richard Fletcher, Moorish Spain",
-  },
-  {
-    quote:
-      "The Pythagoreans bid us in the morning look to the heavens that we may be reminded of those bodies that continually do the same things and in the same manner perform their work, and also be reminded of their purity and nudity. For there is no veil over a star.",
-    author: "Marcus Aurelius, Meditations, XI.27",
-  },
-  {
-    quote:
-      "The Work Begins Anew, The Hope Rises Again, And The Dream Lives On.",
-    author: "Ted Kennedy",
+    quote: "That which can be destroyed by the truth should be.",
+    author: "P.C. Hodgell",
   },
   {
     quote:
@@ -5224,6 +5180,11 @@ const quotes = [
   },
   {
     quote:
+      "The best way, perhaps the only way, to change others is to become an example.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
       "The best way to do something 'lean' is to gather a tight group of people, give them very little money, and very little time.",
     author: "Bob Klein, chief engineer of the F-14 program",
   },
@@ -5231,11 +5192,6 @@ const quotes = [
     quote:
       "The best way to learn to live with our limitations is to know them.",
     author: "E. W. Dijkstra, The humble programmer",
-  },
-  {
-    quote:
-      "The best way, perhaps the only way, to change others is to become an example.",
-    author: "Naval Ravikant",
   },
   {
     quote: "The best writing is rewriting.",
@@ -5274,6 +5230,11 @@ const quotes = [
   {
     quote: "The direct pursuit of happiness is a recipe for an unhappy life.",
     author: "Donald Campbell",
+  },
+  {
+    quote:
+      "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.",
+    author: "Konstantin Tsiolkovsky",
   },
   {
     quote:
@@ -5345,6 +5306,10 @@ const quotes = [
     author: "@TheAncientSage",
   },
   {
+    quote: "The Future is already here. It's just not evenly distributed yet.",
+    author: "William Gibson",
+  },
+  {
     quote:
       "The future is an unknown, but a somewhat predictable unknown. To look to the future we must first look back upon the past. That is where the seeds of the future were planted. I never think of the future. It comes soon enough.",
     author: "Albert Einstein",
@@ -5354,6 +5319,11 @@ const quotes = [
       "The general principle for complexity design is this: Think locally, act locally.",
     author:
       "Richard P. Gabriel & Ron Goldman, Mob Software: The Erotic Life of Code",
+  },
+  {
+    quote:
+      "The German historians of the nineteenth century were explicit and vastly successful in the exercise of what they regarded as social responsibility. Nor did they see any conflict between their ethics as historians and their obligations as citizens. But we can now perceive that they were building not only a united Germany but a Germany united in authoritarian terms.",
+    author: "Lynn White",
   },
   {
     quote: "The goal of life is living in agreement with Nature.",
@@ -5374,15 +5344,6 @@ const quotes = [
     author: "WestHost weekly newsletter 14 Feb 2003",
   },
   {
-    quote: "The great law of nature is that it never stops. There is no end.",
-    author: "Ryan Holiday",
-  },
-  {
-    quote:
-      "The great viruses of our time spread through minds, not through bodies.",
-    author: "Naval Ravikant",
-  },
-  {
     quote:
       "The greatest challenge to any thinker is stating the problem in a way that will allow a solution.",
     author: "Bertrand Russell",
@@ -5395,6 +5356,15 @@ const quotes = [
   {
     quote: "The greatest of all weaknesses is the fear of appearing weak.",
     author: "J. B. Bossuet, Politics from Holy Writ, 1709",
+  },
+  {
+    quote: "The great law of nature is that it never stops. There is no end.",
+    author: "Ryan Holiday",
+  },
+  {
+    quote:
+      "The great viruses of our time spread through minds, not through bodies.",
+    author: "Naval Ravikant",
   },
   {
     quote:
@@ -5412,14 +5382,14 @@ const quotes = [
     author: "Marcus Aurelius",
   },
   {
+    quote: "The hardest part of design ... is keeping features out.",
+    author: "Donald Norman",
+  },
+  {
     quote:
       "The hard part wasn't going to prison. It was getting out and trying to be part of society again. Because at one time I was a contractor, I had four employees, a three-bedroom house, blah blah blah blah, and I had to lose it all to realize it was just stuff. When I discharged my sentence, February 11, 2011, I became a citizen again. Now I can go in and vote for the president, but I can't get a job here or there, and I can't have any apartments because they won't accept felons. I even went through an agency that took felons, and they'll give a pedophile an apartment before me because I had a drug charge. I wasn't even dealing drugs: I just had possession, but they're worried for anybody that had drugs that they could sell it in their apartments, and they won't give them one. They give pedophiles an apartment and not me because I had a drug felony. So the hard part was becoming part of society again. It's like they didn't want me to be part of their society anymore. So I just decided <<Fuck it! I'm going to sleep in a tent. I'm going to do what I love for a living, which is playing music. And If I make a little bit of money, I'd prefer to do what I love with passion rather than go back to contracts and try to make a lot of money and be part of a society that doesn't even want me anymore>>. Fuck them, you know, fuck society. That's what I feel. I'm just trying to make the world a better place, a more beautiful place, and if music and art can do it, and somebody appreciates it, and I can make a positive difference in one person's life, that's all that matters.",
     author:
       'The guy from the viral YouTube video "Homeless guy spits some truth."',
-  },
-  {
-    quote: "The hardest part of design ... is keeping features out.",
-    author: "Donald Norman",
   },
   {
     quote:
@@ -5475,13 +5445,13 @@ const quotes = [
     author: "Tara Ploughman",
   },
   {
-    quote: "The less scheduled you are, the more creative you’re going to be.",
-    author: "Naval Ravikant",
-  },
-  {
     quote:
       "The lesson of the story might appear to be that self-interested and ambitious people in power are often the cause of wastefulness in developing countries. But self-interested and ambitious people are in positions of power, great and small, all over the world. In many places, they are restrained by the law, the press, and democratic opposition. Cameroon's tragedy is that there is nothing to hold self-interest in check.",
     author: "Tim Harford",
+  },
+  {
+    quote: "The less scheduled you are, the more creative you’re going to be.",
+    author: "Naval Ravikant",
   },
   {
     quote: "The limit is not the sky. The limit is the mind.",
@@ -5578,6 +5548,16 @@ const quotes = [
     quote:
       "The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come.",
     author: "Steve Jobs",
+  },
+  {
+    quote:
+      "The Muslims of al-Andalus had nothing to learn from their Christian neighbours and were incurious about them. Geographers' accounts of Christian Spain tended to be cursory in the extreme: it was cold, the inhabitants were barbarians who ate pigs, you could get slaves there - that was about the sum of it.",
+    author: "Richard Fletcher, Moorish Spain",
+  },
+  {
+    quote:
+      "Then in 1888 came the publication of Denton's history of England in the fifteenth century. This was a masterpiece of egregious perversity, depicting the later Middle Ages as a culminating period of ruinous taxation, iniquitous labour laws, demoralizing pestilences, and lavish dissipation of national resources upon violent and embittered domestic feuds and futile and indecisive foreign wars. The credulity of even the most undiscriminating reader was taxed to a degree by a portrayal in which horror succeeded upon cataclysm, in a thickening atmosphere of crime and terror, want, degradation, and wretchedness.",
+    author: "A. R. Bridbury",
   },
   {
     quote: "The obstacle is the way.",
@@ -5725,6 +5705,11 @@ const quotes = [
   },
   {
     quote:
+      "The Pythagoreans bid us in the morning look to the heavens that we may be reminded of those bodies that continually do the same things and in the same manner perform their work, and also be reminded of their purity and nudity. For there is no veil over a star.",
+    author: "Marcus Aurelius, Meditations, XI.27",
+  },
+  {
+    quote:
       "The qualities that made for success in a fighter-pilot seemed to be just those sturdy qualities that made for success in other professions; observation, initiative, determination, courage, including the courage to run away. In course of time it appeared that men who had a private axe to grind beyond the public axe of the King's enemies were especially successful.",
     author: "Jim Bailey, The Sky Suspended",
   },
@@ -5739,6 +5724,31 @@ const quotes = [
   },
   {
     quote:
+      "There are many ways to avoid success in life, but the most sure-fire just might be procrastination.",
+    author: "Hara Estroff Marano.",
+  },
+  {
+    quote:
+      "There are some things you can't share without ending up linking each other, and knocking out a twelve-foot mountain troll is one of them.",
+    author: "Harry Potter and the Philosopher's Stone by J.K. Rowling",
+  },
+  {
+    quote:
+      "There are times when even to live is an act of bravery. So there is the comforting thing about extremities of pain: if you feel it too much you are bound to stop feeling it. The love of power or money or luxurious living are not the only things which are guided by popular thinking. We take our cue from people's thinking even in the way we feel pain. Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. \"But my illness has taken me away from my duties and won't allow me to achieve anything.\" It is your body, not your mind as well, that is in the grip of ill health.",
+    author: "Seneca, Letter LXXVIII",
+  },
+  {
+    quote:
+      "There are two of the most immediately useful thoughts you will dip into. First that things cannot touch the mind: they are external and inert; anxieties can only come from your internal judgement. Second, that all these things you see will change almost as you look at them, and then will be no more. Constantly bring to mind all that you yourself have already seen changed. The universe is change: life is judgement.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+    author: "C. A. R. Hoare",
+  },
+  {
+    quote:
       "The reason to do animation is caricature. Good caricature picks out the essense of the statement and removes everything else. It's not simply about reproducing reality; It's about bumping it up.",
     author: "Brad Bird, writer and director, The Incredibles",
   },
@@ -5746,6 +5756,82 @@ const quotes = [
     quote:
       "The reason why we have two ears and only one mouth is so we might listen more and talk less.",
     author: "Zeno of Citium",
+  },
+  {
+    quote:
+      "There is a difference between knowing the path and walking the path.",
+    author: "Morpheus, The Matrix",
+  },
+  {
+    quote:
+      "There is no beginning and there is no end to time. There is only your perception of time.",
+    author: "Zen proverb",
+  },
+  {
+    quote:
+      "There is no better way to grow as a person than to do something you hate every day.",
+    author: "David Goggins",
+  },
+  {
+    quote: "There is no cure for birth and death save to enjoy the interval.",
+    author: "Unknown",
+  },
+  {
+    quote: "There is no genius without a touch of madness.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "There is no man so fortunate that there shall not be by him when he is dying some who are pleased with what is going to happen.",
+    author: "Marcus Aurelius, Meditations, X.36",
+  },
+  {
+    quote:
+      "There is no reason for any individual to have a computer in his home.",
+    author: "Ken Olson, President, Digital Equipment Corporation, 1977",
+  },
+  {
+    quote:
+      "There is nothing dangerous in a man's having as much power as he likes if he takes the view that he has power to do only what it is his duty to do.",
+    author: "Seneca, Letter XC",
+  },
+  {
+    quote:
+      "There is nothing more precious than trust. Low trust environments are full of friction and inefficiency. Every interaction is a fierce negotiation. Trust makes a marriage warm and a nation wealthy.",
+    author: "@TheStoicEmperor",
+  },
+  {
+    quote:
+      "There is one meaning [for static in C]: a global variable that is invisible outside the current scope, be it a function or a file.",
+    author: "Paolo Bonzini",
+  },
+  {
+    quote:
+      "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+    author: "Epictetus",
+  },
+  {
+    quote: "There really is no learning without doing.",
+    author: "Roger Schank, Engines for Education",
+  },
+  {
+    quote: "There's beauty in everything, just not everyone sees it.",
+    author: "Park Jimin",
+  },
+  {
+    quote:
+      "There's no difference between the one and the other - you didn't exist and you won't exist - you've got no concern with either period. As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is. It is not important at what point you stop. Stop wherever you will - only make sure that you round it off with a good ending.",
+    author: "Seneca, Letter LXXVII",
+  },
+  {
+    quote:
+      "There were two vices much blacker and more serious than the rest: lack of persistence and lack of self-control ... persist and resist.",
+    author: "Epictetus, Fragments 10",
+  },
+  {
+    quote:
+      "There will come a time in the distant future, where no one will know who you were, no one will know of your existence and contributions, no one will know your pain and suffering, and your happiness. Time will wipe away both men and the memories of men. Let yourself be free.",
+    author: "@LifeMathMoney",
   },
   {
     quote: "The robbed that smiles steals something from the thief.",
@@ -5885,6 +5971,11 @@ const quotes = [
   },
   {
     quote:
+      "The Work Begins Anew, The Hope Rises Again, And The Dream Lives On.",
+    author: "Ted Kennedy",
+  },
+  {
+    quote:
       "The work of philosophy is simple and modest. Do not draw me aside into pomposity.",
     author: "Marcus Aurelius, Meditations, IX.29",
   },
@@ -5897,112 +5988,6 @@ const quotes = [
     author: "Albert Einstein",
     quote:
       "The world will not be destroyed by evil, but by those who watch it and refuse to fix it.",
-  },
-  {
-    quote:
-      "Then in 1888 came the publication of Denton's history of England in the fifteenth century. This was a masterpiece of egregious perversity, depicting the later Middle Ages as a culminating period of ruinous taxation, iniquitous labour laws, demoralizing pestilences, and lavish dissipation of national resources upon violent and embittered domestic feuds and futile and indecisive foreign wars. The credulity of even the most undiscriminating reader was taxed to a degree by a portrayal in which horror succeeded upon cataclysm, in a thickening atmosphere of crime and terror, want, degradation, and wretchedness.",
-    author: "A. R. Bridbury",
-  },
-  {
-    quote:
-      "There are many ways to avoid success in life, but the most sure-fire just might be procrastination.",
-    author: "Hara Estroff Marano.",
-  },
-  {
-    quote:
-      "There are some things you can't share without ending up linking each other, and knocking out a twelve-foot mountain troll is one of them.",
-    author: "Harry Potter and the Philosopher's Stone by J.K. Rowling",
-  },
-  {
-    quote:
-      "There are times when even to live is an act of bravery. So there is the comforting thing about extremities of pain: if you feel it too much you are bound to stop feeling it. The love of power or money or luxurious living are not the only things which are guided by popular thinking. We take our cue from people's thinking even in the way we feel pain. Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. \"But my illness has taken me away from my duties and won't allow me to achieve anything.\" It is your body, not your mind as well, that is in the grip of ill health.",
-    author: "Seneca, Letter LXXVIII",
-  },
-  {
-    quote:
-      "There are two of the most immediately useful thoughts you will dip into. First that things cannot touch the mind: they are external and inert; anxieties can only come from your internal judgement. Second, that all these things you see will change almost as you look at them, and then will be no more. Constantly bring to mind all that you yourself have already seen changed. The universe is change: life is judgement.",
-    author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
-    author: "C. A. R. Hoare",
-  },
-  {
-    quote:
-      "There is a difference between knowing the path and walking the path.",
-    author: "Morpheus, The Matrix",
-  },
-  {
-    quote:
-      "There is no beginning and there is no end to time. There is only your perception of time.",
-    author: "Zen proverb",
-  },
-  {
-    quote:
-      "There is no better way to grow as a person than to do something you hate every day.",
-    author: "David Goggins",
-  },
-  {
-    quote: "There is no cure for birth and death save to enjoy the interval.",
-    author: "Unknown",
-  },
-  {
-    quote: "There is no genius without a touch of madness.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "There is no man so fortunate that there shall not be by him when he is dying some who are pleased with what is going to happen.",
-    author: "Marcus Aurelius, Meditations, X.36",
-  },
-  {
-    quote:
-      "There is no reason for any individual to have a computer in his home.",
-    author: "Ken Olson, President, Digital Equipment Corporation, 1977",
-  },
-  {
-    quote:
-      "There is nothing dangerous in a man's having as much power as he likes if he takes the view that he has power to do only what it is his duty to do.",
-    author: "Seneca, Letter XC",
-  },
-  {
-    quote:
-      "There is nothing more precious than trust. Low trust environments are full of friction and inefficiency. Every interaction is a fierce negotiation. Trust makes a marriage warm and a nation wealthy.",
-    author: "@TheStoicEmperor",
-  },
-  {
-    quote:
-      "There is one meaning [for static in C]: a global variable that is invisible outside the current scope, be it a function or a file.",
-    author: "Paolo Bonzini",
-  },
-  {
-    quote:
-      "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
-    author: "Epictetus",
-  },
-  {
-    quote: "There really is no learning without doing.",
-    author: "Roger Schank, Engines for Education",
-  },
-  {
-    quote:
-      "There were two vices much blacker and more serious than the rest: lack of persistence and lack of self-control ... persist and resist.",
-    author: "Epictetus, Fragments 10",
-  },
-  {
-    quote:
-      "There will come a time in the distant future, where no one will know who you were, no one will know of your existence and contributions, no one will know your pain and suffering, and your happiness. Time will wipe away both men and the memories of men. Let yourself be free.",
-    author: "@LifeMathMoney",
-  },
-  {
-    quote: "There's beauty in everything, just not everyone sees it.",
-    author: "Park Jimin",
-  },
-  {
-    quote:
-      "There's no difference between the one and the other - you didn't exist and you won't exist - you've got no concern with either period. As it is with a play, so it is with life - what matters is not how long the acting lasts, but how good it is. It is not important at what point you stop. Stop wherever you will - only make sure that you round it off with a good ending.",
-    author: "Seneca, Letter LXXVII",
   },
   {
     quote:
@@ -6104,12 +6089,12 @@ const quotes = [
     author: "Alan J. Perlis",
   },
   {
-    quote: "Time spent has nothing to do with job done.",
-    author: "Naval Ravikant",
-  },
-  {
     quote: "Timendi causa est nescire — Ignorance is the cause of fear.",
     author: "Seneca",
+  },
+  {
+    quote: "Time spent has nothing to do with job done.",
+    author: "Naval Ravikant",
   },
   {
     quote:
@@ -6122,12 +6107,22 @@ const quotes = [
     author: "Osho",
   },
   {
+    quote:
+      "To bear trials with a calm mind robs misfortune of its strength and burden.",
+    author: "Seneca",
+  },
+  {
     quote: "To be calm is the highest achievement of the self.",
     author: "Zen proverb",
   },
   {
     quote: "To be evenminded is the greatest virtue.",
     author: "Heraclitus",
+  },
+  {
+    quote:
+      "...to be feared is to fear: no one has been able to strike terror into others and at the same time enjoy peace of mind himself.",
+    author: "Seneca, Letter CIV",
   },
   {
     quote:
@@ -6146,17 +6141,22 @@ const quotes = [
   },
   {
     quote:
-      "To bear trials with a calm mind robs misfortune of its strength and burden.",
-    author: "Seneca",
-  },
-  {
-    quote:
       "To care for all men is according to man's nature; and man should value the opinion only of those who openly live according to nature.",
     author: "Marcus Aurelius, Meditations III.4",
   },
   {
     quote: "To complain is always nonacceptance of what is.",
     author: "Eckhart Tolle",
+  },
+  {
+    quote:
+      "Today I have got out of all trouble, or rather I have cast out all trouble, for it was not outside, but within and in my opinions.",
+    author: "Marcus Aurelius, Meditations, IX.13",
+  },
+  {
+    quote:
+      "Today people care only for academic discussion, nothing beyond that. But I'm presenting to you the real athlete, namely the one training to face off against the most formidable of impressions.",
+    author: "Epictetus, Discourses II, 18.26-27",
   },
   {
     quote:
@@ -6172,6 +6172,11 @@ const quotes = [
     quote:
       "To follow the path:\nlook to the master,\nfollow the master,\nwalk with the master,\nsee through the master,\nbecome the master.",
     author: "Modern zen Poem",
+  },
+  {
+    quote:
+      "Together with intelligence, self-control turns out to be the best predictor of a successful and satisfying life.",
+    author: "Steven Pinker",
   },
   {
     quote:
@@ -6200,6 +6205,11 @@ const quotes = [
     quote:
       "To not be distracted by the darkness of others, to head towards the light. To be good without hesitation, even when other people are not. That's our job.",
     author: "The Daily Stoic",
+  },
+  {
+    quote:
+      "Too many people believe that everything must be pleasurable in life.",
+    author: "Robert Greene",
   },
   {
     quote:
@@ -6233,26 +6243,6 @@ const quotes = [
   },
   {
     quote:
-      "Today I have got out of all trouble, or rather I have cast out all trouble, for it was not outside, but within and in my opinions.",
-    author: "Marcus Aurelius, Meditations, IX.13",
-  },
-  {
-    quote:
-      "Today people care only for academic discussion, nothing beyond that. But I'm presenting to you the real athlete, namely the one training to face off against the most formidable of impressions.",
-    author: "Epictetus, Discourses II, 18.26-27",
-  },
-  {
-    quote:
-      "Together with intelligence, self-control turns out to be the best predictor of a successful and satisfying life.",
-    author: "Steven Pinker",
-  },
-  {
-    quote:
-      "Too many people believe that everything must be pleasurable in life.",
-    author: "Robert Greene",
-  },
-  {
-    quote:
       "Trade money for time, not time for money. You're going to run out of time first.",
     author: "Naval Ravikant",
   },
@@ -6260,6 +6250,11 @@ const quotes = [
     quote:
       "Training research shows that if you get speed now you can get quality later. But if you don't get speed you will never get quality in the long run.",
     author: "Philip Greenspun",
+  },
+  {
+    quote:
+      "[Treat] unenlightened souls with sympathy and indulgence, remembering that they are ignorant or mistaken about what's most important. Never be harsh, remember Plato's dictum: \"Every soul is deprived of the truth against its will.\"",
+    author: "Epictetus, Discourses II, 22.36",
   },
   {
     quote:
@@ -6322,18 +6317,14 @@ const quotes = [
     author: "Epictetus, Enchiridion 11",
   },
   {
-    quote: "Understand what words you use first, then use them.",
-    author: "Epictetus, Discourses III, 23.18",
-  },
-  {
-    quote:
-      "Understand what you can control and what you can't. Forget about the things you can't control and put that energy into the things you can control.",
-    author: "Shane Parrish",
-  },
-  {
     quote:
       "Understand: a critic doesn't disturb you, it disturbs your ego. You want to know the truth. Your ego is scared of it.",
     author: "Maxime Lagacé",
+  },
+  {
+    quote:
+      "Understanding why C++ is the way it is helps a programmer use it well. A deep understanding of a tool is essential for an expert craftsman.",
+    author: "Bjarne Stroustrap",
   },
   {
     quote:
@@ -6346,9 +6337,13 @@ const quotes = [
     author: "Robert Greene",
   },
   {
+    quote: "Understand what words you use first, then use them.",
+    author: "Epictetus, Discourses III, 23.18",
+  },
+  {
     quote:
-      "Understanding why C++ is the way it is helps a programmer use it well. A deep understanding of a tool is essential for an expert craftsman.",
-    author: "Bjarne Stroustrap",
+      "Understand what you can control and what you can't. Forget about the things you can't control and put that energy into the things you can control.",
+    author: "Shane Parrish",
   },
   {
     quote: "Unfollow the mind. Follow the heart. Mute the masses.",
@@ -6378,6 +6373,11 @@ const quotes = [
     author: "Marcus Aurelius",
   },
   {
+    quote:
+      "(1.00)³⁶⁵ = 1.00\n(1.01)³⁶⁵ = 37.7\nVery small steps are better than doing nothing at all.",
+    author: "(source unknown)",
+  },
+  {
     quote: "Vibes speak louder than words",
     author: "Probably Gabby Bernstein",
   },
@@ -6398,6 +6398,15 @@ const quotes = [
     quote:
       "We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about.",
     author: "Charles Kingsley",
+  },
+  {
+    quote: "Weak men act to satisfy their needs, stronger men their duties.",
+    author: "Nassim Nicholas Taleb",
+  },
+  {
+    quote:
+      "Wealth consists not in having great possessions, but in having few wants.",
+    author: "Epictetus",
   },
   {
     quote:
@@ -6438,6 +6447,11 @@ const quotes = [
     quote:
       "We are the sum of our behaviours; excellence therefore is not an act but a habit.",
     author: "Aristotle.",
+  },
+  {
+    quote:
+      "Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act — if you can’t control outcomes, you can control the elegance of your behaviour. You will always have the last word.",
+    author: "Nassim Taleb",
   },
   {
     quote:
@@ -6490,6 +6504,32 @@ const quotes = [
   },
   {
     quote:
+      "Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned.",
+    author: "@TheAncientSage",
+  },
+  {
+    quote:
+      "Well, if you talk about programming to a group of programmers who use the same language, they can become almost evangelistic about the language. They form a tight-knit community, hold to certain beliefs, and follow certain rules in their programming. It’s like a church with a programming language for a Bible.",
+    author:
+      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
+  },
+  {
+    quote:
+      "Well then. How could you possibly live without automated refactoring tools? How else could you coordinate the caterpillar-like motions of all Java’s identical tiny legs, its thousands of similar parts? I’ll tell you how: Ruby is a butterfly.",
+    author: "Stevey, Refactoring Trilogy, Part 1.",
+  },
+  {
+    quote:
+      '"Well, whatever you may say, I know good from bad, and have an idea of the good." You have one, I allow. "And I put it into practice." You use it in specific instances, yes. "And I use it correctly." Well, that\'s the crux, because this is where opinions become an issue.',
+    author: "Epictetus, Discourses II, 11.7-8",
+  },
+  {
+    quote:
+      '"Well, what will my profession in the community be?" Whatever position you are equipped to fill, so long as you preserve the man of trust and integrity.',
+    author: "Epictetus, Enchiridion 24.4",
+  },
+  {
+    quote:
       "We must be willing to roll the dice and lose. Prepare, at the end of the day, for none of it to work.",
     author: "Ryan Holiday",
   },
@@ -6512,6 +6552,10 @@ const quotes = [
     author: "Elon Musk",
   },
   {
+    quote: "We, not externals, are the masters of our judgements.",
+    author: "Epictetus, Discourses I, 11.37",
+  },
+  {
     quote:
       "We now come to the decisive step of mathematical abstraction: we forget about what the symbols stand for. ...[The mathematician] need not be idle; there are many operations which he may carry out with these symbols, without ever having to look at the things they stand for.",
     author: "Hermann Weyl, The Mathematical Way of Thinking",
@@ -6522,9 +6566,18 @@ const quotes = [
     author: "Roger Schank, Engines for Education",
   },
   {
+    quote: "We're even wrong about which mistakes we're making.",
+    author: "Carl Winfeld",
+  },
+  {
     quote:
       "We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality.",
     author: "Roger Schank, Engines for Education",
+  },
+  {
+    quote:
+      "We're not really here that long, and we don't really matter that much. Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone.",
+    author: "Naval Ravikant",
   },
   {
     quote:
@@ -6562,66 +6615,23 @@ const quotes = [
   },
   {
     quote:
-      "We will never become a truly paper-less society until the Palm Pilot folks come out with WipeMe 1.0.",
-    author: "Andy Pierson",
-  },
-  {
-    quote: "We're even wrong about which mistakes we're making.",
-    author: "Carl Winfeld",
-  },
-  {
-    quote:
-      "We're not really here that long, and we don't really matter that much. Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
       "We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock stars. But we won't. And we're slowly learning that fact. And we're very, very pissed off.",
     author: "Chuck Palahniuk, Fight Club",
   },
   {
-    quote: "We, not externals, are the masters of our judgements.",
-    author: "Epictetus, Discourses I, 11.37",
-  },
-  {
-    quote: "Weak men act to satisfy their needs, stronger men their duties.",
-    author: "Nassim Nicholas Taleb",
+    quote:
+      "We will never become a truly paper-less society until the Palm Pilot folks come out with WipeMe 1.0.",
+    author: "Andy Pierson",
   },
   {
     quote:
-      "Wealth consists not in having great possessions, but in having few wants.",
-    author: "Epictetus",
+      "\"What about if someone threatens me with death, though; surely he compels me then?\" It isn't what you're threatened with – it's the fact that you prefer to do anything rather than die. It's your set of values that compelled you: will acting on will.",
+    author: "Epictetus, Discourses I, 17.25-26",
   },
   {
     quote:
-      "Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act — if you can’t control outcomes, you can control the elegance of your behaviour. You will always have the last word.",
-    author: "Nassim Taleb",
-  },
-  {
-    quote:
-      "Welcome if it comes. Let go if it goes. Chase nothing. Cling to nothing. Remain unconcerned.",
-    author: "@TheAncientSage",
-  },
-  {
-    quote:
-      "Well then. How could you possibly live without automated refactoring tools? How else could you coordinate the caterpillar-like motions of all Java’s identical tiny legs, its thousands of similar parts? I’ll tell you how: Ruby is a butterfly.",
-    author: "Stevey, Refactoring Trilogy, Part 1.",
-  },
-  {
-    quote:
-      "Well, if you talk about programming to a group of programmers who use the same language, they can become almost evangelistic about the language. They form a tight-knit community, hold to certain beliefs, and follow certain rules in their programming. It’s like a church with a programming language for a Bible.",
-    author:
-      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-  },
-  {
-    quote:
-      "What I didn't understand was that the value of some new acquisition wasn't the difference between its retail price and what I paid for it. It was the value I derived from it. Stuff is an extremely illiquid asset. Unless you have some plan for selling that valuable thing you got so cheaply, what difference does it make what it's \"worth?\" The only way you're ever going to extract any value from it is to use it. And if you don't have any immediate use for it, you probably never will.",
-    author: "Paul Graham",
-  },
-  {
-    quote:
-      "What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.",
-    author: 'Jeff "hemos" Bates, Director, OSDN; Co-evolver, Slashdot',
+      "What, after all, are sighing and crying, except opinions? What is \"misfortune'? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving – they all are mere opinion, the opinion that good and bad lie outside us.",
+    author: "Epictetus, Discourses III, 3.18-19",
   },
   {
     quote: 'What are the secret of success? -one word answer: "rational".',
@@ -6649,13 +6659,13 @@ const quotes = [
   },
   {
     quote:
-      'What does Socrates say? "One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement."',
-    author: "Epictetus, Discourses III, 5.14",
+      "What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.",
+    author: "Marcus Aurelius, Meditations III.3",
   },
   {
     quote:
-      "What does all this mean? You have embarked, made the voyage, and come to the shore; get out. If indeed to another life, there is no want of gods, not even there. But if to a state without sensation, you will cease to be held by pains and pleasures, and to be a slave to the vessel.",
-    author: "Marcus Aurelius, Meditations III.3",
+      'What does Socrates say? "One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement."',
+    author: "Epictetus, Discourses III, 5.14",
   },
   {
     quote:
@@ -6663,128 +6673,14 @@ const quotes = [
     author: "Epictetus, Discourses I, 4.26",
   },
   {
-    quote: "What illusion about myself do I entertain?",
-    author: "Epictetus, Discourses II, 21.9",
-  },
-  {
     quote:
-      "What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. The fact that it was unforeseen has never failed to intensify a person's grief. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "What is real? How do you define 'real'? If you're talking about what you can feel, what you can smell, what you can taste and see, then 'real' is simply electrical signals interpreted by your brain.",
-    author: "Morpheus, The Matrix",
-  },
-  {
-    quote:
-      "What is the goal of virtue, after all, except a life that flows smoothly?",
-    author: "Epictetus, Discourses I, 4.5",
-  },
-  {
-    quote:
-      "What is the point of dragging up sufferings that are over, of being miserable now, because you were miserable then?",
-    author: "Seneca",
-  },
-  {
-    quote: "What is to give light must endure burning.",
-    author: "Viktor Frankl",
-  },
-  {
-    quote: "What is truth?",
-    author: "Pontius Pilate",
-  },
-  {
-    quote:
-      "What is your art? To be good. And how is this accomplished well except by general principles, some about the nature of the universe, and others about the proper constitution of man?",
-    author: "Marcus Aurelius, Meditations, XI.5",
-  },
-  {
-    quote:
-      "What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well.",
-    author: "Epictetus, Discourses IV, 1.63",
-  },
-  {
-    quote:
-      "What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.",
-    author: "Viktor Frankl",
-  },
-  {
-    quote:
-      "What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure.",
-    author: "Ryan Holiday",
-  },
-  {
-    quote:
-      "What people say or think about him, or how they treat him, isn't something he worries about.",
+      "Whatever anyone does or says, I'm bound to the good. Whatever anyone does or says, I must be what I am and show my true colors.",
     author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "What quality belongs to you? The intelligent use of impressions. If you use impressions as nature enchiridion prescribes, go ahead and indulge your pride, because then you will be celebrating a quality distinctly your own.",
-    author: "Epictetus, Enchiridion 6",
-  },
-  {
-    quote:
-      "What should we do then? Make the best use of what is in our power, and treat the rest in accordance with its nature.",
-    author: "Epictetus, Discourses I, 1.17",
-  },
-  {
-    quote:
-      "What should we have ready at hand in a situation like this? The knowledge of what is mine and what is not mine, what I can and cannot do.",
-    author: "Epictetus, Discourses I, 1.21",
-  },
-  {
-    quote:
-      "What then can guide a man? One thing and only one, philosophy. But this consists in keeping the daimon within a man free from violence and unharmed, superior to pains and pleasures, doing nothing without a purpose, nor yet falsely and with hypocrisy.",
-    author: "Marcus Aurelius, Meditations II.17",
-  },
-  {
-    quote:
-      "What upsets people is not things themselves, but their judgements about these things.",
-    author: "Epictetus",
-  },
-  {
-    quote:
-      "What we choose to fight is so tiny! What fights us is so great! ... When we win it's with small things, and the triumph itself makes us small. ... Winning does not tempt that man. This is how he grows: by being defeated, decisively, by constantly greater beings.",
-    author: "Rainer Maria Rilke, The Man Watching.",
-  },
-  {
-    quote: "What we fear doing most is usually what we most need to do.",
-    author: "Unknown",
-  },
-  {
-    quote: "What we think, we become.",
-    author: "Buddha",
-  },
-  {
-    quote: "What you deserve will always find its way in the end",
-    author: "?",
-  },
-  {
-    quote:
-      "What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.",
-    author: "Unknown",
-  },
-  {
-    quote:
-      "What's reality? I don't know. When my bird was looking at my computer monitor I thought \"Whoa! That bird has no idea what he's looking at.\" And yet what does the bird do? Does he panic? No, he can't really panic, he just does the best he can. Is he able to live in a world where he's so ignorant? Well, he doesn't really have a choice. The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, I can figure this out. Maybe you have some bird ideas. Maybe that's the best you can do.",
-    author: "Terry A. Davis",
-  },
-  {
-    quote:
-      "What, after all, are sighing and crying, except opinions? What is \"misfortune'? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving – they all are mere opinion, the opinion that good and bad lie outside us.",
-    author: "Epictetus, Discourses III, 3.18-19",
   },
   {
     quote:
       'Whatever any one does or says, I must be good, just as if the emerald (or the gold or the purple) were always saying "Whatever any one does or says, I must be emerald and keep my color."',
     author: "Marcus Aurelius, Meditations, VII.15",
-  },
-  {
-    quote:
-      "Whatever anyone does or says, I'm bound to the good. Whatever anyone does or says, I must be what I am and show my true colors.",
-    author: "Marcus Aurelius",
   },
   {
     quote:
@@ -6822,13 +6718,127 @@ const quotes = [
   },
   {
     quote:
-      "When I see that one thing [virtue] is supreme and most important, I cannot say that something else is, just to make you happy.",
-    author: "Epictetus, Discourses II, 23.47",
+      "What I didn't understand was that the value of some new acquisition wasn't the difference between its retail price and what I paid for it. It was the value I derived from it. Stuff is an extremely illiquid asset. Unless you have some plan for selling that valuable thing you got so cheaply, what difference does it make what it's \"worth?\" The only way you're ever going to extract any value from it is to use it. And if you don't have any immediate use for it, you probably never will.",
+    author: "Paul Graham",
+  },
+  {
+    quote: "What illusion about myself do I entertain?",
+    author: "Epictetus, Discourses II, 21.9",
   },
   {
     quote:
-      "When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
-    author: "John Lennon",
+      "What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. The fact that it was unforeseen has never failed to intensify a person's grief. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "What is real? How do you define 'real'? If you're talking about what you can feel, what you can smell, what you can taste and see, then 'real' is simply electrical signals interpreted by your brain.",
+    author: "Morpheus, The Matrix",
+  },
+  {
+    quote:
+      "What is the goal of virtue, after all, except a life that flows smoothly?",
+    author: "Epictetus, Discourses I, 4.5",
+  },
+  {
+    quote:
+      "What is the point of dragging up sufferings that are over, of being miserable now, because you were miserable then?",
+    author: "Seneca",
+  },
+  {
+    quote:
+      '"What is the work of a Master?" said a solemn-faced visitor. "To teach people to laugh," said the Master gravely.',
+    author: "Anthony de Mello",
+  },
+  {
+    quote: "What is to give light must endure burning.",
+    author: "Viktor Frankl",
+  },
+  {
+    quote: "What is truth?",
+    author: "Pontius Pilate",
+  },
+  {
+    quote:
+      "What is your art? To be good. And how is this accomplished well except by general principles, some about the nature of the universe, and others about the proper constitution of man?",
+    author: "Marcus Aurelius, Meditations, XI.5",
+  },
+  {
+    quote:
+      "What makes for freedom and fluency in the practice of writing? Knowledge of how to write. The same goes for the practice of playing an instrument. It follows that, in the conduct of life, there must be a science to living well.",
+    author: "Epictetus, Discourses IV, 1.63",
+  },
+  {
+    quote:
+      "What man actually needs is not a tensionless state but rather the striving and struggling for some goal worthy of him.",
+    author: "Viktor Frankl",
+  },
+  {
+    quote:
+      "What matters most is not what our obstacles are but how we see them, how we react to them, and whether we keep our composure.",
+    author: "Ryan Holiday",
+  },
+  {
+    quote:
+      "What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.",
+    author: 'Jeff "hemos" Bates, Director, OSDN; Co-evolver, Slashdot',
+  },
+  {
+    quote:
+      "What people say or think about him, or how they treat him, isn't something he worries about.",
+    author: "Marcus Aurelius",
+  },
+  {
+    quote:
+      "What quality belongs to you? The intelligent use of impressions. If you use impressions as nature enchiridion prescribes, go ahead and indulge your pride, because then you will be celebrating a quality distinctly your own.",
+    author: "Epictetus, Enchiridion 6",
+  },
+  {
+    quote:
+      "What should we do then? Make the best use of what is in our power, and treat the rest in accordance with its nature.",
+    author: "Epictetus, Discourses I, 1.17",
+  },
+  {
+    quote:
+      "What should we have ready at hand in a situation like this? The knowledge of what is mine and what is not mine, what I can and cannot do.",
+    author: "Epictetus, Discourses I, 1.21",
+  },
+  {
+    quote:
+      "What's reality? I don't know. When my bird was looking at my computer monitor I thought \"Whoa! That bird has no idea what he's looking at.\" And yet what does the bird do? Does he panic? No, he can't really panic, he just does the best he can. Is he able to live in a world where he's so ignorant? Well, he doesn't really have a choice. The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, I can figure this out. Maybe you have some bird ideas. Maybe that's the best you can do.",
+    author: "Terry A. Davis",
+  },
+  {
+    quote:
+      "What then can guide a man? One thing and only one, philosophy. But this consists in keeping the daimon within a man free from violence and unharmed, superior to pains and pleasures, doing nothing without a purpose, nor yet falsely and with hypocrisy.",
+    author: "Marcus Aurelius, Meditations II.17",
+  },
+  {
+    quote:
+      "What upsets people is not things themselves, but their judgements about these things.",
+    author: "Epictetus",
+  },
+  {
+    quote:
+      "What we choose to fight is so tiny! What fights us is so great! ... When we win it's with small things, and the triumph itself makes us small. ... Winning does not tempt that man. This is how he grows: by being defeated, decisively, by constantly greater beings.",
+    author: "Rainer Maria Rilke, The Man Watching.",
+  },
+  {
+    quote: "What we fear doing most is usually what we most need to do.",
+    author: "Unknown",
+  },
+  {
+    quote: "What we think, we become.",
+    author: "Buddha",
+  },
+  {
+    quote: "What you deserve will always find its way in the end",
+    author: "?",
+  },
+  {
+    quote:
+      "What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.",
+    author: "Unknown",
   },
   {
     quote:
@@ -6841,18 +6851,38 @@ const quotes = [
     author: "Epictetus, Discourses II, 12.3-4",
   },
   {
-    quote:
-      "When a man has done you wrong, immediately consider with what opinion about good or evil he has done wrong. For when you have seen this, you will pity him, and will neither wonder nor be angry.",
-    author: "Marcus Aurelius, Meditations, VII.26",
-  },
-  {
     quote: "When all you have is a hammer, everything looks like a nail.",
     author: "unknown",
   },
   {
     quote:
+      "When a man has done you wrong, immediately consider with what opinion about good or evil he has done wrong. For when you have seen this, you will pity him, and will neither wonder nor be angry.",
+    author: "Marcus Aurelius, Meditations, VII.26",
+  },
+  {
+    quote:
       "When another blames you or hates you, or when men say anything injurious about you, approach their poor souls, penetrate within, and see what kind of men they are. You will discover that there is no reason to be concerned that these men have this or that opinion about you.",
     author: "Marcus Aurelius, Meditations, IX.27",
+  },
+  {
+    quote:
+      "Whenever anyone criticizes or wrongs you, remember that they are only doing or saying what they think is right. They cannot be guided by your views, only their own; so if their views are wrong, they are the ones who suffer insofar as they are misguided. I mean, if someone declares a true conjunctive proposition to be false, the proposition is unaffected, it is they who come off worse for having their ignorance exposed.",
+    author: "Epictetus, Enchiridion 42",
+  },
+  {
+    quote:
+      "Whenever externals are more important to you than your own integrity, then be prepared to serve them the remainder of your life.",
+    author: "Epictetus, Discourses II, 2.12",
+  },
+  {
+    quote:
+      "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    author: "Mark Twain",
+  },
+  {
+    quote:
+      "Whenever you teach you have the biggest responsibility in the planet. Either if you are teaching dance, science or to a kid to walk. Teaching is something bigger than the actual subject you are teaching. Teaching is the very inception to change. Teaching is extend the impact of your life trough time. If you teach to be eager without being greedy, if you teach to be humble without develop insecurity, if you teach to have vision without creating ambition, if you teach the right things to do without hiding the wrong you’ve done, If you discuss ideas without pushing yours into the others brain then the new generation can shape a future which is better than the present we made. No matter in which form we all have the role of a teacher for someone. I believe we can make it.",
+    author: "Alessandro Steri",
   },
   {
     quote:
@@ -6866,8 +6896,18 @@ const quotes = [
   },
   {
     quote:
+      "When I see that one thing [virtue] is supreme and most important, I cannot say that something else is, just to make you happy.",
+    author: "Epictetus, Discourses II, 23.47",
+  },
+  {
+    quote:
       "When it comes to all we're required to go through, we're equals. No one is more vulnerable than the next man, and no one can be more sure of his surviving to the morrow.",
     author: "Seneca, Letter XCI",
+  },
+  {
+    quote:
+      "When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
+    author: "John Lennon",
   },
   {
     quote:
@@ -6888,6 +6928,11 @@ const quotes = [
     quote:
       'When someone assents to a false proposition, be sure that they did not want to give their assent, since, as Plato says, "Every soul is deprived of the truth against its will." They simply mistook for true something false.',
     author: "Epictetus, Discourses I, 28.4-5",
+  },
+  {
+    quote:
+      '[When someone does something you don\'t like] Say to yourself each time, "He did what he believed was right."',
+    author: "Epictetus, Enchiridion 42",
   },
   {
     quote:
@@ -6971,26 +7016,6 @@ const quotes = [
   },
   {
     quote:
-      "When you think you're done, you're only at 40% of your body's capability.",
-    author: "David Goggins",
-  },
-  {
-    quote:
-      "When you transform your mind, everything you experience is transformed.",
-    author: "Mingyur Rinpoche",
-  },
-  {
-    quote:
-      "When you truly don’t care what the fuck people think of you, you’ve reached a dangerous level of freedom.",
-    author: "Jim Carrey",
-  },
-  {
-    quote:
-      "When you wish to delight yourself, think of the virtues of those who live with you; for instance, the activity of one, the modesty of another, the liberality of a third, and some other good quality of a fourth.",
-    author: "Marcus Aurelius, Meditations, VI.48",
-  },
-  {
-    quote:
       "When you're alone you should call this condition tranquillity and freedom, and think of yourself like the gods; and when you are with many, you shouldn't call it a crowd, or trouble, or uneasiness, but festival and company, and contentedly accept it.",
     author: "Epictetus",
   },
@@ -7006,29 +7031,29 @@ const quotes = [
   },
   {
     quote:
+      "When you think you're done, you're only at 40% of your body's capability.",
+    author: "David Goggins",
+  },
+  {
+    quote:
+      "When you transform your mind, everything you experience is transformed.",
+    author: "Mingyur Rinpoche",
+  },
+  {
+    quote:
+      "When you truly don’t care what the fuck people think of you, you’ve reached a dangerous level of freedom.",
+    author: "Jim Carrey",
+  },
+  {
+    quote:
       "When you’ve got the code all ripped apart, it’s like a car that’s all disassembled. You’ve got all the parts tying all over your garage and you have to replace the broken part or the car will never run. It’s not fun until the code gets back to the baseline again.",
     author:
       "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
   },
   {
     quote:
-      "Whenever anyone criticizes or wrongs you, remember that they are only doing or saying what they think is right. They cannot be guided by your views, only their own; so if their views are wrong, they are the ones who suffer insofar as they are misguided. I mean, if someone declares a true conjunctive proposition to be false, the proposition is unaffected, it is they who come off worse for having their ignorance exposed.",
-    author: "Epictetus, Enchiridion 42",
-  },
-  {
-    quote:
-      "Whenever externals are more important to you than your own integrity, then be prepared to serve them the remainder of your life.",
-    author: "Epictetus, Discourses II, 2.12",
-  },
-  {
-    quote:
-      "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
-    author: "Mark Twain",
-  },
-  {
-    quote:
-      "Whenever you teach you have the biggest responsibility in the planet. Either if you are teaching dance, science or to a kid to walk. Teaching is something bigger than the actual subject you are teaching. Teaching is the very inception to change. Teaching is extend the impact of your life trough time. If you teach to be eager without being greedy, if you teach to be humble without develop insecurity, if you teach to have vision without creating ambition, if you teach the right things to do without hiding the wrong you’ve done, If you discuss ideas without pushing yours into the others brain then the new generation can shape a future which is better than the present we made. No matter in which form we all have the role of a teacher for someone. I believe we can make it.",
-    author: "Alessandro Steri",
+      "When you wish to delight yourself, think of the virtues of those who live with you; for instance, the activity of one, the modesty of another, the liberality of a third, and some other good quality of a fourth.",
+    author: "Marcus Aurelius, Meditations, VI.48",
   },
   {
     quote:
@@ -7090,13 +7115,23 @@ const quotes = [
   },
   {
     quote:
-      "Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.",
-    author: "Ryōkan",
+      '"Why did this happen to me?" Why not? Events will never conform perfectly to your desires. Move forward.',
+    author: "@TheStoicEmperor",
   },
   {
     quote:
       "Why does the eye see a thing more clearly in dreams than the imagination when awake?",
     author: "Leonardo Da Vinci",
+  },
+  {
+    quote:
+      '"Why do I keep repeating harmful behaviors/habits when I know they are bad for me?" Because they give you pleasure or help you avoid discomfort. And you are too weak to let go of a little pleasure or to bear a little discomfort.',
+    author: "@TheAncientSage",
+  },
+  {
+    quote:
+      "Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.",
+    author: "Ryōkan",
   },
   {
     quote:
@@ -7132,16 +7167,6 @@ const quotes = [
     author: "@TheAncientSage",
   },
   {
-    quote:
-      "With respect to what may happen to you from without, consider that it happens either by chance or according to Providence, and you must neither blame chance nor accuse Providence.",
-    author: "Marcus Aurelius, Meditations, XII.24",
-  },
-  {
-    quote:
-      "With what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily.",
-    author: "Marcus Aurelius, Meditations IV.3",
-  },
-  {
     quote: "Within a computer natural language is unnatural.",
     author: "Alan J. Perlis (Epigrams in programming)",
   },
@@ -7152,8 +7177,18 @@ const quotes = [
   },
   {
     quote:
+      "With respect to what may happen to you from without, consider that it happens either by chance or according to Providence, and you must neither blame chance nor accuse Providence.",
+    author: "Marcus Aurelius, Meditations, XII.24",
+  },
+  {
+    quote:
       "Withstand the setbacks and failures, the days of drudgery, and the hard work that are always a part of any creative action.",
     author: "Robert Greene",
+  },
+  {
+    quote:
+      "With what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily.",
+    author: "Marcus Aurelius, Meditations IV.3",
   },
   {
     quote: "Work as intensely as you play and play as intensely as you work.",
@@ -7182,11 +7217,6 @@ const quotes = [
     quote:
       "Yes, you can — if you do everything as if it were the last thing you were doing in life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.",
     author: "Marcus Aurelius",
-  },
-  {
-    quote:
-      "You Sceptics, who dismiss the evidence of the senses – do you act any differently? Which one of you ever went to the mill when you were in need of a bath?",
-    author: "Epictetus, Discourses I, 27.19",
   },
   {
     quote: "You amplify everything you react to.",
@@ -7258,6 +7288,11 @@ const quotes = [
   },
   {
     quote:
+      "You cannot overestimate the unimportance of practically everything.",
+    author: "Greg McKeown",
+  },
+  {
+    quote:
       "You can pass your life in an equable flow of happiness if you can follow the right way and think and act in the right way.",
     author: "Marcus Aurelius, Meditations V.34",
   },
@@ -7272,6 +7307,10 @@ const quotes = [
     author: "Richard Feynman",
   },
   {
+    quote: "You can’t get to version 500 if you don’t start with a version 1.",
+    author: "BetterExplained.com",
+  },
+  {
     quote:
       "You can't prepare for everything but if you engage in strategic visualization ahead of time, you'll be as prepared as you possibly can be.",
     author: "David Goggins",
@@ -7280,15 +7319,6 @@ const quotes = [
     quote:
       "You can't say I didn't try really hard, 'cause I'm trying really hard to be good.",
     author: "Tom Petty",
-  },
-  {
-    quote:
-      "You cannot overestimate the unimportance of practically everything.",
-    author: "Greg McKeown",
-  },
-  {
-    quote: "You can’t get to version 500 if you don’t start with a version 1.",
-    author: "BetterExplained.com",
   },
   {
     quote:
@@ -7399,9 +7429,69 @@ const quotes = [
     author: "Epictetus, Discourses I, 12.26-27",
   },
   {
+    quote: "Your consistency can beat any talent. Don't let it down.",
+    author: "@Wealthy_Brains on Twitter",
+  },
+  {
+    quote: "You're never given more pain than you can handle.",
+    author: "Byron Katie",
+  },
+  {
+    quote: "You’re offended when you fear that it might be true.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "You're subject to sorrow, fear, jealousy, anger and inconsistency. That's the real reason you should admit that you are not wise.",
+    author: "Epictetus, Discourses II, 22.6",
+  },
+  {
+    quote:
+      "Your existence, my existence is just infinitesimal. It's like a firefly blinking once in the night.",
+    author: "Naval Ravikant",
+  },
+  {
+    quote:
+      "Your food should appease your hunger, your drink quench your thirst, your clothing keep out the cold, your house be a protection against inclement weather. It makes no difference whether it is built of turf or of variegated marble imported from another country.",
+    author: "Seneca",
+  },
+  {
+    quote:
+      "Your life is short. You must turn to profit the present by the aid of reason and justice.",
+    author: "Marcus Aurelius, Meditations IV.26",
+  },
+  {
+    quote: "Your reputation is harmed the most by what you say to defend it.",
+    author: "Nassim Nicholas Taleb",
+  },
+  {
+    quote:
+      "Your time is limited, so don't waste it living someone else's life.",
+    author: "Steve Jobs",
+  },
+  {
+    quote:
+      "Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion.",
+    author: "Haemin Sunim",
+  },
+  {
+    quote:
+      "Your twenties are always an apprenticeship, but you don't always know what for.",
+    author: "Jan Houtema",
+  },
+  {
+    quote: "Your will is the most accurate way to predict the future.",
+    author: "Elon Musk",
+  },
+  {
     quote:
       "You say the speculative topics are useless. Useless to whom? Only to people who don't use them as they should. I mean, salves and ointments are not useless to people who apply them when and how they're supposed to; weights are not useless in themselves, they're useful to some people, worthless to others.",
     author: "Epictetus, Discourses II, 21.20",
+  },
+  {
+    quote:
+      "You Sceptics, who dismiss the evidence of the senses – do you act any differently? Which one of you ever went to the mill when you were in need of a bath?",
+    author: "Epictetus, Discourses I, 27.19",
   },
   {
     quote:
@@ -7452,98 +7542,8 @@ const quotes = [
     author: "Marcus Aurelius, Meditations VI.45",
   },
   {
-    quote: "You're never given more pain than you can handle.",
-    author: "Byron Katie",
-  },
-  {
-    quote:
-      "You're subject to sorrow, fear, jealousy, anger and inconsistency. That's the real reason you should admit that you are not wise.",
-    author: "Epictetus, Discourses II, 22.6",
-  },
-  {
-    quote: "Your consistency can beat any talent. Don't let it down.",
-    author: "@Wealthy_Brains on Twitter",
-  },
-  {
-    quote:
-      "Your existence, my existence is just infinitesimal. It's like a firefly blinking once in the night.",
-    author: "Naval Ravikant",
-  },
-  {
-    quote:
-      "Your food should appease your hunger, your drink quench your thirst, your clothing keep out the cold, your house be a protection against inclement weather. It makes no difference whether it is built of turf or of variegated marble imported from another country.",
-    author: "Seneca",
-  },
-  {
-    quote:
-      "Your life is short. You must turn to profit the present by the aid of reason and justice.",
-    author: "Marcus Aurelius, Meditations IV.26",
-  },
-  {
-    quote: "Your reputation is harmed the most by what you say to defend it.",
-    author: "Nassim Nicholas Taleb",
-  },
-  {
-    quote:
-      "Your time is limited, so don't waste it living someone else's life.",
-    author: "Steve Jobs",
-  },
-  {
-    quote:
-      "Your true self is not your emotion such as anger, frustration or hate. It is the inner witness that knows the rise and fall of your emotion.",
-    author: "Haemin Sunim",
-  },
-  {
-    quote:
-      "Your twenties are always an apprenticeship, but you don't always know what for.",
-    author: "Jan Houtema",
-  },
-  {
-    quote: "Your will is the most accurate way to predict the future.",
-    author: "Elon Musk",
-  },
-  {
-    quote: "You’re offended when you fear that it might be true.",
-    author: "Naval Ravikant",
-  },
-  {
     quote:
       "Zoom out. In the grand scheme of things, is this really going to affect you? We can't even remember what we were doing 5 days ago, let alone five years. What matters is how you feel now. If it makes you upset, let it go. If it feels good, let it consume you.",
     author: "Thibaut",
-  },
-  {
-    quote:
-      "[How friendly will this machine be?] Well, I don’t think it’s a matter of friendliness, because ultimately if the program is going to accomplish anything of value, it will probably be relatively complex.",
-    author:
-      "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-  },
-  {
-    quote:
-      "[Innovation] comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.",
-    author: "Steve Jobs",
-  },
-  {
-    quote: "[Monica] What day is it?\n[David] Today",
-    author: "A.I. by Steven Spielberg",
-  },
-  {
-    quote:
-      "[Treat] unenlightened souls with sympathy and indulgence, remembering that they are ignorant or mistaken about what's most important. Never be harsh, remember Plato's dictum: \"Every soul is deprived of the truth against its will.\"",
-    author: "Epictetus, Discourses II, 22.36",
-  },
-  {
-    quote:
-      '[When someone does something you don\'t like] Say to yourself each time, "He did what he believed was right."',
-    author: "Epictetus, Enchiridion 42",
-  },
-  {
-    quote:
-      "[on valuing theoretical over practical philosophy] The result is that we lie – but have no difficulty proving why we shouldn't.",
-    author: "Epictetus, Enchiridion 52.2",
-  },
-  {
-    quote:
-      "filter(P, S) is almost always written clearer as [x for x in S if P(x)]",
-    author: "Guido van Rossum on Python",
   },
 ];
