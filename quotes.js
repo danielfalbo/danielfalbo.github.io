@@ -3479,7 +3479,7 @@ const quotes = [
   },
   {
     quote:
-      "What decides whether a sum of money is good? The money is not going to tell you; it must be the faculty that makes use of such impressions \u2013 reason.",
+      "What decides whether a sum of money is good? The money is not going to tell you; it must be the faculty that makes use of such impressions – reason.",
     author: "Epictetus, Discourses I, 1.5",
   },
   {
@@ -3499,12 +3499,12 @@ const quotes = [
   },
   {
     quote:
-      '"I will throw you into prison." "Correction \u2013 it is my body you will throw there."',
+      '"I will throw you into prison." "Correction – it is my body you will throw there."',
     author: "Epictetus, Discourses I, 1.24",
   },
   {
     quote:
-      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived \u2013 and dying I will tend to later.",
+      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
     author: "Epictetus, Discourses I, 1.32",
   },
   {
@@ -3519,7 +3519,7 @@ const quotes = [
   },
   {
     quote:
-      "If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face \u2013 the way a runner does when he applies the principles of running, or a singer those of musicianship \u2013 that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.",
+      "If from the moment they get up in the morning they adhere to their ideals, eating and bathing like a person of integrity, putting their principles into practice in every situation they face – the way a runner does when he applies the principles of running, or a singer those of musicianship – that is where you will see true progress embodied, and find someone who has not wasted their time making the journey here from home.",
     author: "Epictetus, Discourses I, 4.20",
   },
   {
@@ -3554,7 +3554,7 @@ const quotes = [
   },
   {
     quote:
-      'Why are we still lazy, indifferent and dull? Why do we look for excuses to avoid training and exercising our powers of reason? "Look, if I err in such matters I haven\'t killed my father, have I?" No, fool \u2013 for there was no father there for you to kill! What did you do instead? You made the only mistake you had the opportunity to make.',
+      'Why are we still lazy, indifferent and dull? Why do we look for excuses to avoid training and exercising our powers of reason? "Look, if I err in such matters I haven\'t killed my father, have I?" No, fool – for there was no father there for you to kill! What did you do instead? You made the only mistake you had the opportunity to make.',
     author: "Epictetus, Discourses I, 7.30",
   },
   {
@@ -3592,12 +3592,12 @@ const quotes = [
   },
   {
     quote:
-      "You ought to realize, you take up very little space in the world as a whole \u2013 your body, that is; in reason, however, you yield to no one, not even to the gods, because reason is not measured in size but sense. So why not care for that side of you, where you and the gods are equals?",
+      "You ought to realize, you take up very little space in the world as a whole – your body, that is; in reason, however, you yield to no one, not even to the gods, because reason is not measured in size but sense. So why not care for that side of you, where you and the gods are equals?",
     author: "Epictetus, Discourses I, 12.26-27",
   },
   {
     quote:
-      "If you have been placed in a position above others, are you automatically going to behave like a despot? Remember who you are and whom you govern \u2013 that they are kinsmen, brothers by nature, fellow descendants of Zeus.",
+      "If you have been placed in a position above others, are you automatically going to behave like a despot? Remember who you are and whom you govern – that they are kinsmen, brothers by nature, fellow descendants of Zeus.",
     author: "Epictetus, Discourses I, 13.4",
   },
   {
@@ -3612,17 +3612,17 @@ const quotes = [
   },
   {
     quote:
-      "Since reason is what analyses and coordinates everything, it should not go itself unanalysed. Then what will it be analysed by? Obviously by itself or something different. Now, this something different must either be reason or something superior to reason \u2013 which is impossible, since there is nothing superior to reason.",
+      "Since reason is what analyses and coordinates everything, it should not go itself unanalysed. Then what will it be analysed by? Obviously by itself or something different. Now, this something different must either be reason or something superior to reason – which is impossible, since there is nothing superior to reason.",
     author: "Epictetus, Discourses I, 17.1-2",
   },
   {
     quote:
-      "Which, I suppose, is why Stoics put logic at the head of our curriculum \u2013 for the same reason that, before a quantity of grain can be measured, we must settle on a standard of measurement.",
+      "Which, I suppose, is why Stoics put logic at the head of our curriculum – for the same reason that, before a quantity of grain can be measured, we must settle on a standard of measurement.",
     author: "Epictetus, Discourses I, 17.6",
   },
   {
     quote:
-      "\"What about if someone threatens me with death, though; surely he compels me then?\" It isn't what you're threatened with \u2013 it's the fact that you prefer to do anything rather than die. It's your set of values that compelled you: will acting on will.",
+      "\"What about if someone threatens me with death, though; surely he compels me then?\" It isn't what you're threatened with – it's the fact that you prefer to do anything rather than die. It's your set of values that compelled you: will acting on will.",
     author: "Epictetus, Discourses I, 17.25-26",
   },
   {
@@ -3632,7 +3632,7 @@ const quotes = [
   },
   {
     quote:
-      '"But the tyrant will chain \u2013" What will he chain? Your leg. "He will chop off \u2013" What? Your head. What he will never chain or chop off is your integrity.',
+      '"But the tyrant will chain –" What will he chain? Your leg. "He will chop off –" What? Your head. What he will never chain or chop off is your integrity.',
     author: "Epictetus, Discourses I, 18.17",
   },
   {
@@ -3642,7 +3642,7 @@ const quotes = [
   },
   {
     quote:
-      '"But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses \u2013 you will look even more elegant in that.',
+      '"But I get to wear a crown of gold." If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.',
     author: "Epictetus, Discourses I, 19.29",
   },
   {
@@ -3657,7 +3657,7 @@ const quotes = [
   },
   {
     quote:
-      "Who exactly are these people that you want to be admired by? Aren't they the same people you are in the habit of calling crazy? And is this your life ambition, then \u2013 to win the approval of lunatics?",
+      "Who exactly are these people that you want to be admired by? Aren't they the same people you are in the habit of calling crazy? And is this your life ambition, then – to win the approval of lunatics?",
     author: "Epictetus, Discourses I, 21.4",
   },
   {
@@ -3682,17 +3682,17 @@ const quotes = [
   },
   {
     quote:
-      "Don't believe your situation is genuinely bad \u2013 no one can make you do that. Is there smoke in the house? If it's not suffocating, I will stay indoors; if it proves too much, I'll leave. Always remember \u2013 the door is open.",
+      "Don't believe your situation is genuinely bad – no one can make you do that. Is there smoke in the house? If it's not suffocating, I will stay indoors; if it proves too much, I'll leave. Always remember – the door is open.",
     author: "Epictetus, Discourses I, 25.17-18",
   },
   {
     quote:
-      "Remember that it is we who torment, we who make difficulties for ourselves \u2013 that is, our opinions do. What, for instance, does it mean to be insulted? Stand by a rock and insult it, and what have you accomplished? If someone responds to insult like a rock, what has the abuser gained with his invective?",
+      "Remember that it is we who torment, we who make difficulties for ourselves – that is, our opinions do. What, for instance, does it mean to be insulted? Stand by a rock and insult it, and what have you accomplished? If someone responds to insult like a rock, what has the abuser gained with his invective?",
     author: "Epictetus, Discourses I, 25.28-29",
   },
   {
     quote:
-      "This, then, is the beginning of philosophy \u2013 an awareness of one's own mental fitness.",
+      "This, then, is the beginning of philosophy – an awareness of one's own mental fitness.",
     author: "Epictetus, Discourses I, 26.15",
   },
   {
@@ -3710,7 +3710,7 @@ const quotes = [
   },
   {
     quote:
-      "You Sceptics, who dismiss the evidence of the senses \u2013 do you act any differently? Which one of you ever went to the mill when you were in need of a bath?",
+      "You Sceptics, who dismiss the evidence of the senses – do you act any differently? Which one of you ever went to the mill when you were in need of a bath?",
     author: "Epictetus, Discourses I, 27.19",
   },
   {
@@ -3740,7 +3740,7 @@ const quotes = [
   },
   {
     quote:
-      "Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So \u2013 a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.",
+      "Anyone who affirms that, in a circle, lines that extend from the centre to the circumference can be unequal is not going to win the respect of mathematicians. So – a true philosopher is under no obligation to respect vulgar opinion as to what is religious or irreligious, what is just or unjust.",
     author: "Epictetus, Discourses I, 29.53-54",
   },
   {
@@ -3765,7 +3765,7 @@ const quotes = [
   },
   {
     quote:
-      "If you want to be a man of honour and a man of your word, who is going to stop you? You say you don't want to be obstructed or forced to do something against your will \u2013 well, who is going to force you to desire things that you don't approve, or dislike something against your better judgement?",
+      "If you want to be a man of honour and a man of your word, who is going to stop you? You say you don't want to be obstructed or forced to do something against your will – well, who is going to force you to desire things that you don't approve, or dislike something against your better judgement?",
     author: "Epictetus, Discourses II, 2.4",
   },
   {
@@ -3780,7 +3780,7 @@ const quotes = [
   },
   {
     quote:
-      "What are we really doing when we throw away our innate faithfulness, to intrigue with our neighbour's wife? We are ruining and destroying \u2013 well, what? How about the man of trust, principle and piety that once was? And is that all? Aren't we also ruining the idea of neighbourliness, friendship and community? What position are we putting ourselves in? How am I supposed to deal with you now? As a neighbour? A friend? Some friend! A fellow citizen? But how can a fellow citizen like you be trusted?",
+      "What are we really doing when we throw away our innate faithfulness, to intrigue with our neighbour's wife? We are ruining and destroying – well, what? How about the man of trust, principle and piety that once was? And is that all? Aren't we also ruining the idea of neighbourliness, friendship and community? What position are we putting ourselves in? How am I supposed to deal with you now? As a neighbour? A friend? Some friend! A fellow citizen? But how can a fellow citizen like you be trusted?",
     author: "Epictetus, Discourses II, 4.2-3",
   },
   {
@@ -3790,12 +3790,12 @@ const quotes = [
   },
   {
     quote:
-      "Getting those things is not in my control \u2013 and not good or bad in any case. But the way I use them is good or bad, and depends on me.",
+      "Getting those things is not in my control – and not good or bad in any case. But the way I use them is good or bad, and depends on me.",
     author: "Epictetus, Discourses II, 5.8",
   },
   {
     quote:
-      "It's something like going on an ocean voyage. What can I do? Pick the captain, the boat, the date, and the best time to sail. But then a storm hits. Well, it's no longer my business; I have done everything I could. It's somebody else's problem now \u2013 namely the captain's. But then the boat actually begins to sink. What are my options? I do the only thing I am in a position to do, drown \u2013 but fearlessly, without bawling or crying out to God, because I know that what is born must also die.",
+      "It's something like going on an ocean voyage. What can I do? Pick the captain, the boat, the date, and the best time to sail. But then a storm hits. Well, it's no longer my business; I have done everything I could. It's somebody else's problem now – namely the captain's. But then the boat actually begins to sink. What are my options? I do the only thing I am in a position to do, drown – but fearlessly, without bawling or crying out to God, because I know that what is born must also die.",
     author: "Epictetus, Discourses II, 5.10-12",
   },
   {
@@ -3810,7 +3810,7 @@ const quotes = [
   },
   {
     quote:
-      "Because what is a human being? Part of a community \u2013 the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.",
+      "Because what is a human being? Part of a community – the community of gods and men, primarily, and secondarily that of the city we happen to inhabit, which is only a microcosm of the universe in toto.",
     author: "Epictetus, Discourses II, 5.26",
   },
   {
@@ -3895,7 +3895,7 @@ const quotes = [
   },
   {
     quote:
-      "Now that is the first thing Socrates was known for \u2013 never turning dialogue into dispute, never introducing rudeness or invective, although he would put up with the insults of others in order to avoid a fight.",
+      "Now that is the first thing Socrates was known for – never turning dialogue into dispute, never introducing rudeness or invective, although he would put up with the insults of others in order to avoid a fight.",
     author: "Epictetus, Discourses II, 12.14",
   },
   {
@@ -3905,22 +3905,22 @@ const quotes = [
   },
   {
     quote:
-      "Take a lyre player: he's relaxed when he performs alone, but put him in front of an audience, and it's a different story, no matter how beautiful his voice or how well he plays the instrument. Why? Because he not only wants to perform well, he wants to be well received \u2013 and the latter lies outside his control.",
+      "Take a lyre player: he's relaxed when he performs alone, but put him in front of an audience, and it's a different story, no matter how beautiful his voice or how well he plays the instrument. Why? Because he not only wants to perform well, he wants to be well received – and the latter lies outside his control.",
     author: "Epictetus, Discourses II, 13.2",
   },
   {
     quote:
-      "It was Antigonus who was anxious before their meeting. Naturally \u2013 he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.",
+      "It was Antigonus who was anxious before their meeting. Naturally – he wanted to make a good impression, which was beyond his control. Zeno, for his part, had no wish to please the king; no expert needs validation from an amateur.",
     author: "Epictetus, Discourses II, 13, 15",
   },
   {
     quote:
-      "Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad \u2013 that the student of philosophy will also have to learn a few things of his own?",
+      "Becoming a carpenter or pilot, we realize, requires some formal training. Is it unreasonable to suppose that it will take more than just the desire to be good or bad – that the student of philosophy will also have to learn a few things of his own?",
     author: "Epictetus, Discourses II, 14.10",
   },
   {
     quote:
-      'And yet I won\'t have done you any harm \u2013 any more than a mirror is to blame when it shows a plain person what they look like; or a doctor is mean if he tells a patient, "Look, you may think this is insignificant, but you\'re really sick; no food for you today, only water." No one thinks, "How rude!" But say to someone, "Your desires are unhealthy, your powers of aversion are weak, your plans are incoherent, your impulses are at odds with nature and your system of values is false and confused," \u2013 and off they go alleging slander.',
+      'And yet I won\'t have done you any harm – any more than a mirror is to blame when it shows a plain person what they look like; or a doctor is mean if he tells a patient, "Look, you may think this is insignificant, but you\'re really sick; no food for you today, only water." No one thinks, "How rude!" But say to someone, "Your desires are unhealthy, your powers of aversion are weak, your plans are incoherent, your impulses are at odds with nature and your system of values is false and confused," – and off they go alleging slander.',
     author: "Epictetus, Discourses II, 14.21-22",
   },
   {
@@ -3930,12 +3930,12 @@ const quotes = [
   },
   {
     quote:
-      '"A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy \u2013 no one is more difficult to reach.',
+      '"A fool cannot be convinced or even compelled to renounce his folly." God save me from fools with a little philosophy – no one is more difficult to reach.',
     author: "Epictetus, Discourses II, 15.13-14",
   },
   {
     quote:
-      'Where does the good lie? "In the will." And evil? "Also in the will." And things neither good nor bad \u2013 "... lie in whatever is external to the will."',
+      'Where does the good lie? "In the will." And evil? "Also in the will." And things neither good nor bad – "... lie in whatever is external to the will."',
     author: "Epictetus, Discourses II, 16.1",
   },
   {
@@ -3955,7 +3955,7 @@ const quotes = [
   },
   {
     quote:
-      "This presumption that you possess knowledge of any use has to be dropped before you approach philosophy \u2013 just as if we were enrolling in a school of music or mathematics.",
+      "This presumption that you possess knowledge of any use has to be dropped before you approach philosophy – just as if we were enrolling in a school of music or mathematics.",
     author: "Epictetus, Discourses II, 17.39",
   },
   {
@@ -3995,7 +3995,7 @@ const quotes = [
   },
   {
     quote:
-      "A vine cannot behave olively, nor an olive tree vinely \u2013 it is impossible, inconceivable. No more can a human being wholly efface his native disposition.",
+      "A vine cannot behave olively, nor an olive tree vinely – it is impossible, inconceivable. No more can a human being wholly efface his native disposition.",
     author: "Epictetus, Discourses II, 20.18-19",
   },
   {
@@ -4014,7 +4014,7 @@ const quotes = [
   },
   {
     quote:
-      "If someone is incapable of distinguishing good things from bad and neutral things from either \u2013 well, how could such a person be capable of love? The power to love, then, belongs only to the wise man.",
+      "If someone is incapable of distinguishing good things from bad and neutral things from either – well, how could such a person be capable of love? The power to love, then, belongs only to the wise man.",
     author: "Epictetus, Discourses II, 22.3",
   },
   {
@@ -4049,7 +4049,7 @@ const quotes = [
   },
   {
     quote:
-      "An eye, when open, has no option but to see. The decision whether to look at a particular man's wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it \u2013 that also belongs to the will.",
+      "An eye, when open, has no option but to see. The decision whether to look at a particular man's wife, however, and how, belongs to the will. And the determination whether to trust what someone says, and then, if we trust them, whether we should be angered by it – that also belongs to the will.",
     author: "Epictetus, Discourses II, 23.11-13",
   },
   {
@@ -4069,12 +4069,12 @@ const quotes = [
   },
   {
     quote:
-      "The body is the raw material of the doctor and physical therapist. Land is the farmer's raw material. The raw material of the good man is his mind \u2013 his goal being to respond to impressions the way nature intended.",
+      "The body is the raw material of the doctor and physical therapist. Land is the farmer's raw material. The raw material of the good man is his mind – his goal being to respond to impressions the way nature intended.",
     author: "Epictetus, Discourses III, 3.1",
   },
   {
     quote:
-      "What, after all, are sighing and crying, except opinions? What is \"misfortune'? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving \u2013 they all are mere opinion, the opinion that good and bad lie outside us.",
+      "What, after all, are sighing and crying, except opinions? What is \"misfortune'? An opinion. And sectarian strife, dissension, blame and accusation, ranting and raving – they all are mere opinion, the opinion that good and bad lie outside us.",
     author: "Epictetus, Discourses III, 3.18-19",
   },
   {
@@ -4104,17 +4104,17 @@ const quotes = [
   },
   {
     quote:
-      "A boxer derives the greatest advantage from his sparring partner \u2013 and my accuser is my sparring partner. He trains me in patience, civility and even temper.",
+      "A boxer derives the greatest advantage from his sparring partner – and my accuser is my sparring partner. He trains me in patience, civility and even temper.",
     author: "Epictetus, Discourses III, 20.9",
   },
   {
     quote:
-      "I have a bad neighbour \u2013 bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.",
+      "I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.",
     author: "Epictetus, Discourses III, 20.11",
   },
   {
     quote:
-      "My mind represents for me my medium \u2013 like wood to a carpenter, or leather to a shoemaker. The goal in my case is the correct use of impressions.",
+      "My mind represents for me my medium – like wood to a carpenter, or leather to a shoemaker. The goal in my case is the correct use of impressions.",
     author: "Epictetus, Discourses III, 20.20",
   },
   {
@@ -4168,12 +4168,12 @@ const quotes = [
   },
   {
     quote:
-      'But suppose I choose to walk, and someone obstructs me?" What part of you will they obstruct? Certainly not your power of assent? "No, my body." Your body, yes \u2013 as they might obstruct a rock. "Perhaps; but the upshot is, now I\'m not allowed to walk." Whoever told you, "Walking is your irrevocable privilege\'? I said only that the will to walk could not be obstructed.',
+      'But suppose I choose to walk, and someone obstructs me?" What part of you will they obstruct? Certainly not your power of assent? "No, my body." Your body, yes – as they might obstruct a rock. "Perhaps; but the upshot is, now I\'m not allowed to walk." Whoever told you, "Walking is your irrevocable privilege\'? I said only that the will to walk could not be obstructed.',
     author: "Epictetus, Discourses IV, 1.72-73",
   },
   {
     quote:
-      "A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading \u2013 is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.",
+      "A plant or animal fares poorly when it acts contrary to its nature; and a human being is no different. Well, then, biting, kicking, wanton imprisonment and beheading – is that what our nature entails? No; rather, acts of kindness, cooperation and good will. And so, whether you like it or not, a person fares poorly whenever he acts like an insensitive brute.",
     author: "Epictetus, Discourses IV, 1.121-122",
   },
   {
@@ -4208,7 +4208,7 @@ const quotes = [
   },
   {
     quote:
-      "Just prove to me that you are trustworthy, high-minded and reliable, and that your intentions are benign \u2013 prove to me that your jar doesn't have a hole in it \u2013 and you'll find that I won't even wait for you to open your heart to me, I'll be the first to implore you to lend an ear to my own affairs.",
+      "Just prove to me that you are trustworthy, high-minded and reliable, and that your intentions are benign – prove to me that your jar doesn't have a hole in it – and you'll find that I won't even wait for you to open your heart to me, I'll be the first to implore you to lend an ear to my own affairs.",
     author: "Epictetus, Discourses IV, 13.15",
   },
   {
@@ -4248,7 +4248,7 @@ const quotes = [
   },
   {
     quote:
-      "People who are physically ill are unhappy with a doctor who doesn't give them advice, because they think he has given up on them. Shouldn't we feel the same towards a philosopher \u2013 and assume that he has given up hope of our ever becoming rational \u2013 if he will no longer tell us what we need (but may not like) to hear?",
+      "People who are physically ill are unhappy with a doctor who doesn't give them advice, because they think he has given up on them. Shouldn't we feel the same towards a philosopher – and assume that he has given up hope of our ever becoming rational – if he will no longer tell us what we need (but may not like) to hear?",
     author: "Epictetus, Fragments 19",
   },
   {
@@ -4263,7 +4263,7 @@ const quotes = [
   },
   {
     quote:
-      "So does this misfortune prevent you in any way from being just, generous, sober, reasonable, careful, free from error, courteous, free, etc. \u2013 all of which together make human nature complete?",
+      "So does this misfortune prevent you in any way from being just, generous, sober, reasonable, careful, free from error, courteous, free, etc. – all of which together make human nature complete?",
     author: "Epictetus, Fragments 28b",
   },
   {
@@ -4318,7 +4318,7 @@ const quotes = [
   },
   {
     quote:
-      'Starting with things of little value \u2013 a bit of spilled oil, a little stolen wine \u2013 repeat to yourself: "For such a small price I buy tranquillity and peace of mind."',
+      'Starting with things of little value – a bit of spilled oil, a little stolen wine – repeat to yourself: "For such a small price I buy tranquillity and peace of mind."',
     author: "Epictetus, Enchiridion 12.2",
   },
   {
@@ -4348,7 +4348,7 @@ const quotes = [
   },
   {
     quote:
-      "If I can make money while remaining honest, trustworthy and dignified, show me how and I will do it. But if you expect me to sacrifice my own values, just so you can get your hands on things that aren't even good \u2013 well, you can see yourself how thoughtless and unfair you're being.",
+      "If I can make money while remaining honest, trustworthy and dignified, show me how and I will do it. But if you expect me to sacrifice my own values, just so you can get your hands on things that aren't even good – well, you can see yourself how thoughtless and unfair you're being.",
     author: "Epictetus, Enchiridion 24.3",
   },
   {
@@ -4378,7 +4378,7 @@ const quotes = [
   },
   {
     quote:
-      "When you're called upon to speak, then speak, but never about banalities like gladiators, horses, sports, food and drink \u2013 common-place stuff. Above all don't gossip about people, praising, blaming or comparing them.",
+      "When you're called upon to speak, then speak, but never about banalities like gladiators, horses, sports, food and drink – common-place stuff. Above all don't gossip about people, praising, blaming or comparing them.",
     author: "Epictetus, Enchiridion 33.2",
   },
   {
@@ -4448,7 +4448,7 @@ const quotes = [
   },
   {
     quote:
-      "[on valuing theoretical over practical philosophy] The result is that we lie \u2013 but have no difficulty proving why we shouldn't.",
+      "[on valuing theoretical over practical philosophy] The result is that we lie – but have no difficulty proving why we shouldn't.",
     author: "Epictetus, Enchiridion 52.2",
   },
   {
@@ -4533,7 +4533,7 @@ const quotes = [
   },
   {
     quote:
-      "Death and life, honor and dishonor, pain and pleasure \u2014 all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.",
+      "Death and life, honor and dishonor, pain and pleasure — all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.",
     author: "Marcus Aurelius, Meditations II.11",
   },
   {
@@ -5226,7 +5226,7 @@ const quotes = [
   },
   {
     quote:
-      "When you have assumed these names\u2014good, modest, truthful, rational, a man of equanimity, and magnanimous\u2014take care that you do not change these names; and if you should lose them, quickly return to them.",
+      "When you have assumed these names—good, modest, truthful, rational, a man of equanimity, and magnanimous—take care that you do not change these names; and if you should lose them, quickly return to them.",
     author: "Marcus Aurelius, Meditations, X.8",
   },
   {
@@ -5311,7 +5311,7 @@ const quotes = [
   },
   {
     quote:
-      "If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature\u2014then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land.",
+      "If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature—then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land.",
     author: "Marcus Aurelius, Meditations, XII.1",
   },
   {
@@ -5386,7 +5386,7 @@ const quotes = [
   },
   {
     quote:
-      "...pleasures, when they go beyond a certain limit, are but punishments\u2026",
+      "...pleasures, when they go beyond a certain limit, are but punishments…",
     author: "Seneca, Letter LXXXIII",
   },
   {
@@ -5459,7 +5459,7 @@ const quotes = [
   },
   {
     quote:
-      "...nothing is burdensome if taken lightly, and how\u2026 nothing need arouse one's irritation so long as one doesn't make it bigger than it is by getting irritated.",
+      "...nothing is burdensome if taken lightly, and how… nothing need arouse one's irritation so long as one doesn't make it bigger than it is by getting irritated.",
     author: "Seneca, Letter CXXII",
   },
   {
@@ -5528,7 +5528,7 @@ const quotes = [
   },
   {
     quote: "Be stoic: Just do the right thing. Just keep going.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -5620,11 +5620,11 @@ const quotes = [
   {
     quote:
       "If you make happiness your goal, you'll be disappointed. If you make presence your goal, you'll be satisfied.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it\u2026 but love it.",
+      "That one wants nothing to be different, not forward, not backwards, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.",
     author: "Friedrich Nietzsche",
   },
   {
@@ -5707,12 +5707,12 @@ const quotes = [
   },
   {
     quote:
-      "You have power over your mind \u2014 not outside events. Realize this, and you will find strength.",
+      "You have power over your mind — not outside events. Realize this, and you will find strength.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "Everything can be taken from a man but one thing: the last of the human freedoms \u2013 to choose one's attitude in any given set of circumstances, to choose one's own way.",
+      "Everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances, to choose one's own way.",
     author: "Viktor Frankl, Man's Search for Meaning",
   },
   {
@@ -5732,7 +5732,7 @@ const quotes = [
   },
   {
     quote:
-      "\u200eLife is a shipwreck, but we must not forget to sing in the lifeboats.",
+      "Life is a shipwreck, but we must not forget to sing in the lifeboats.",
     author: "Voltaire",
   },
   {
@@ -5793,7 +5793,7 @@ const quotes = [
   },
   {
     quote: "Ensure you endure.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote: "The obstacle is the way.",
@@ -5891,17 +5891,17 @@ const quotes = [
   },
   {
     quote:
-      "It can ruin your life only if it ruins your character. Otherwise it cannot harm you \u2014 inside or out.",
+      "It can ruin your life only if it ruins your character. Otherwise it cannot harm you — inside or out.",
     author: "Marcus Aurelius",
   },
   {
     quote:
       "Keep your intention pure. Emotions will try to distract you. So keep going. That's the cure.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "Every hour focus your mind attentively\u2026on the performance of the task in hand, with dignity, human sympathy, benevolence and freedom, and leave aside all other thoughts. You will achieve this, if you perform each action as if it were your last.",
+      "Every hour focus your mind attentively…on the performance of the task in hand, with dignity, human sympathy, benevolence and freedom, and leave aside all other thoughts. You will achieve this, if you perform each action as if it were your last.",
     author: "Marcus Aurelius",
   },
   {
@@ -5945,7 +5945,7 @@ const quotes = [
   },
   {
     quote:
-      "Now is the time to get serious about living your ideals. How long can you afford to put off who you really want to be? Your nobler self cannot wait any longer. Put your principles into practice \u2013 now. Stop the excuses and the procrastination. This is your life! [\u2026] Decide to be extraordinary and do what you need to do \u2013 now.",
+      "Now is the time to get serious about living your ideals. How long can you afford to put off who you really want to be? Your nobler self cannot wait any longer. Put your principles into practice – now. Stop the excuses and the procrastination. This is your life! […] Decide to be extraordinary and do what you need to do – now.",
     author: "Epictetus",
   },
   {
@@ -5998,7 +5998,7 @@ const quotes = [
   },
   {
     quote:
-      "If you have your heart set on wearing crowns, why not make one out of roses \u2013 you will look even more elegant in that.",
+      "If you have your heart set on wearing crowns, why not make one out of roses – you will look even more elegant in that.",
     author: "Marcus Aurelius",
   },
   {
@@ -6037,7 +6037,7 @@ const quotes = [
   },
   {
     quote:
-      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived \u2013 and dying I will tend to later.",
+      "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later.",
     author: "Epictetus",
   },
   {
@@ -6055,17 +6055,17 @@ const quotes = [
   },
   {
     quote:
-      "Life is full of hostility \u2014 some of it overt, some clever and underhanded.",
+      "Life is full of hostility — some of it overt, some clever and underhanded.",
     author: "Robert Greene",
   },
   {
     quote:
       "Expect the river to be wild, surprising and challenging. To expect the opposite is to live in delusion.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "You are scared of dying\u2014and, tell me, is the kind of life you lead really any different than being dead?",
+      "You are scared of dying—and, tell me, is the kind of life you lead really any different than being dead?",
     author: "Seneca",
   },
   {
@@ -6142,7 +6142,7 @@ const quotes = [
   },
   {
     quote:
-      "You become what you give your attention to\u2026If you yourself don't choose what thoughts and images you expose yourself to, someone else will.",
+      "You become what you give your attention to…If you yourself don't choose what thoughts and images you expose yourself to, someone else will.",
     author: "Epictetus",
   },
   {
@@ -6162,12 +6162,12 @@ const quotes = [
   },
   {
     quote:
-      "Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend\u2026or not even a legend. Think of all the examples. And how trivial the things we want so passionately are.",
+      "Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend…or not even a legend. Think of all the examples. And how trivial the things we want so passionately are.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable\u2026 then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so.",
+      "Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable… then stop complaining. Your destruction will mean its end as well. Just remember: you can endure anything your mind can make endurable, by treating it as in your interest to do so.",
     author: "Marcus Aurelius",
   },
   {
@@ -6206,7 +6206,7 @@ const quotes = [
   },
   {
     quote:
-      "True rewards \u2013 wealth, knowledge, love, fitness, and equanimity \u2013 come from ignoring others and improving ourselves.",
+      "True rewards – wealth, knowledge, love, fitness, and equanimity – come from ignoring others and improving ourselves.",
     author: "Naval Ravikant",
   },
   {
@@ -6216,11 +6216,11 @@ const quotes = [
   {
     quote:
       "Some can delay gratification. Others don't seek it at all. Be the latter.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions\u2026I want to see him. This is the person I have looked for a long time, the true genius.",
+      "Show me someone for whom success is less important than the manner in which it is achieved. Of concern for the means, rather than the ends, of their actions…I want to see him. This is the person I have looked for a long time, the true genius.",
     author: "Epictetus",
   },
   {
@@ -6268,12 +6268,12 @@ const quotes = [
   },
   {
     quote:
-      "Men seek out retreats for themselves in the country, by the seaside, on the mountains\u2026 nowhere can a man find a retreat more peaceful or more free from trouble than his own soul.",
+      "Men seek out retreats for themselves in the country, by the seaside, on the mountains… nowhere can a man find a retreat more peaceful or more free from trouble than his own soul.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "Objective judgment, at this very moment. Unselfish action, now at this very moment. Willing acceptance \u2013 now at this very moment \u2013 of all external events. That's all you need.",
+      "Objective judgment, at this very moment. Unselfish action, now at this very moment. Willing acceptance – now at this very moment – of all external events. That's all you need.",
     author: "Marcus Aurelius",
   },
   {
@@ -6385,7 +6385,7 @@ const quotes = [
   {
     quote:
       "The only thing you can control is the thought you are having right now. Make it calm, clear and simple. Make it your superpower.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -6409,7 +6409,7 @@ const quotes = [
   },
   {
     quote:
-      "Self-control is all about moment to moment self awareness. You catch yourself doing \u2013 or about to do \u2013 something undesirable, see that it isn't good for you in the long term, and as a result of this awareness abstain from doing it.",
+      "Self-control is all about moment to moment self awareness. You catch yourself doing – or about to do – something undesirable, see that it isn't good for you in the long term, and as a result of this awareness abstain from doing it.",
     author: "@TheAncientSage",
   },
   {
@@ -6477,7 +6477,7 @@ const quotes = [
   },
   {
     quote:
-      "Talk, but rarely, if occasion calls you, but do not talk of ordinary things \u2013 of gladiators or horses races or athletes or of meats or drinks \u2013 these are topics that arise everywhere \u2013 but above all do not talk about men in blame or compliment or comparison.",
+      "Talk, but rarely, if occasion calls you, but do not talk of ordinary things – of gladiators or horses races or athletes or of meats or drinks – these are topics that arise everywhere – but above all do not talk about men in blame or compliment or comparison.",
     author: "Epictetus",
   },
   {
@@ -6510,7 +6510,7 @@ const quotes = [
   {
     quote:
       "True stoics don't care about the outcome. They just care to give their best shot, right here, right now.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -6573,7 +6573,7 @@ const quotes = [
   },
   {
     quote:
-      "This is the mark of perfection of character\u2014to spend each day as if it were your last, without frenzy, laziness, or any pretending.",
+      "This is the mark of perfection of character—to spend each day as if it were your last, without frenzy, laziness, or any pretending.",
     author: "Marcus Aurelius",
   },
   {
@@ -6599,16 +6599,16 @@ const quotes = [
   {
     quote:
       "Life will punch you in the face if your head gets too big. Don't ever pretend, don't lie, don't feel superior. Just be honest and do your own thing.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "Concentrate every minute like a Roman\u2014 like a man\u2014 on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.",
+      "Concentrate every minute like a Roman— like a man— on doing what's in front of you with precise and genuine seriousness, tenderly, willingly, with justice. And on freeing yourself from all other distractions.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "The ordinary objects of human endeavour \u2013 property, outward success, luxury \u2013 have always seemed to me contemptible.",
+      "The ordinary objects of human endeavour – property, outward success, luxury – have always seemed to me contemptible.",
     author: "Albert Einstein",
   },
   {
@@ -6658,7 +6658,7 @@ const quotes = [
   {
     quote:
       "Why do you so earnestly seek the truth in distant places? Look for delusion and truth in the bottom of your own hearts.",
-    author: "Ry\u014dkan",
+    author: "Ryōkan",
   },
   {
     quote:
@@ -6706,13 +6706,13 @@ const quotes = [
   },
   {
     quote:
-      "The fundamental delusion \u2014 there is something out there that will make me happy and fulfilled forever.",
+      "The fundamental delusion — there is something out there that will make me happy and fulfilled forever.",
     author: "Naval Ravikant",
   },
   {
     quote:
       "The easiest way to live unhappy and unsatisfied is to hope. More often than not, you'll be disappointed. Thus, your main aim should be to do the best you can right now and to expect nothing at all. Accept the way things turn out despite your best effort. That's the only path to a peaceful mind.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -6726,7 +6726,7 @@ const quotes = [
   },
   {
     quote:
-      "If you seek tranquility, do less. Or (more accurately) do what's essential \u2013 what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.",
+      "If you seek tranquility, do less. Or (more accurately) do what's essential – what the reason of a social being requires, and in the requisite way. Which brings a double satisfaction: to do less, better.",
     author: "Marcus Aurelius",
   },
   {
@@ -6736,7 +6736,7 @@ const quotes = [
   },
   {
     quote:
-      "So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration \u2013 either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.",
+      "So, concerning the things we pursue, and for which we vigorously exert ourselves, we owe this consideration – either there is nothing useful in them, or most aren't useful. Some of them are superfluous, while others aren't worth that much. But we don't discern this and see them as free, when they cost us dearly.",
     author: "Seneca",
   },
   {
@@ -6751,7 +6751,7 @@ const quotes = [
   },
   {
     quote:
-      "Barley porridge, or a crust of bread, and water do not make a very cheerful diet, but nothing gives one keener pleasure than the ability to derive pleasure even from that\u200a\u2014\u200aand the feeling of having arrived at something which one cannot be deprived of by any unjust stroke of fortune.",
+      "Barley porridge, or a crust of bread, and water do not make a very cheerful diet, but nothing gives one keener pleasure than the ability to derive pleasure even from that — and the feeling of having arrived at something which one cannot be deprived of by any unjust stroke of fortune.",
     author: "Seneca",
   },
   {
@@ -6761,7 +6761,7 @@ const quotes = [
   },
   {
     quote:
-      "Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness \u2014, position, influence \u2014 I stored where she would be able to reclaim them with no disturbance to me.",
+      "Never have I put my trust in fortune, even when she appeared to be offering peace; all those gifts she bestowed on me in her kindness —, position, influence — I stored where she would be able to reclaim them with no disturbance to me.",
     author: "Seneca",
   },
   {
@@ -6891,7 +6891,7 @@ const quotes = [
   {
     quote:
       'Human beings want control and certainty. "Accepting fate" means the opposite. That\'s why it seems absurd to us.',
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -6956,7 +6956,7 @@ const quotes = [
     author: "Heraclitus",
   },
   {
-    quote: "Timendi causa est nescire \u2014 Ignorance is the cause of fear.",
+    quote: "Timendi causa est nescire — Ignorance is the cause of fear.",
     author: "Seneca",
   },
   {
@@ -6967,16 +6967,16 @@ const quotes = [
   {
     quote:
       "I'm not asking you to be fearless. I'm asking you to be courageous.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "If anyone can refute me\u201a show me I'm making a mistake or looking at things from the wrong perspective\u201a I'll gladly change. It's the truth I'm after.",
+      "If anyone can refute me ‚ show me I'm making a mistake or looking at things from the wrong perspective ‚ I'll gladly change. It's the truth I'm after.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "Many of the anxieties that harass you are superfluous\u2026 Expand into an ampler region, letting your thought sweep over the entire universe.",
+      "Many of the anxieties that harass you are superfluous… Expand into an ampler region, letting your thought sweep over the entire universe.",
     author: "Marcus Aurelius",
   },
   {
@@ -6996,7 +6996,7 @@ const quotes = [
   },
   {
     quote: "Fear is a natural reaction to moving closer to the truth.",
-    author: "Pema Ch\u00f6dr\u00f6n",
+    author: "Pema Ch ödr ön",
   },
   {
     quote:
@@ -7019,7 +7019,7 @@ const quotes = [
   },
   {
     quote:
-      "Learn to fail with pride \u2014 and do so fast and cleanly. Maximise trial and error \u2014 by mastering the error part.",
+      "Learn to fail with pride — and do so fast and cleanly. Maximise trial and error — by mastering the error part.",
     author: "Nassim Nicholas Taleb",
   },
   {
@@ -7054,7 +7054,7 @@ const quotes = [
   {
     quote:
       "Death could be around the corner, for you, for your friends and for your family. I'm not trying to scare you. I'm just realist.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote: "Death smiles at us all, but all a man can do is smile back.",
@@ -7072,12 +7072,12 @@ const quotes = [
   },
   {
     quote:
-      "He has stripped away his body and \u2013 realizing that at some point soon he will have to abandon mankind and leave all this behind \u2013 has dedicated himself to serving justice in all he does, and nature in all that happens.",
+      "He has stripped away his body and – realizing that at some point soon he will have to abandon mankind and leave all this behind – has dedicated himself to serving justice in all he does, and nature in all that happens.",
     author: "Marcus Aurelius",
   },
   {
     quote:
-      "Keep death and exile before your eyes each day, along with everything that seems terrible \u2014 by doing so, you'll never have a base thought nor will you have excessive desire.",
+      "Keep death and exile before your eyes each day, along with everything that seems terrible — by doing so, you'll never have a base thought nor will you have excessive desire.",
     author: "Epictetus",
   },
   {
@@ -7129,7 +7129,7 @@ const quotes = [
   },
   {
     quote:
-      "This is why we need to envisage every possibility and to strengthen the spirit to deal with the things which may conceivably come about. Rehearse them in your mind: exile, torture, war, shipwreck. Misfortune may snatch you away from your country\u2026 If we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones; fortune needs envisaging in a thoroughly comprehensive way.",
+      "This is why we need to envisage every possibility and to strengthen the spirit to deal with the things which may conceivably come about. Rehearse them in your mind: exile, torture, war, shipwreck. Misfortune may snatch you away from your country… If we do not want to be overwhelmed and struck numb by rare events as if they were unprecedented ones; fortune needs envisaging in a thoroughly comprehensive way.",
     author: "Seneca",
   },
   {
@@ -7171,13 +7171,13 @@ const quotes = [
   },
   {
     quote:
-      "Yes, you can \u2014 if you do everything as if it were the last thing you were doing in life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.",
+      "Yes, you can — if you do everything as if it were the last thing you were doing in life, and stop being aimless, stop letting your emotions override what your mind tells you, stop being hypocritical, self-centered, irritable.",
     author: "Marcus Aurelius",
   },
   {
     quote:
       "Being angry means your lizard brain took control. Being calm means you stayed above your emotions.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -7246,7 +7246,7 @@ const quotes = [
   },
   {
     quote:
-      "Whatever seems lofty is dangerous\u2026 Those whom an unfavorable fortune has placed in a critical position will be safer if they eliminate pride from their proud circumstances and bring down their fortune as much as possible to a lowly state.",
+      "Whatever seems lofty is dangerous… Those whom an unfavorable fortune has placed in a critical position will be safer if they eliminate pride from their proud circumstances and bring down their fortune as much as possible to a lowly state.",
     author: "Seneca",
   },
   {
@@ -7280,7 +7280,7 @@ const quotes = [
   {
     quote:
       "It will only hurt if you keep remembering it but a true stoic looks forward.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -7361,7 +7361,7 @@ const quotes = [
   {
     quote:
       "Understand: a critic doesn't disturb you, it disturbs your ego. You want to know the truth. Your ego is scared of it.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -7370,7 +7370,7 @@ const quotes = [
   },
   {
     quote:
-      "Not reacting to deliberate provocation is a superpower. If you have the awareness and self-control to not react predictably, there is nothing that can put you off your path. Remember: the only enemy you need to fear is your own self \u2013 your lack of awareness and loss of control.",
+      "Not reacting to deliberate provocation is a superpower. If you have the awareness and self-control to not react predictably, there is nothing that can put you off your path. Remember: the only enemy you need to fear is your own self – your lack of awareness and loss of control.",
     author: "@TheAncientSage",
   },
   {
@@ -7385,7 +7385,7 @@ const quotes = [
   },
   {
     quote:
-      "We find comfort among those who agree with us \u2013 growth among those who don't. Frank A.",
+      "We find comfort among those who agree with us – growth among those who don't. Frank A.",
     author: "Clark",
   },
   {
@@ -7413,7 +7413,7 @@ const quotes = [
   {
     quote:
       "Life without love would be a strange thing. But don't be surprised if you get burned.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
@@ -7427,7 +7427,7 @@ const quotes = [
   },
   {
     quote:
-      "A fit body, a calm mind, a house full of love. These things cannot be bought \u2014 they must be earned.",
+      "A fit body, a calm mind, a house full of love. These things cannot be bought — they must be earned.",
     author: "Naval Ravikant",
   },
   {
@@ -7460,7 +7460,7 @@ const quotes = [
   },
   {
     quote:
-      "We should love all our dear ones\u2026 but always with the thought that we have no promise that we may keep them forever\u2014nay, no promise even that we may keep them for long.",
+      "We should love all our dear ones… but always with the thought that we have no promise that we may keep them forever—nay, no promise even that we may keep them for long.",
     author: "Seneca",
   },
   {
@@ -7485,11 +7485,11 @@ const quotes = [
   {
     quote:
       "Winning is not about talent, being smart, taking shortcuts. It's about finding the right thing to do, and doing it.",
-    author: "Maxime Lagac\u00e9",
+    author: "Maxime Lagacé",
   },
   {
     quote:
-      "The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions\u2026 Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers.",
+      "The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions… Our minds must relax: they will rise better and keener after a rest. Just as you must not force fertile farmland, as uninterrupted productivity will soon exhaust it, so constant effort will sap our mental vigor, while a short period of rest and relaxation will restore our powers.",
     author: "Seneca",
   },
   {
@@ -7499,7 +7499,7 @@ const quotes = [
   },
   {
     quote: "Lean into the discomfort of the work.",
-    author: "Bren\u00e9 Brown",
+    author: "Brené Brown",
   },
   {
     quote:
@@ -7518,7 +7518,7 @@ const quotes = [
   },
   {
     quote:
-      "Understand: people will constantly attack you in life. One of their main weapons will be to instill in you doubts about yourself. They will often disguise this as their objective opinion, but invariably it has a political purpose \u2013 they want to keep you down.",
+      "Understand: people will constantly attack you in life. One of their main weapons will be to instill in you doubts about yourself. They will often disguise this as their objective opinion, but invariably it has a political purpose – they want to keep you down.",
     author: "Robert Greene",
   },
   {
@@ -7542,7 +7542,7 @@ const quotes = [
   },
   {
     quote:
-      "Discomfort is your friend. It doesn't matter if you're sick, if you have kids\u2026 if you're a pro, you go to work.",
+      "Discomfort is your friend. It doesn't matter if you're sick, if you have kids… if you're a pro, you go to work.",
     author: "Joe Rogan",
   },
   {
