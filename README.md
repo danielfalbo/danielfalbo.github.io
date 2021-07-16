@@ -10,6 +10,9 @@ macOS:
 # Sort `quotes.js`
 make
 
+# Insert a new quote to `quotes.js` keeping it sorted
+make insert
+
 # Find duplicates
 make duplicates
 ```
