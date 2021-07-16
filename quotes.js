@@ -1481,6 +1481,10 @@ const quotes = [
     author: "Napoleon Hill",
   },
   {
+    quote: "Everybody has a plan until they get punched in the face.",
+    author: "Mike Tyson",
+  },
+  {
     quote:
       "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
     author: "Albert Einstein",
@@ -2707,6 +2711,10 @@ const quotes = [
     author: "Tim Gallwey, The inner game of work",
   },
   {
+    quote: "I hate doing something and not being great at it.",
+    author: "Casey Neistat",
+  },
+  {
     quote:
       "I have a bad neighbour – bad, that is, for himself. For me, though, he is good: he exercises my powers of fairness and sociability.",
     author: "Epictetus, Discourses III, 20.11",
@@ -3484,6 +3492,11 @@ const quotes = [
     quote:
       "Leave me alone, I'm trying to build! Don't you know how people build? By concentrating!",
     author: "Paul Graham's 5 year old son, building Lego",
+  },
+  {
+    quote:
+      'Less is only more when you know what "more" is, and you can make the conscious decision of stepping back from that.',
+    author: "Jacob Collier",
   },
   {
     quote:
