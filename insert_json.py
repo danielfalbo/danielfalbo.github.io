@@ -1,6 +1,9 @@
 from bisect import insort
 from json import loads, dumps
-from tools import sorting_key
+
+
+def lower_alpha(string):
+    return ''.join(c.lower() for c in string if c.isalpha())
 
 
 class Quote:
@@ -9,7 +12,7 @@ class Quote:
         self.author = d['author']
 
     def __lt__(self, other):
-        return sorting_key(self.quote) < sorting_key(other.quote)
+        return lower_alpha(self.quote) < lower_alpha(other.quote)
 
     def __dict__(self):
         return {'quote': self.quote, 'author': self.author}
