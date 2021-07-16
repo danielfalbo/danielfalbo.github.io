@@ -5190,6 +5190,11 @@ const quotes = [
   },
   {
     quote:
+      "The best way to find something you love is by doing something you hate.",
+    author: "Casey Neistat",
+  },
+  {
+    quote:
       "The best way to learn to live with our limitations is to know them.",
     author: "E. W. Dijkstra, The humble programmer",
   },
@@ -5985,9 +5990,9 @@ const quotes = [
     author: "Ryan Holiday",
   },
   {
-    author: "Albert Einstein",
     quote:
       "The world will not be destroyed by evil, but by those who watch it and refuse to fix it.",
+    author: "Albert Einstein",
   },
   {
     quote:
